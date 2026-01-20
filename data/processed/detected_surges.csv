@@ -1,1001 +1,1001 @@
-date,state,district_x,pincode,total_updates,surge_multiplier,ASI,district_y
-2025-01-06,chhatisgarh,balrampur,497225,11210.0,90.2434714313764,11210.0,"balrampur, surajpur, surguja"
-2025-06-01,chhatisgarh,rajnandgaon,491888,9093.0,81.96835514653189,9093.0,"kawardha, rajnandgaon, khairagarhchhuikhadangandai, bemetara"
-2025-01-07,telangana,vikarabad,501141,3541.0,59.74690663667042,3541.0,"rangareddy, vikarabad, kvrangareddy, jayashankarbhupalpally"
-2025-01-06,chhatisgarh,rajnandgaon,491661,5853.0,58.47260357930865,5853.0,"rajnandgaon, balod, gariyaband"
-2025-01-07,chandigarh,chandigarh,160014,6135.0,57.91238049134697,6135.0,"chandigarh, rupnagar"
-2025-01-07,manipur,thoubal,795130,2824.0,54.22485419470615,2824.0,"imphaleast, imphalwest, thoubal, senapati"
-2025-01-03,bihar,bhagalpur,853204,5054.0,54.17600203372596,5054.0,"bhagalpur, madhepura, purnia, katihar, munger, banka"
-2025-01-07,punjab,sasnagarmohali,160103,1613.0,51.67649931627271,1613.0,"sasnagarmohali, rupnagar"
-2025-01-03,telangana,medchalmalkajgiri,500085,809.0,51.211704986563156,809.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-07,telangana,medchalmalkajgiri,500090,2723.0,51.17490148529858,6.69041769041769,"medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-06,chhatisgarh,rajnandgaon,491558,6612.0,51.155812701829916,6612.0,"rajnandgaon, gariyaband"
-2025-01-03,meghalaya,westkhasihills,793120,1440.0,51.03598691384951,1440.0,"westkhasihills, easternwestkhasihills, eastkhasihills, southwestkhasihills"
-2025-01-07,manipur,imphaleast,795008,4247.0,50.74304295220811,4247.0,"imphaleast, imphalwest, senapati"
-2025-01-03,jharkhand,palamu,822124,6612.0,50.06859688195991,6612.0,"garhwa, palamu"
-2025-01-03,jharkhand,palamu,822115,3436.0,50.02698863636363,3436.0,"garhwa, palamu"
-2025-01-03,rajasthan,bharatpur,321202,1885.0,49.774275979557075,1885.0,"bharatpur, deeg"
-2025-01-07,manipur,imphaleast,795149,2259.0,49.72702355460385,2259.0,"imphaleast, senapati, thoubal, ukhrul, bishnupur"
-2025-01-03,telangana,medchalmalkajgiri,500055,3242.0,49.52245142830772,3242.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-06-01,chhatisgarh,kondagaon,494226,16942.0,49.478365569360825,16942.0,"kondagaon, gariyaband, bastar"
-2025-01-03,punjab,ferozepur,152022,2204.0,48.7392391733579,2204.0,"fazilka, ferozepur, srimuktsarsahib"
-2025-01-03,jharkhand,hazaribagh,825406,4686.0,47.90167126399481,4686.0,"chatra, hazaribagh"
-2025-01-03,jharkhand,pakur,816104,3488.0,47.58616769303647,3488.0,"pakur, sahibganj, godda"
-2025-01-06,chhatisgarh,mohlamanpurambagarhchowki,491665,2775.0,47.58299890550894,2775.0,"balod, rajnandgaon, mohlamanpurambagarhchowki"
-2025-01-06,chhatisgarh,rajnandgaon,491885,5730.0,46.87375635640062,5730.0,"rajnandgaon, khairagarhchhuikhadangandai"
-2025-01-06,chhatisgarh,koriya,497335,6760.0,46.86768264765518,6760.0,"koriya, manendragarhchirmiribharatpur"
-2025-01-06,chhatisgarh,rajnandgaon,491444,5253.0,46.345043310875845,5253.0,"rajnandgaon, khairagarhchhuikhadangandai"
-2025-01-03,jharkhand,sahibganj,816102,4333.0,46.23978539001238,4333.0,"godda, pakur, sahibganj"
-2025-01-03,mizoram,saiha,796901,2216.0,46.20404858299595,2216.0,"lawngtlai, saiha"
-2025-01-03,uttarpradesh,moradabad,202411,3626.0,45.73494124161693,3626.0,"moradabad, rampur, sambhal"
-2025-01-07,westbengal,dakshindinajpur,733132,2742.0,44.6294952161003,2742.0,"dakshindinajpur, uttardinajpur"
-2025-01-03,bihar,begusarai,848201,4866.0,44.467362924281986,4866.0,"begusarai, khagaria"
-2025-01-06,telangana,medchalmalkajgiri,500090,2335.0,43.88299484692331,2335.0,"medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-06,assam,chirang,783372,1438.0,43.66534872687015,1438.0,"bongaigaon, chirang, kokrajhar"
-2025-01-03,telangana,karimnagar,505122,1414.0,43.46024191949237,1414.0,"karimnagar, hanumakonda"
-2025-01-07,gujarat,gandhinagar,382421,2073.0,43.301948558067025,2073.0,"ahmedabad, gandhinagar"
-2025-01-03,uttarpradesh,budaun,243638,5957.0,43.195560017849175,5957.0,"budaun, sambhal"
-2025-01-03,mizoram,aizawl,796261,1424.0,43.12917421692985,1424.0,"aizawl, champhai, saitual"
-2025-01-07,rajasthan,bharatpur,321204,4889.0,43.039222522444,4889.0,"bharatpur, deeg"
-2025-01-03,jharkhand,hazaribagh,825312,4725.0,42.68172194777699,4725.0,"bokaro, hazaribagh"
-2025-01-06,chhatisgarh,jashpur,496223,4024.0,42.60395390237046,4024.0,"jashpur, surguja"
-2025-01-03,rajasthan,jhalawar,326039,4536.0,42.57822277847309,4536.0,jhalawar
-2025-01-07,telangana,sangareddy,502032,2809.0,42.487728310502284,2809.0,"medak, sangareddy"
-2025-01-07,manipur,thoubal,795101,792.0,42.16432045047351,792.0,"chandel, churachandpur, thoubal, kakching, bishnupur"
-2025-01-03,assam,dhemaji,787058,852.0,41.89056304520222,852.0,"dhemaji, lakhimpur"
-2025-01-07,manipur,thoubal,795103,3884.0,41.83495360141406,3884.0,"chandel, kakching, thoubal, bishnupur, churachandpur"
-2025-07-01,assam,southsalmaramankachar,783135,2615.0,41.828919491525426,2615.0,"dhubri, southsalmaramankachar"
-2025-01-03,telangana,mahabubnagar,509320,838.0,41.68062827225131,838.0,"mahabubnagar, nagarkurnool, rangareddy, kvrangareddy"
-2025-01-07,telangana,hyderabad,500005,3740.0,41.59826738124954,3740.0,"hyderabad, rangareddy, kvrangareddy"
-2025-01-03,uttarpradesh,gorakhpur,273165,3493.0,41.32330572925469,3493.0,"gorakhpur, maharajganj, mahrajganj"
-2025-01-03,jharkhand,jamtara,814166,1419.0,41.292870505092495,1419.0,"dumka, jamtara, pakur"
-2025-01-06,chhatisgarh,jashpur,496118,4789.0,41.18241427496507,4789.0,"jashpur, raigarh, kanker, raigad"
-2025-01-04,delhi,northeastdelhi,110053,11871.0,41.107581660173814,11871.0,"eastdelhi, northeastdelhi, shahdara"
-2025-01-07,manipur,imphalwest,795132,3382.0,41.10622271676796,3382.0,"imphalwest, thoubal, kakching"
-2025-01-03,uttarpradesh,shrawasti,271845,3690.0,40.696391996218686,3690.0,"bahraich, shrawasti"
-2025-01-03,rajasthan,ajmer,305925,981.0,40.67287942183339,981.0,"ajmer, rajsamand"
-2025-01-07,chhatisgarh,narayanpur,494661,8257.0,40.58676997417312,8257.0,"narayanpur, kanker, gariyaband, kondagaon"
-2025-01-03,mizoram,champhai,796310,1391.0,40.51456310679611,1391.0,"champhai, serchhip, khawzawl"
-2025-01-03,telangana,mahabubnagar,509371,1052.0,40.40020212228398,1052.0,"mahabubnagar, rangareddy, narayanpet, nagarkurnool, kvrangareddy"
-2025-01-03,rajasthan,dungarpur,314024,1496.0,40.38565368299267,1496.0,dungarpur
-2025-01-03,rajasthan,banswara,327027,3783.0,40.09969516419565,3783.0,"banswara, pratapgarh"
-2025-01-03,mizoram,serchhip,796181,3033.0,40.09324758842444,3033.0,"lunglei, serchhip"
-2025-01-03,rajasthan,udaipur,313204,1204.0,39.915217391304346,1204.0,"rajsamand, udaipur"
-2025-01-03,jharkhand,chatra,825321,3329.0,39.908705274806344,3329.0,"chatra, hazaribagh"
-2025-01-04,delhi,northeastdelhi,110093,12602.0,39.9028559602649,12602.0,"northeastdelhi, shahdara, eastdelhi"
-2025-01-03,jharkhand,lohardaga,835213,2203.0,39.867483946293056,2203.0,"lohardaga, ranchi"
-2025-03-01,telangana,yadadribhuvanagiri,508252,2343.0,39.768665967388195,2343.0,"nalgonda, yadadribhuvanagiri"
-2025-07-01,telangana,kvrangareddy,509325,1257.0,39.723292739324805,1257.0,"mahabubnagar, rangareddy, kvrangareddy"
-2025-01-03,tamilnadu,ariyalur,621851,1501.0,39.533026755852845,1501.0,ariyalur
-2025-01-03,rajasthan,udaipur,313708,2390.0,39.494806421152035,2390.0,"udaipur, rajsamand"
-2025-01-03,bihar,gaya,824233,3066.0,39.388319119075895,3066.0,"gaya, jehanabad"
-2025-01-03,mizoram,mamit,796441,2479.0,39.299958281184814,2479.0,"aizawl, mamit"
-2025-01-03,rajasthan,udaipur,313206,603.0,39.28206850235057,603.0,"udaipur, rajsamand"
-2025-01-07,telangana,rangareddy,501218,1191.0,39.26071922544951,1191.0,"rangareddy, kvrangareddy"
-2025-01-03,uttarpradesh,maharajganj,273155,2690.0,39.1262636682484,2690.0,"gorakhpur, maharajganj, mahrajganj"
-2025-01-03,jharkhand,lohardaga,835302,8127.0,39.09146212067624,8127.0,"gumla, lohardaga, ranchi"
-2025-01-06,telangana,medchalmalkajgiri,500055,2558.0,39.0741612441737,2558.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-03,jharkhand,koderma,825418,2523.0,38.865211810012845,2523.0,"giridih, koderma"
-2025-01-04,jammuandkashmir,ramban,182144,1360.0,38.78901227352426,1360.0,"ramban, reasi, doda, udhampur"
-2025-01-03,tamilnadu,cuddalore,606104,1235.0,38.75134321942833,1235.0,"cuddalore, viluppuram, kallakurichi"
-2025-01-04,delhi,northeastdelhi,110094,30135.0,38.75042579282624,30135.0,"northeastdelhi, northwestdelhi, eastdelhi"
-2025-01-03,bihar,khagaria,848203,4471.0,38.69980327868853,4471.0,"begusarai, khagaria"
-2025-01-07,telangana,rangareddy,509216,1698.0,38.54098553451723,1698.0,"mahabubnagar, rangareddy, kvrangareddy"
-2025-01-06,chhatisgarh,mahasamund,493558,19505.0,38.540681823866336,19505.0,mahasamund
-2025-01-06,chhatisgarh,mahasamund,493449,18117.0,38.507439202804534,18117.0,mahasamund
-2025-01-03,rajasthan,dungarpur,314037,2282.0,38.50574173892665,2282.0,dungarpur
-2025-01-07,rajasthan,bharatpur,321024,3835.0,38.433205909701414,3835.0,"bharatpur, deeg"
-2025-01-03,karnataka,ballari,583134,942.0,38.328638497652584,942.0,"ballari, davanagere, vijayanagara"
-2025-01-03,rajasthan,bhilwara,311604,4105.0,38.29476617397625,4105.0,bhilwara
-2025-01-07,madhyapradesh,satna,485771,3617.0,38.2289447403462,3617.0,"satna, maihar"
-2025-01-03,andhrapradesh,ananthapuram,515122,953.0,38.19274809160305,953.0,"ananthapuram, srisathyasai"
-2025-01-07,telangana,mahabubnagar,509235,824.0,38.16956765861875,824.0,"mahabubnagar, nagarkurnool, wanaparthy"
-2025-01-03,rajasthan,rajsamand,313325,1696.0,37.88981975120589,1696.0,"rajsamand, udaipur"
-2025-01-03,jharkhand,dhanbad,828307,661.0,37.713703515028016,661.0,"dhanbad, bokaro"
-2025-01-07,manipur,imphaleast,795010,4042.0,37.67509986684421,4042.0,"imphaleast, senapati, ukhrul"
-2025-01-06,chhatisgarh,kondagaon,494347,2210.0,37.547193556506414,2210.0,"kondagaon, dhamtari, gariyaband"
-2025-01-04,jammuandkashmir,ganderbal,191131,1257.0,37.51390458964504,1257.0,"ganderbal, srinagar"
-2025-01-03,rajasthan,dungarpur,314404,3406.0,37.51101321585903,3406.0,dungarpur
-2025-01-03,bihar,madhepura,852112,4252.0,37.48835927813749,4252.0,"madhepura, supaul"
-2025-01-07,chhatisgarh,dantewada,494441,1768.0,37.48274743104381,1768.0,"bijapur, dantewada, bastar, vijayapura"
-2025-01-03,bihar,gopalganj,841420,1070.0,37.39475774424146,1070.0,"gopalganj, siwan"
-2025-03-01,jharkhand,dumka,814145,2752.0,37.36567360928025,2752.0,"dumka, godda"
-2025-01-03,rajasthan,banswara,327801,10423.0,37.29700193423597,10423.0,banswara
-2025-01-03,rajasthan,kota,325602,2590.0,37.288542291541695,2590.0,"kota, baran"
-2025-01-07,punjab,malerkotla,148023,4059.0,37.27543604651163,4059.0,"malerkotla, sangrur"
-2025-01-07,chhatisgarh,dantewada,494552,3494.0,37.18861386138614,3494.0,dantewada
-2025-01-03,tamilnadu,viluppuram,606204,682.0,37.17154331612163,682.0,"cuddalore, kallakurichi, viluppuram"
-2025-03-01,rajasthan,banswara,327031,5709.0,37.15184381778742,5709.0,banswara
-2025-01-03,telangana,rangareddy,500088,444.0,37.10375771172182,444.0,"rangareddy, hyderabad, kvrangareddy"
-2025-01-03,mizoram,champhai,796321,4720.0,37.08424268878219,4720.0,champhai
-2025-01-03,odisha,jajpur,755019,1824.0,37.06166219839142,1824.0,"jajpur, keonjhar"
-2025-01-03,rajasthan,karauli,322220,1275.0,37.05290611028316,1275.0,"karauli, sawaimadhopur"
-2025-01-03,rajasthan,rajsamand,313329,1514.0,37.007661437431594,1514.0,rajsamand
-2025-06-01,chhatisgarh,mahasamund,493445,13608.0,36.99516420064958,13608.0,"mahasamund, gariyaband, balod, raipur, balodabazar"
-2025-01-07,westbengal,birbhum,731221,2155.0,36.79452695591159,2155.0,"birbhum, murshidabad"
-2025-01-03,rajasthan,dungarpur,314401,2055.0,36.78257042253521,2055.0,dungarpur
-2025-01-03,jharkhand,eastsinghbhum,831002,6707.0,36.695654677916316,6707.0,"eastsinghbhum, seraikelakharsawan, westsinghbhum"
-2025-01-03,telangana,rangareddy,500032,845.0,36.66930630345265,845.0,"rangareddy, hyderabad, kvrangareddy"
-2025-01-03,assam,udalguri,784522,878.0,36.64205457463885,878.0,"udalguri, darrang"
-2025-01-03,telangana,medchalmalkajgiri,500037,1233.0,36.588353413654616,1233.0,"medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-03,jharkhand,koderma,825109,1788.0,36.4337752965806,1788.0,"hazaribagh, koderma"
-2025-01-03,meghalaya,westgarohills,794002,1128.0,36.395666509656145,1128.0,"northgarohills, westgarohills, eastgarohills"
-2025-01-03,rajasthan,jhalawar,326516,1872.0,36.380680194341245,1872.0,jhalawar
-2025-07-01,telangana,medchalmalkajgiri,500055,2381.0,36.37043702985832,2381.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-03,bihar,arwal,804421,1765.0,36.34456985967053,1765.0,"arwal, jehanabad, gaya"
-2025-01-07,chhatisgarh,korba,495449,3371.0,36.30586968228325,3371.0,"bilaspur, korba, gariyaband"
-2025-01-03,bihar,sitamarhi,843327,3415.0,36.27083640654964,3415.0,"sheohar, sitamarhi"
-2025-01-05,tamilnadu,thanjavur,614019,981.0,36.25565058032987,981.0,"thanjavur, thiruvarur"
-2025-01-03,uttarpradesh,sambhal,202522,4687.0,36.151472880938705,4687.0,"sambhal, budaun"
-2025-03-01,telangana,medchalmalkajgiri,500090,1921.0,36.10245528948166,1921.0,"medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-07,uttarpradesh,kanpurnagar,208001,10414.0,36.09791073124406,6.273493975903614,"kanpurdehat, kanpurnagar"
-2025-01-06,telangana,sangareddy,502032,2385.0,36.074486301369866,2385.0,"medak, sangareddy"
-2025-01-03,rajasthan,banswara,327604,2296.0,36.05750940057509,2296.0,banswara
-2025-01-03,andhrapradesh,visakhapatnam,531114,1362.0,35.996312231100184,1362.0,"anakapalli, visakhapatnam, allurisitharamaraju"
-2025-01-03,bihar,buxar,802134,1353.0,35.944822888283376,1353.0,"bhojpur, buxar"
-2025-01-05,karnataka,bengaluruurban,560087,1027.0,35.84811320754717,6.186746987951807,"bengalururural, bengaluruurban"
-2025-03-01,rajasthan,jhalawar,326512,3091.0,35.65530110262935,3091.0,"jhalawar, kota"
-2025-01-03,rajasthan,bhilwara,311603,3063.0,35.65497439081173,3063.0,bhilwara
-2025-01-07,madhyapradesh,jabalpur,483225,2648.0,35.590021272481145,2648.0,"jabalpur, katni"
-2025-06-01,chhatisgarh,balrampur,497220,5091.0,35.58162462392965,5091.0,"balrampur, surguja, surajpur"
-2025-01-03,gujarat,rajkot,360490,1247.0,35.51357509018416,1247.0,"rajkot, porbandar, jamnagar, junagadh"
-2025-03-01,meghalaya,southwestkhasihills,793106,825.0,35.50018389113645,825.0,"eastkhasihills, southwestkhasihills, westkhasihills, eastgarohills"
-2025-01-03,uttarpradesh,shrawasti,271835,2198.0,35.464712403005294,2198.0,"bahraich, shrawasti"
-2025-01-03,ladakh,kargil,194105,418.0,35.413888888888884,418.0,kargil
-2025-01-03,delhi,northeastdelhi,110053,10222.0,35.397329604102154,10222.0,"eastdelhi, northeastdelhi, shahdara"
-2025-01-03,telangana,yadadribhuvanagiri,508126,851.0,35.36623376623377,851.0,"nalgonda, yadadribhuvanagiri"
-2025-01-03,tamilnadu,kancheepuram,600100,1928.0,35.34781060875756,1928.0,"chengalpattu, chennai, kancheepuram"
-2025-01-07,punjab,ferozepur,152022,1597.0,35.31604580755562,1597.0,"fazilka, ferozepur, srimuktsarsahib"
-2025-01-03,rajasthan,udaipur,313706,2701.0,35.29820095044128,2701.0,"udaipur, pratapgarh"
-2025-01-03,rajasthan,dungarpur,314034,3019.0,35.17386628428034,3019.0,dungarpur
-2025-01-03,meghalaya,eastgarohills,794110,789.0,35.172289156626505,789.0,"eastgarohills, northgarohills"
-2025-01-03,bihar,muzaffarpur,847107,1516.0,35.156711173576944,1516.0,"darbhanga, muzaffarpur"
-2025-01-03,andhrapradesh,visakhapatnam,531030,1211.0,35.045016077170416,1211.0,"anakapalli, visakhapatnam, allurisitharamaraju"
-2025-01-03,jharkhand,dumka,814151,4224.0,34.99779054352629,4224.0,"dumka, deoghar"
-2025-01-03,bihar,gopalganj,841436,2578.0,34.93974258970359,2578.0,"gopalganj, siwan"
-2025-01-03,sikkim,westsikkim,737121,1054.0,34.86372056099497,1054.0,"southsikkim, westsikkim, namchi"
-2025-01-07,manipur,thoubal,795138,4328.0,34.8153515505066,4328.0,"imphaleast, thoubal, senapati"
-2025-01-03,uttarpradesh,amethi,227815,959.0,34.742533185840706,959.0,"amethi, sultanpur"
-2025-01-03,tamilnadu,tirunelveli,627751,2235.0,34.73684210526316,2235.0,"tenkasi, tirunelveli"
-2025-01-03,bihar,bhagalpur,813108,2047.0,34.6595798854233,2047.0,"banka, bhagalpur"
-2025-01-03,telangana,rangareddy,500050,771.0,34.64357594196115,771.0,"hyderabad, rangareddy, kvrangareddy"
-2025-01-03,assam,bongaigaon,783380,2400.0,34.64257659073056,2400.0,"bongaigaon, chirang"
-2025-01-07,assam,dhubri,783330,2499.0,34.54513823584728,2499.0,"dhubri, goalpara"
-2025-01-03,rajasthan,bharatpur,321022,3465.0,34.51750855302878,3465.0,"bharatpur, deeg"
-2025-01-07,punjab,pathankot,145023,1382.0,34.51575817641229,1382.0,"gurdaspur, pathankot"
-2025-03-01,rajasthan,bhilwara,311806,1826.0,34.512027491408936,1826.0,bhilwara
-2025-01-03,bihar,purnia,854304,6465.0,34.477373152521714,6465.0,"araria, purnia, madhepura, katihar"
-2025-01-03,jammuandkashmir,ganderbal,191201,1025.0,34.474311440677965,1025.0,"ganderbal, srinagar"
-2025-01-03,bihar,arwal,804423,950.0,34.467120181405896,950.0,"arwal, jehanabad, patna"
-2025-01-03,tamilnadu,tirunelveli,627755,588.0,34.44639718804921,588.0,"tirunelveli, tenkasi"
-2025-01-03,tamilnadu,viluppuram,606107,877.0,34.43829268292683,877.0,"cuddalore, kallakurichi, viluppuram"
-2025-01-07,telangana,rangareddy,500089,1981.0,34.41185166933596,1981.0,"rangareddy, kvrangareddy, hyderabad"
-2025-01-03,rajasthan,dungarpur,314036,2439.0,34.4035050224407,2439.0,"dungarpur, banswara"
-2025-01-03,bihar,khagaria,851204,4436.0,34.38212029516377,4436.0,"begusarai, khagaria"
-2025-01-03,madhyapradesh,tikamgarh,472246,1597.0,34.364778791530384,1597.0,"niwari, tikamgarh"
-2025-01-03,rajasthan,chittorgarh,312614,692.0,34.33721518987342,692.0,"chittorgarh, pratapgarh"
-2025-01-03,uttarpradesh,amethi,229305,1041.0,34.31313620940378,1041.0,"amethi, raebareli"
-2025-01-03,uttarpradesh,hathras,204216,1760.0,34.28401486988848,1760.0,"aligarh, hathras"
-2025-01-03,tamilnadu,tirunelveli,627758,971.0,34.25873400207541,971.0,"tenkasi, tirunelveli"
-2025-01-03,uttarpradesh,shrawasti,271803,1569.0,34.24404761904762,1569.0,"bahraich, shrawasti"
-2025-01-03,bihar,patna,804452,3367.0,34.17591112531969,3367.0,"jehanabad, patna"
-2025-01-07,manipur,bishnupur,795133,4858.0,34.08216848259368,4858.0,"bishnupur, churachandpur"
-2025-01-03,jharkhand,giridih,825412,8628.0,34.07941858015589,8628.0,giridih
-2025-01-05,karnataka,vijayanagara,583136,1264.0,34.054304356977475,1264.0,"ballari, vijayanagara, davanagere"
-2025-01-03,telangana,hyderabad,500008,3008.0,34.04671218109953,3008.0,"hyderabad, rangareddy, kvrangareddy"
-2025-01-03,jharkhand,giridih,825324,3856.0,33.90567545963229,3856.0,giridih
-2025-01-07,manipur,thoubal,795132,2788.0,33.8865017546863,2788.0,"imphalwest, thoubal, kakching"
-2025-01-03,tamilnadu,salem,636113,1242.0,33.78799249530957,1242.0,"salem, namakkal"
-2025-01-07,maharashtra,palghar,401208,4303.0,33.77805258347223,5.2668298653610774,"palghar, thane"
-2025-01-03,odisha,cuttack,754004,1244.0,33.77107477377361,1244.0,"cuttack, khordha, puri"
-2025-01-03,uttarpradesh,etah,207401,1468.0,33.73393778333594,1468.0,"etah, kasganj"
-2025-03-01,meghalaya,westkhasihills,793119,2025.0,33.68761552680222,2025.0,"southwestkhasihills, westkhasihills, easternwestkhasihills, eastkhasihills"
-2025-01-03,karnataka,haveri,581118,2995.0,33.65635405105438,2995.0,"haveri, gadag"
-2025-01-03,meghalaya,westjaintiahills,793150,2225.0,33.550376970527765,2225.0,"westjaintiahills, eastjaintiahills, eastgarohills"
-2025-01-03,jharkhand,koderma,825318,2915.0,33.53606514994829,2915.0,koderma
-2025-01-03,bihar,sitamarhi,843316,2495.0,33.52906806894537,2495.0,"sheohar, sitamarhi"
-2025-01-03,jharkhand,giridih,825320,3493.0,33.49080072557658,3493.0,giridih
-2025-01-03,andhrapradesh,eastgodavari,533464,692.0,33.47007943512798,692.0,"eastgodavari, drbrambedkarkonaseema, kakinada"
-2025-01-03,jharkhand,bokaro,825315,986.0,33.434626671014016,986.0,"bokaro, hazaribagh"
-2025-01-03,jammuandkashmir,reasi,182315,2399.0,33.36866075824717,2399.0,"reasi, udhampur, kishtwar"
-2025-01-07,manipur,bishnupur,795134,2698.0,33.36781687734882,2698.0,"bishnupur, imphalwest, senapati"
-2025-01-05,karnataka,ramanagar,562117,2881.0,33.360172344149724,2881.0,"ramanagar, bengalururural"
-2025-01-03,rajasthan,bhilwara,311804,3750.0,33.35567198732789,3750.0,bhilwara
-2025-01-03,jharkhand,sahibganj,816108,8382.0,33.29535398230088,8382.0,"sahibganj, deoghar"
-2025-01-03,bihar,jamui,811315,1551.0,33.29486760379209,1551.0,"jamui, lakhisarai, sheikhpura"
-2025-01-03,rajasthan,dungarpur,314035,2243.0,33.285986856052574,2243.0,dungarpur
-2025-07-01,telangana,suryapet,508246,1079.0,33.27790814616158,1079.0,"nalgonda, suryapet"
-2025-01-03,jharkhand,giridih,815312,8482.0,33.27595967621791,8482.0,giridih
-2025-01-03,telangana,rangareddy,509228,739.0,33.261047463175125,739.0,"mahabubnagar, rangareddy, kvrangareddy"
-2025-01-03,andhrapradesh,visakhapatnam,531116,2160.0,33.252084669660036,2160.0,"anakapalli, visakhapatnam, allurisitharamaraju"
-2025-01-03,meghalaya,southwestgarohills,794106,1548.0,33.24698991213798,1548.0,"southwestgarohills, westgarohills"
-2025-01-03,bihar,saharsa,852202,2100.0,33.1578947368421,2100.0,"madhepura, saharsa"
-2025-01-07,haryana,mewat,122107,3178.0,33.084886429819456,3178.0,"mewat, rewari, gurgaon"
-2025-01-03,telangana,yadadribhuvanagiri,508285,489.0,33.052372426141446,489.0,"nalgonda, yadadribhuvanagiri"
-2025-01-03,rajasthan,jhalawar,326501,687.0,33.017195767195766,687.0,"jhalawar, kota"
-2025-03-01,rajasthan,chittorgarh,312901,2713.0,32.98881322957199,2713.0,chittorgarh
-2025-01-03,maharashtra,pune,412210,1570.0,32.95595320027529,1570.0,"pune, ahmednagar"
-2025-01-06,tamilnadu,ariyalur,621704,1822.0,32.94605683026896,1822.0,"ariyalur, perambalur"
-2025-01-03,rajasthan,jhalawar,326021,1619.0,32.94337953406075,1619.0,jhalawar
-2025-01-03,westbengal,northtwentyfourparganas,743425,2605.0,32.90031574199369,2605.0,"northtwentyfourparganas, southtwentyfourparganas"
-2025-01-03,rajasthan,pratapgarh,313605,4479.0,32.88429898275099,4479.0,"pratapgarh, udaipur"
-2025-01-03,assam,biswanath,784169,255.0,32.86536248561565,255.0,"biswanath, sonitpur"
-2025-01-06,chhatisgarh,rajnandgaon,491441,15038.0,32.8349922018999,15038.0,rajnandgaon
-2025-01-03,uttarpradesh,meerut,250626,820.0,32.77885235332044,820.0,"baghpat, meerut"
-2025-01-03,telangana,jayashankarbhupalpally,506348,604.0,32.776605366294845,604.0,"jayashankarbhupalpally, warangal"
-2025-01-03,bihar,katihar,854317,9776.0,32.76712328767123,9776.0,"katihar, purnia"
-2025-01-03,rajasthan,chittorgarh,312027,1105.0,32.75267249757045,1105.0,chittorgarh
-2025-01-03,rajasthan,banswara,327608,786.0,32.75,786.0,banswara
-2025-01-03,telangana,rangareddy,500030,618.0,32.73217854763491,618.0,"rangareddy, kvrangareddy"
-2025-01-07,karnataka,bengaluruurban,560049,2052.0,32.73128834355828,2052.0,"bengalururural, bengaluruurban"
-2025-01-06,telangana,rangareddy,500049,1801.0,32.730195712954334,1801.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-03,tamilnadu,tiruvannamalai,604407,1518.0,32.72078968573731,1518.0,"tiruvannamalai, vellore"
-2025-01-07,chhatisgarh,mungeli,495115,6812.0,32.69174749135819,6812.0,"bilaspur, mungeli, balodabazar"
-2025-01-03,chhatisgarh,rajnandgaon,491888,3623.0,32.65933692905367,3623.0,"kawardha, rajnandgaon, khairagarhchhuikhadangandai, bemetara"
-2025-01-03,telangana,mulugu,506347,518.0,32.65652173913043,518.0,"mulugu, warangal"
-2025-01-03,bihar,muzaffarpur,844120,1943.0,32.622410097642295,1943.0,"muzaffarpur, vaishali"
-2025-01-03,rajasthan,sawaimadhopur,322219,1140.0,32.601476014760145,1140.0,"karauli, sawaimadhopur"
-2025-01-03,mizoram,aizawl,796012,1238.0,32.54002389486261,1238.0,aizawl
-2025-01-03,rajasthan,ajmer,305922,833.0,32.465941011235955,833.0,"ajmer, rajsamand"
-2025-01-03,jharkhand,pakur,816106,5747.0,32.42443781736117,5747.0,pakur
-2025-01-03,andhrapradesh,ananthapuram,515303,340.0,32.41379310344828,340.0,"ananthapuram, srisathyasai"
-2025-01-03,telangana,mahabubnagar,509382,1412.0,32.395935758767614,1412.0,"mahabubnagar, wanaparthy"
-2025-01-03,uttarpradesh,sonbhadra,231210,4929.0,32.37180386405662,4929.0,"mirzapur, sonbhadra"
-2025-01-03,bihar,araria,854333,5918.0,32.3636879202787,5918.0,"araria, kishanganj"
-2025-01-03,assam,karbianglong,782485,833.0,32.3310502283105,833.0,"karbianglong, westkarbianglong"
-2025-01-03,andhrapradesh,ananthapuram,515671,2417.0,32.31226206285967,2417.0,"ananthapuram, srisathyasai"
-2025-01-07,manipur,imphaleast,795114,2065.0,32.29688581314879,2065.0,"imphaleast, senapati"
-2025-06-01,telangana,vikarabad,501141,1913.0,32.277840269966255,1913.0,"rangareddy, vikarabad, kvrangareddy, jayashankarbhupalpally"
-2025-01-03,andhrapradesh,ananthapuram,515281,682.0,32.26886969583177,682.0,"ananthapuram, srisathyasai"
-2025-01-03,rajasthan,dholpur,328022,5076.0,32.25567703952901,5076.0,"dholpur, bharatpur"
-2025-01-03,rajasthan,udaipur,313703,2760.0,32.2256152326208,2760.0,udaipur
-2025-01-03,assam,baksa,781360,767.0,32.206422018348626,767.0,"baksa, tamulpur"
-2025-01-03,mizoram,lawngtlai,796770,1289.0,32.18174496644295,1289.0,"lawngtlai, lunglei"
-2025-01-06,chhatisgarh,bilaspur,495224,5725.0,32.17296284733062,5725.0,"bilaspur, mungeli, janjgirchampa, bemetara"
-2025-01-07,odisha,cuttack,754004,1182.0,32.0879504683283,1182.0,"cuttack, khordha, puri"
-2025-01-03,westbengal,northtwentyfourparganas,700036,516.0,32.0566757493188,516.0,"northtwentyfourparganas, kolkata"
-2025-01-03,rajasthan,jhalawar,326037,5482.0,32.0432859399684,5482.0,jhalawar
-2025-01-03,bihar,madhubani,847102,1619.0,32.04178119846069,1619.0,"darbhanga, madhubani"
-2025-01-03,uttarpradesh,bahraich,271855,5745.0,32.03254668049792,5745.0,"bahraich, kheri, shrawasti"
-2025-01-03,andhrapradesh,ananthapuram,515154,362.0,32.01551590380139,362.0,"ananthapuram, srisathyasai"
-2025-01-03,bihar,patna,803213,2842.0,32.0125156445557,2842.0,"nalanda, patna"
-2025-01-03,jharkhand,giridih,825322,4593.0,32.004034106537084,4593.0,"giridih, bokaro"
-2025-01-03,punjab,fazilka,152132,932.0,31.99019307385841,932.0,"fazilka, ferozepur"
-2025-01-03,mizoram,aizawl,796001,3139.0,31.97840260798696,3139.0,aizawl
-2025-01-03,telangana,mahabubnagar,509409,478.0,31.961669505962522,478.0,"mahabubnagar, narayanpet"
-2025-01-03,bihar,gopalganj,841438,3593.0,31.946240358005063,3593.0,"gopalganj, siwan"
-2025-01-03,bihar,katihar,854114,2415.0,31.945807552805633,2415.0,"katihar, purnia"
-2025-01-03,bihar,sitamarhi,843328,2056.0,31.94516165885982,2056.0,"muzaffarpur, sitamarhi"
-2025-01-03,tamilnadu,thanjavur,614902,1036.0,31.922256458876507,1036.0,"pudukkottai, thanjavur"
-2025-01-03,westbengal,southtwentyfourparganas,700063,639.0,31.918081918081917,639.0,"southtwentyfourparganas, kolkata"
-2025-03-01,telangana,kvrangareddy,509321,971.0,31.910798122065728,971.0,"mahabubnagar, rangareddy, kvrangareddy"
-2025-01-04,andhrapradesh,kurnool,518221,1449.0,31.88178258437442,1449.0,"kurnool, nandyal"
-2025-01-03,rajasthan,rajsamand,313334,1811.0,31.85389305816135,1811.0,rajsamand
-2025-01-03,jharkhand,giridih,815314,5522.0,31.850036049026677,5522.0,giridih
-2025-01-03,tamilnadu,tiruvannamalai,632102,668.0,31.84808080808081,668.0,"tiruvannamalai, vellore"
-2025-01-03,bihar,siwan,841227,2019.0,31.839048811013768,2019.0,"gopalganj, siwan"
-2025-01-03,uttarpradesh,sambhal,202421,5845.0,31.81967874185093,5845.0,"sambhal, budaun"
-2025-01-07,telangana,hyderabad,500064,3399.0,31.81177694007539,4.041617122473246,hyderabad
-2025-01-07,telangana,karimnagar,505001,3966.0,31.80998008289821,3966.0,karimnagar
-2025-01-03,jharkhand,dhanbad,828203,1547.0,31.80747663551402,1547.0,dhanbad
-2025-01-03,rajasthan,dungarpur,314027,1953.0,31.742975206611572,1953.0,dungarpur
-2025-01-03,telangana,hyderabad,500015,1037.0,31.717206411514557,1037.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-03,jharkhand,giridih,815315,2285.0,31.692094313453538,2285.0,giridih
-2025-01-03,uttarpradesh,jalaun,285205,2554.0,31.666701691709573,2554.0,"jalaun, jhansi"
-2025-03-01,rajasthan,jhalawar,326035,1335.0,31.666666666666668,1335.0,jhalawar
-2025-01-03,telangana,rangareddy,500097,1271.0,31.661149974407095,1271.0,"rangareddy, kvrangareddy"
-2025-01-03,tripura,sepahijala,799102,3643.0,31.59327427002745,3643.0,"sepahijala, westtripura"
-2025-01-03,punjab,fazilka,152024,3370.0,31.577538317381702,3370.0,"fazilka, ferozepur"
-2025-01-07,madhyapradesh,ashoknagar,473331,4971.0,31.557000799076622,4971.0,"ashoknagar, guna"
-2025-01-07,chhatisgarh,dantewada,494449,4741.0,31.51187484801816,4741.0,"dantewada, bastar"
-2025-03-01,rajasthan,chittorgarh,312601,2568.0,31.510854745673832,2568.0,"chittorgarh, pratapgarh"
-2025-01-03,karnataka,ballari,583216,561.0,31.5,561.0,"ballari, vijayanagara"
-2025-01-06,telangana,rangareddy,500052,1602.0,31.496530454895915,1602.0,"rangareddy, kvrangareddy"
-2025-01-03,uttarpradesh,kanpurdehat,209208,825.0,31.474875930521094,825.0,"kanpurdehat, kanpurnagar"
-2025-01-03,bihar,madhubani,847234,2091.0,31.459119496855344,2091.0,"darbhanga, madhubani"
-2025-01-03,assam,biswanath,784168,719.0,31.45773947630096,719.0,"biswanath, sonitpur, darrang"
-2025-01-03,jharkhand,hazaribagh,825323,3937.0,31.447082316396717,3937.0,hazaribagh
-2025-01-03,rajasthan,banswara,327022,2986.0,31.417200365965233,2986.0,banswara
-2025-01-07,chhatisgarh,surguja,497001,6976.0,31.407550567720115,6976.0,"balrampur, surajpur, surguja"
-2025-01-03,uttarpradesh,bulandshahr,203131,6423.0,31.39734636871508,6423.0,"bulandshahr, gautambuddhanagar"
-2025-01-03,tamilnadu,cuddalore,607104,524.0,31.393057110862262,524.0,"cuddalore, viluppuram, kallakurichi"
-2025-01-03,bihar,munger,811212,1606.0,31.380321004884856,1606.0,"munger, lakhisarai"
-2025-01-07,chandigarh,chandigarh,160019,2303.0,31.35436241610738,2303.0,chandigarh
-2025-01-03,tamilnadu,kancheepuram,603307,466.0,31.354079058031957,466.0,"kancheepuram, chengalpattu"
-2025-01-03,odisha,balangir,767020,927.0,31.310904255319148,927.0,"balangir, sonepur"
-2025-01-07,telangana,rangareddy,500019,1472.0,31.28267831149927,1472.0,"rangareddy, kvrangareddy"
-2025-01-07,madhyapradesh,khandwa,450661,1888.0,31.252831503746297,4.113289760348584,"burhanpur, khandwa, khargone, barwani"
-2025-01-07,manipur,imphalwest,795003,1989.0,31.228874138371204,1989.0,"imphaleast, imphalwest"
-2025-01-03,telangana,jayashankarbhupalpally,506356,728.0,31.222679912769564,728.0,"jayashankarbhupalpally, warangal"
-2025-01-03,bihar,munger,813212,926.0,31.21853019645889,926.0,"banka, munger"
-2025-01-07,punjab,fazilka,152116,4818.0,31.2129963898917,4818.0,"fazilka, ferozepur"
-2025-01-05,delhi,northeastdelhi,110053,9010.0,31.200346285752342,9010.0,"eastdelhi, northeastdelhi, shahdara"
-2025-01-03,jharkhand,hazaribagh,825413,595.0,31.187551187551186,595.0,"hazaribagh, koderma"
-2025-01-03,maharashtra,palghar,401203,1582.0,31.179440937781784,1582.0,"palghar, thane, mumbaicity"
-2025-01-03,mizoram,saiha,796911,1193.0,31.169827222924567,1193.0,saiha
-2025-01-03,uttarpradesh,kanpurnagar,209202,3002.0,31.167318687932593,3002.0,"kanpurdehat, kanpurnagar"
-2025-01-03,westbengal,kolkata,700024,1724.0,31.1549203219977,1724.0,"kolkata, southtwentyfourparganas"
-2025-01-03,mizoram,aizawl,796017,2249.0,31.123057270598252,2249.0,"aizawl, saitual, mamit"
-2025-07-01,telangana,kvrangareddy,500049,1710.0,31.07642124883504,1710.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-03-01,rajasthan,baran,325219,1812.0,31.024525682554373,1812.0,baran
-2025-01-03,bihar,sitamarhi,843319,1343.0,31.016730314602654,1343.0,"madhubani, sitamarhi"
-2025-01-03,mizoram,aizawl,796007,1049.0,31.012031625988314,1049.0,"aizawl, kolasib"
-2025-01-03,mizoram,kolasib,796101,1049.0,30.974409448818896,1049.0,"kolasib, lunglei"
-2025-01-07,manipur,bishnupur,795126,2273.0,30.97433568021803,2273.0,"bishnupur, tamenglong, senapati, churachandpur"
-2025-01-03,delhi,southdelhi,110016,575.0,30.97306689834926,575.0,"southdelhi, southwestdelhi"
-2025-01-05,uttarakhand,udhamsinghnagar,244713,7189.0,30.965155898424943,7189.0,"nainital, udhamsinghnagar"
-2025-01-04,andhrapradesh,eastgodavari,533464,640.0,30.954986760812,640.0,"eastgodavari, drbrambedkarkonaseema, kakinada"
-2025-01-07,westbengal,uttardinajpur,733215,3700.0,30.945971928475295,3700.0,uttardinajpur
-2025-01-03,uttarpradesh,mau,276129,1810.0,30.922808330215737,1810.0,"azamgarh, mau"
-2025-01-03,tamilnadu,tirunelveli,627806,887.0,30.879660087719298,887.0,"tenkasi, tirunelveli"
-2025-01-03,telangana,rangareddy,500077,723.0,30.86966292134831,723.0,"rangareddy, kvrangareddy"
-2025-01-03,jharkhand,bokaro,828134,6695.0,30.865989657965233,6695.0,"bokaro, dhanbad"
-2025-07-01,chhatisgarh,balrampur,497224,2427.0,30.85714285714286,2427.0,"balrampur, surguja"
-2025-01-04,delhi,southdelhi,110025,6744.0,30.84146341463415,6744.0,"southdelhi, southeastdelhi"
-2025-01-03,rajasthan,jhalawar,326034,2131.0,30.837365010799136,2131.0,jhalawar
-2025-01-03,rajasthan,dausa,303507,760.0,30.833597464342315,760.0,"dausa, jaipur"
-2025-01-05,madhyapradesh,chhindwara,480106,1710.0,30.81314354936402,1710.0,"chhindwara, pandhurna"
-2025-01-03,rajasthan,udaipur,313704,1673.0,30.791411042944784,1673.0,"udaipur, rajsamand"
-2025-01-03,westbengal,dakshindinajpur,733124,2582.0,30.772516397376418,2582.0,"dakshindinajpur, malda"
-2025-01-03,telangana,rangareddy,500048,1698.0,30.770386740331492,1698.0,"rangareddy, kvrangareddy"
-2025-01-06,chhatisgarh,kanker,494333,1328.0,30.761433379528807,1328.0,"kanker, dhamtari, narayanpur"
-2025-01-03,karnataka,vijayapura,586125,614.0,30.759921925829534,614.0,"bagalkot, bijapur, vijayapura"
-2025-01-07,manipur,imphaleast,795005,5299.0,30.68001304737829,5299.0,imphaleast
-2025-01-03,rajasthan,udaipur,313203,1809.0,30.645277207392198,1809.0,udaipur
-2025-01-03,jharkhand,deoghar,814113,1212.0,30.610541727672032,1212.0,deoghar
-2025-01-04,andhrapradesh,visakhapatnam,531116,1988.0,30.60423348300192,1988.0,"anakapalli, visakhapatnam, allurisitharamaraju"
-2025-01-06,chhatisgarh,balod,491222,1973.0,30.591075255262826,1973.0,"balod, durg"
-2025-01-03,rajasthan,ajmer,305901,4778.0,30.58531706341268,4778.0,"ajmer, rajsamand"
-2025-01-03,tripura,southtripura,799104,1407.0,30.572077185017026,1407.0,"gomati, southtripura"
-2025-03-01,rajasthan,dungarpur,314804,2047.0,30.56585691999108,2047.0,dungarpur
-2025-01-07,telangana,rangareddy,501501,1371.0,30.56277602523659,1371.0,"rangareddy, vikarabad, kvrangareddy"
-2025-01-07,tamilnadu,tiruvallur,600095,2070.0,30.55541656242182,2070.0,"tiruvallur, chennai"
-2025-01-03,uttarpradesh,firozabad,283152,468.0,30.553367875647666,468.0,firozabad
-2025-01-03,jharkhand,giridih,825108,3616.0,30.553094313770266,3616.0,giridih
-2025-03-01,rajasthan,baran,325220,5381.0,30.541033900905045,5381.0,baran
-2025-01-03,rajasthan,chittorgarh,312023,3314.0,30.5033413188753,3314.0,chittorgarh
-2025-01-03,tamilnadu,thanjavur,614614,948.0,30.477157360406093,948.0,"pudukkottai, thanjavur"
-2025-01-03,uttarpradesh,balrampur,271201,4670.0,30.45219087086355,4670.0,"balrampur, shrawasti"
-2025-01-03,andhrapradesh,guntur,522660,804.0,30.44356292823657,804.0,"guntur, palnadu"
-2025-01-03,tamilnadu,madurai,625009,3342.0,30.424563436232724,3342.0,"madurai, sivaganga"
-2025-01-03,jharkhand,ranchi,835234,1164.0,30.41254125412541,1164.0,"gumla, khunti, ranchi"
-2025-01-03,bihar,sheikhpura,811102,652.0,30.389830508474578,652.0,"nalanda, sheikhpura"
-2025-01-07,telangana,hyderabad,500018,2051.0,30.384561720288904,2051.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-03,rajasthan,jalor,343041,7199.0,30.380275085964364,7199.0,jalor
-2025-01-07,madhyapradesh,khargone,451001,6145.0,30.348985001997313,10.558419243986254,"khandwa, khargone"
-2025-01-03,uttarpradesh,kasganj,207246,1515.0,30.334248344905536,1515.0,"etah, kasganj"
-2025-01-03,uttarpradesh,kheri,262903,3826.0,30.322801756452822,3826.0,kheri
-2025-01-03,rajasthan,jalor,343032,2244.0,30.318933333333337,2244.0,jalor
-2025-01-03,tamilnadu,tirunelveli,627859,848.0,30.31255539143279,848.0,"tenkasi, tirunelveli"
-2025-01-03,uttarpradesh,aligarh,202170,802.0,30.284318080852955,802.0,"aligarh, hathras"
-2025-01-03,andhrapradesh,ananthapuram,515241,525.0,30.28301886792453,525.0,"ananthapuram, srisathyasai"
-2025-01-03,tamilnadu,krishnagiri,635109,3898.0,30.274079988386443,3898.0,"dharmapuri, krishnagiri"
-2025-01-03,andhrapradesh,ananthapuram,515301,962.0,30.272727272727273,962.0,"ananthapuram, srisathyasai"
-2025-01-03,uttarpradesh,fatehpur,212655,5660.0,30.241598265448353,5660.0,fatehpur
-2025-03-01,telangana,wanaparthy,509104,989.0,30.173465829846585,989.0,"mahabubnagar, wanaparthy"
-2025-01-03,gujarat,dahod,389172,1321.0,30.15909634233803,1321.0,"dahod, mahisagar, panchmahal"
-2025-01-03,uttarpradesh,jhansi,284306,687.0,30.151251360174104,687.0,"jalaun, jhansi"
-2025-07-01,assam,hojai,782446,1714.0,30.142712629367367,1714.0,"hojai, karbianglong, nagaon, westkarbianglong"
-2025-01-03,bihar,bhagalpur,853203,1476.0,30.10982255134833,1476.0,"bhagalpur, khagaria"
-2025-01-03,bihar,vaishali,844112,1316.0,30.099110546378654,1316.0,"muzaffarpur, vaishali"
-2025-01-03,westbengal,northtwentyfourparganas,700028,922.0,30.0920278223649,922.0,"northtwentyfourparganas, kolkata, bankura"
-2025-01-03,assam,golaghat,785611,775.0,30.077086656034027,775.0,golaghat
-2025-01-03,telangana,mulugu,506344,447.0,30.053617021276597,447.0,"mulugu, warangal, jayashankarbhupalpally"
-2025-01-05,andhrapradesh,westgodavari,534318,771.0,30.0489673550966,771.0,"eastgodavari, westgodavari, eluru"
-2025-01-07,chandigarh,chandigarh,160030,1048.0,30.018534119629315,1048.0,chandigarh
-2025-01-03,tamilnadu,kancheepuram,603103,1211.0,29.97780623132736,1211.0,"kancheepuram, chengalpattu"
-2025-01-03,tamilnadu,tirunelveli,627855,1189.0,29.956679354721768,1189.0,"tenkasi, tirunelveli"
-2025-01-03,mizoram,champhai,796290,1097.0,29.906612529002324,1097.0,"champhai, saitual"
-2025-01-03,rajasthan,bharatpur,321023,2221.0,29.90055008685582,2221.0,"bharatpur, deeg"
-2025-01-06,chhatisgarh,rajnandgaon,491229,3686.0,29.882815378946077,3686.0,"mohlamanpurambagarhchowki, rajnandgaon"
-2025-01-03,westbengal,paschimbardhaman,713148,1173.0,29.881889763779526,1173.0,"paschimbardhaman, purbabardhaman"
-2025-01-03,rajasthan,baran,325223,1478.0,29.873426110006626,1478.0,baran
-2025-01-03,telangana,rangareddy,501359,1144.0,29.869982238010653,1144.0,"rangareddy, kvrangareddy"
-2025-01-07,telangana,rangareddy,509335,645.0,29.84328358208955,645.0,"rangareddy, vikarabad, mahabubnagar, kvrangareddy"
-2025-01-03,andhrapradesh,chittoor,517194,660.0,29.821640903686088,660.0,"chittoor, tirupati"
-2025-01-03,rajasthan,dholpur,328024,3656.0,29.80855569673867,3656.0,dholpur
-2025-01-04,telangana,rangareddy,500049,1637.0,29.749767008387696,1637.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
-2025-01-03,westbengal,southtwentyfourparganas,700104,1115.0,29.720383275261323,1115.0,"kolkata, southtwentyfourparganas"
-2025-01-03,tamilnadu,coimbatore,641302,975.0,29.720062208398133,975.0,"coimbatore, erode"
-2025-01-03,uttarpradesh,hapur,245101,8445.0,29.71094264248587,8445.0,"ghaziabad, hapur, gautambuddhanagar"
-2025-01-06,tamilnadu,ariyalur,621705,1367.0,29.707752189425886,1367.0,ariyalur
-2025-01-03,karnataka,yadgir,585309,883.0,29.707056892778994,883.0,"kalaburagi, yadgir"
-2025-01-03,jharkhand,giridih,825106,2300.0,29.706905116741183,2300.0,"giridih, bokaro"
-2025-03-01,rajasthan,banswara,327034,3098.0,29.705669816564757,3098.0,banswara
-2025-01-03,assam,sonitpur,784110,1216.0,29.69086548942664,1216.0,"sonitpur, udalguri"
-2025-01-07,westbengal,murshidabad,742202,6259.0,29.684094852515905,6259.0,"murshidabad, malda"
-2025-01-03,rajasthan,udaipur,313001,5792.0,29.66288131819194,5792.0,"rajsamand, udaipur, pratapgarh"
-2025-01-04,andhrapradesh,westgodavari,507114,746.0,29.6415828738242,746.0,"eluru, khammam, westgodavari"
-2025-01-05,maharashtra,palghar,401209,4350.0,29.64121818940342,13.102409638554217,"palghar, thane, mumbaicity"
-2025-01-03,telangana,jayashankarbhupalpally,506168,388.0,29.612265758091993,388.0,"jayashankarbhupalpally, warangal, karimnagar, mulugu"
-2025-01-03,rajasthan,kota,325204,2360.0,29.56549318109737,2360.0,kota
-2025-01-03,telangana,rangareddy,500052,1503.0,29.55011565150347,1503.0,"rangareddy, kvrangareddy"
-2025-06-01,chhatisgarh,jashpur,496225,3717.0,29.542630057803468,3717.0,jashpur
-2025-01-06,chhatisgarh,mahasamund,493551,3278.0,29.502,3278.0,"balodabazar, mahasamund"
-2025-03-01,rajasthan,banswara,327606,1519.0,29.49514563106796,1519.0,banswara
-2025-01-03,uttarpradesh,pratapgarh,230501,872.0,29.493546951490877,872.0,"pratapgarh, amethi"
-2025-01-03,telangana,rangareddy,500075,1054.0,29.491484184914842,1054.0,"rangareddy, kvrangareddy"
-2025-01-03,uttarpradesh,bulandshahr,203141,746.0,29.488835244417622,746.0,"bulandshahr, gautambuddhanagar"
-2025-01-03,tamilnadu,kancheepuram,603306,712.0,29.481861487724444,712.0,"chengalpattu, kancheepuram"
-2025-01-07,telangana,hyderabad,500028,3250.0,29.478015377222487,4.098360655737705,hyderabad
-2025-01-03,andhrapradesh,westgodavari,534451,782.0,29.460518384569017,782.0,"westgodavari, eluru"
-2025-01-03,bihar,sheohar,843334,2439.0,29.375801104972375,2439.0,"sheohar, sitamarhi"
-2025-01-03,andhrapradesh,visakhapatnam,531149,2300.0,29.371962260554657,2300.0,"allurisitharamaraju, visakhapatnam"
-2025-01-03,jharkhand,palamu,822118,5364.0,29.348484848484848,5364.0,"palamu, garhwa"
-2025-01-03,tamilnadu,ariyalur,621715,2245.0,29.33251278167014,2245.0,ariyalur
-2025-01-03,uttarpradesh,mau,276405,1017.0,29.312030075187966,1017.0,"azamgarh, mau"
-2025-01-03,maharashtra,palghar,401208,3733.0,29.30361847411151,3733.0,"palghar, thane"
-2025-01-03,telangana,hyderabad,500054,1185.0,29.29945054945055,1185.0,hyderabad
-2025-01-03,tamilnadu,dharmapuri,636906,1691.0,29.277764036606477,1691.0,dharmapuri
-2025-01-03,uttarpradesh,raebareli,229402,1249.0,29.26358311452232,1249.0,"raebareli, amethi"
-2025-01-03,westbengal,jalpaiguri,735217,775.0,29.245283018867923,775.0,"alipurduar, jalpaiguri, coochbehar"
-2025-01-07,telangana,nizamabad,503224,1831.0,29.230389341908808,1831.0,nizamabad
-2025-01-03,jharkhand,giridih,815301,4535.0,29.22964859615045,4535.0,giridih
-2025-01-03,uttarpradesh,bulandshahr,203205,2900.0,29.207648123377133,2900.0,"bulandshahr, gautambuddhanagar"
-2025-01-03,tamilnadu,viluppuram,606207,1731.0,29.187040828616162,1731.0,"kallakurichi, viluppuram"
-2025-01-07,rajasthan,udaipur,313011,1417.0,29.16481749477408,1417.0,"rajsamand, udaipur"
-2025-01-03,westbengal,kolkata,700105,553.0,29.153463980126965,553.0,"kolkata, northtwentyfourparganas, southtwentyfourparganas"
-2025-01-03,telangana,yadadribhuvanagiri,508113,570.0,29.152542372881356,570.0,"nalgonda, yadadribhuvanagiri"
-2025-01-03,uttarpradesh,sambhal,202412,2681.0,29.126913580246914,2681.0,"sambhal, moradabad, agra"
-2025-01-03,tamilnadu,tirunelveli,627756,1407.0,29.1119257086999,1407.0,"tenkasi, tirunelveli"
-2025-01-03,bihar,sheikhpura,811103,1028.0,29.10103567318757,1028.0,"nalanda, sheikhpura"
-2025-01-03,rajasthan,kota,325004,2292.0,29.09337506520605,2292.0,"kota, baran"
-2025-01-03,rajasthan,dholpur,328041,1900.0,29.041980624327234,1900.0,dholpur
-2025-01-03,telangana,medak,502313,1018.0,28.99757575757576,1018.0,"medak, sangareddy"
-2025-01-03,odisha,jagatsinghpur,754141,1822.0,28.975311387900355,1822.0,"jagatsinghpur, kendrapara"
-2025-01-06,telangana,rangareddy,500070,1760.0,28.959103374269702,1760.0,"rangareddy, kvrangareddy"
-2025-01-03,jammuandkashmir,budgam,191111,5761.0,28.943137702671844,5761.0,budgam
-2025-01-06,madhyapradesh,khandwa,450661,1748.0,28.935354591392226,1748.0,"burhanpur, khandwa, khargone, barwani"
-2025-01-03,rajasthan,chittorgarh,312620,1119.0,28.92330508474576,1119.0,chittorgarh
-2025-01-06,telangana,hyderabad,500005,2599.0,28.907459070552825,2599.0,"hyderabad, rangareddy, kvrangareddy"
-2025-01-03,telangana,karimnagar,505467,591.0,28.863149647427527,591.0,"karimnagar, siddipet"
-2025-01-03,andhrapradesh,ananthapuram,515501,590.0,28.850317282568124,590.0,"ananthapuram, srisathyasai"
-2025-03-01,rajasthan,dungarpur,314801,2968.0,28.850066577896136,2968.0,dungarpur
-2025-01-03,gujarat,dahod,389380,2091.0,28.844304696216653,2091.0,"dahod, panchmahal"
-2025-01-03,madhyapradesh,umaria,484661,4894.0,28.842769943169863,4894.0,"umaria, shahdol"
-2025-01-03,tamilnadu,kancheepuram,603210,542.0,28.81989708404803,542.0,"chengalpattu, kancheepuram"
-2025-01-03,meghalaya,southgarohills,794102,676.0,28.798206278026907,676.0,southgarohills
-2025-01-03,rajasthan,rajsamand,313322,725.0,28.750826173165898,725.0,"rajsamand, udaipur"
-2025-01-03,chhatisgarh,rajnandgaon,491668,1988.0,28.716875871687588,1988.0,"mohlamanpurambagarhchowki, rajnandgaon, durg"
-2025-03-01,telangana,komarambheemasifabad,504293,1195.0,28.703795892968262,1195.0,"adilabad, komarambheemasifabad, jagitial, bhadradrikothagudem"
-2025-01-03,jharkhand,ramgarh,829110,3610.0,28.69812099938055,3610.0,"ramgarh, hazaribagh"
-2025-01-03,gujarat,porbandar,360590,770.0,28.665977249224404,770.0,"devbhumidwarka, porbandar, jamnagar"
-2025-01-03,tamilnadu,kancheepuram,600125,795.0,28.660279311464762,795.0,"kancheepuram, chennai"
-2025-03-01,uttarpradesh,unnao,209868,225.0,28.645833333333332,225.0,unnao
-2025-01-07,gujarat,dahod,389190,1311.0,28.6400873839432,2.0776545166402536,"dahod, mahisagar, panchmahal"
-2025-01-03,tamilnadu,ariyalur,621653,514.0,28.629533678756477,514.0,"ariyalur, perambalur, tiruchirappalli"
-2025-01-03,mizoram,mamit,796431,2412.0,28.62908011869436,2412.0,mamit
-2025-01-03,uttarpradesh,jaunpur,222133,1696.0,28.612895770741854,1696.0,jaunpur
-2025-01-07,westbengal,uttardinajpur,733207,7361.0,28.6005439581788,7361.0,"uttardinajpur, dakshindinajpur"
-2025-01-03,rajasthan,bharatpur,321402,1541.0,28.597560975609756,1541.0,bharatpur
-2025-01-03,assam,sonitpur,784111,626.0,28.577421344848858,626.0,"sonitpur, udalguri"
-2025-03-01,jharkhand,pakur,816105,630.0,28.56472795497186,630.0,"pakur, sahibganj"
-2025-01-03,andhrapradesh,visakhapatnam,531077,1922.0,28.552631578947366,1922.0,"allurisitharamaraju, visakhapatnam"
-2025-01-03,jharkhand,koderma,825409,2964.0,28.534296028880867,2964.0,"hazaribagh, koderma, chatra"
-2025-01-03,rajasthan,chittorgarh,312206,1009.0,28.532133676092542,1009.0,chittorgarh
-2025-01-06,andhrapradesh,cuddapah,516360,3078.0,28.524350969438053,3078.0,"cuddapah, ysrkadapa"
-2025-01-07,chhatisgarh,koriya,497778,2286.0,28.52015355086372,2286.0,"koriya, manendragarhchirmiribharatpur"
-2025-01-07,telangana,rangareddy,501106,1175.0,28.516772298655123,1175.0,"rangareddy, vikarabad, kvrangareddy"
-2025-01-03,rajasthan,chittorgarh,312022,2022.0,28.50563909774436,2022.0,chittorgarh
-2025-01-03,westbengal,paschimbardhaman,713143,1266.0,28.460686850429283,1266.0,"paschimbardhaman, purbabardhaman, birbhum"
-2025-01-03,rajasthan,hanumangarh,335803,2929.0,28.459919028340078,2929.0,"ganganagar, hanumangarh"
-2025-01-03,odisha,puri,752014,1373.0,28.458095524181434,1373.0,puri
-2025-03-01,rajasthan,kota,326520,585.0,28.42105263157895,585.0,kota
-2025-01-03,andhrapradesh,visakhapatnam,531055,1521.0,28.408273381294965,1521.0,"anakapalli, visakhapatnam"
-2025-01-03,uttarpradesh,sonbhadra,231219,2590.0,28.404386777880752,2590.0,"sonbhadra, mirzapur"
-2025-01-06,chhatisgarh,kanker,494337,1785.0,28.380753138075317,1785.0,"kanker, dhamtari"
-2025-01-03,uttarpradesh,maharajganj,273303,6865.0,28.37341898217309,6865.0,"maharajganj, mahrajganj, gorakhpur"
-2025-01-03,rajasthan,udaipur,313905,1150.0,28.372891942535915,1150.0,udaipur
-2025-01-07,manipur,thoubal,795148,3744.0,28.363636363636363,3744.0,"thoubal, chandel"
-2025-01-03,assam,nalbari,781369,959.0,28.335763622409825,959.0,"nalbari, barpeta"
-2025-03-01,rajasthan,pratapgarh,312604,1872.0,28.31413612565445,1872.0,"pratapgarh, chittorgarh"
-2025-01-03,mizoram,aizawl,796190,659.0,28.307560137457042,659.0,aizawl
-2025-01-03,jharkhand,palamu,822126,2556.0,28.304285026480503,2556.0,"latehar, palamu"
-2025-01-03,tamilnadu,tirunelveli,627860,442.0,28.301781737193764,442.0,"tenkasi, tirunelveli"
-2025-01-03,karnataka,davanagere,583127,415.0,28.29026937877955,415.0,"davanagere, vijayanagara, ballari"
-2025-01-03,jammuandkashmir,ganderbal,191202,1178.0,28.272000000000002,1178.0,"ganderbal, srinagar"
-2025-01-06,chhatisgarh,janjgirchampa,495689,4394.0,28.25524524759446,4394.0,"janjgirchampa, sakti, gariyaband, balodabazar"
-2025-01-03,assam,kokrajhar,783337,1311.0,28.242794759825326,1311.0,"dhubri, kokrajhar, chirang"
-2025-01-03,jharkhand,dhanbad,828204,1828.0,28.24157303370787,1828.0,dhanbad
-2025-01-03,tripura,southtripura,799101,1921.0,28.240341880341884,1921.0,"gomati, southtripura"
-2025-01-06,karnataka,bengalururural,562123,1595.0,28.23957866427611,1595.0,"bengalururural, bengaluruurban"
-2025-01-03,tamilnadu,chennai,600129,336.0,28.235294117647058,336.0,"chennai, kancheepuram"
-2025-01-03,bihar,bhagalpur,853201,3361.0,28.22497237569061,3361.0,"bhagalpur, banka"
-2025-01-07,telangana,jangaon,506167,854.0,28.211032713277742,854.0,"jangaon, warangal"
-2025-03-01,meghalaya,northgarohills,794108,349.0,28.2020202020202,349.0,"northgarohills, eastgarohills"
-2025-01-03,bihar,arwal,804426,725.0,28.188512518409425,725.0,"arwal, patna, jehanabad"
-2025-01-03,andhrapradesh,ananthapuram,515305,406.0,28.178137651821864,406.0,"ananthapuram, srisathyasai"
-2025-01-03,westbengal,darjeeling,734005,669.0,28.177690029615004,669.0,"darjeeling, jalpaiguri"
-2025-01-06,chhatisgarh,kanker,494669,3169.0,28.15426329756548,3169.0,kanker
-2025-01-03,rajasthan,chittorgarh,312404,1102.0,28.14365522745411,1102.0,chittorgarh
-2025-01-03,assam,barpeta,781318,746.0,28.140253164556963,746.0,"baksa, barpeta, bajali"
-2025-01-07,telangana,hyderabad,500053,5102.0,28.1356822976424,4.24459234608985,hyderabad
-2025-03-01,rajasthan,dungarpur,314406,1874.0,28.115857470306317,1874.0,dungarpur
-2025-01-03,telangana,hanumakonda,506391,290.0,28.093194359288777,290.0,"hanumakonda, warangal"
-2025-01-03,andhrapradesh,ananthapuram,515271,521.0,28.0642919200695,521.0,"ananthapuram, srisathyasai"
-2025-01-04,andhrapradesh,eastgodavari,507129,780.0,28.060221870047542,780.0,"allurisitharamaraju, eastgodavari, khammam"
-2025-01-03,telangana,bhadradrikothagudem,507166,567.0,28.037533512064346,567.0,"bhadradrikothagudem, khammam"
-2025-01-03,uttarpradesh,aligarh,202126,1643.0,28.03366382291907,1643.0,aligarh
-2025-01-03,rajasthan,ajmer,305408,654.0,28.022684310018903,654.0,ajmer
-2025-01-07,madhyapradesh,vidisha,464228,7998.0,28.012048192771086,7998.0,"vidisha, raisen"
-2025-01-03,rajasthan,bharatpur,321026,696.0,28.01117942984908,696.0,"bharatpur, deeg"
-2025-03-01,jharkhand,jamtara,815351,3062.0,28.00254032770227,3062.0,"deoghar, jamtara"
-2025-01-03,bihar,purnia,854102,2638.0,28.001929969671906,2638.0,"araria, purnia"
-2025-01-03,uttarpradesh,azamgarh,276124,976.0,28.00110344827586,976.0,"azamgarh, mau"
-2025-01-03,telangana,bhadradrikothagudem,507111,471.0,27.984272608125824,471.0,"bhadradrikothagudem, khammam"
-2025-01-07,telangana,jogulambagadwal,509125,2713.0,27.955838284001892,2713.0,"jogulambagadwal, mahabubnagar"
-2025-01-03,rajasthan,sawaimadhopur,322033,555.0,27.9530779164873,555.0,"karauli, sawaimadhopur"
-2025-01-05,chhatisgarh,korba,495449,2594.0,27.93753365643511,2594.0,"bilaspur, korba, gariyaband"
-2025-01-03,bihar,gopalganj,841407,876.0,27.933411488862838,876.0,"gopalganj, siwan"
-2025-01-03,westbengal,paschimbardhaman,713212,1237.0,27.93040037243948,1237.0,"paschimbardhaman, purbabardhaman"
-2025-01-03,rajasthan,ajmer,305407,1534.0,27.928804347826087,1534.0,ajmer
-2025-01-07,madhyapradesh,gwalior,475110,5396.0,27.902255983160206,5.903719912472647,"gwalior, shivpuri"
-2025-01-05,tamilnadu,coimbatore,641201,1833.0,27.898798397863818,1833.0,coimbatore
-2025-01-03,tamilnadu,kancheepuram,600016,886.0,27.883986423943227,886.0,"chennai, kancheepuram"
-2025-01-03,westbengal,northtwentyfourparganas,700055,592.0,27.875058275058276,592.0,"northtwentyfourparganas, kolkata"
-2025-01-03,andhrapradesh,ananthapuram,515631,542.0,27.86833253243633,542.0,"ananthapuram, srisathyasai"
-2025-01-03,rajasthan,dholpur,328023,2758.0,27.862664714494876,2758.0,dholpur
-2025-01-03,jammuandkashmir,samba,184121,825.0,27.86144578313253,825.0,"jammu, samba, udhampur, kathua"
-2025-01-05,gujarat,ahmedabad,380026,5075.0,27.851195357345613,28.03867403314917,ahmedabad
-2025-01-04,assam,barpeta,781325,620.0,27.849978194505017,6.739130434782608,"barpeta, bajali, baksa"
-2025-01-03,telangana,hyderabad,500016,731.0,27.837799717912553,731.0,"hyderabad, medchalmalkajgiri"
-2025-01-04,andhrapradesh,ananthapuram,515641,766.0,27.814409221902014,766.0,"ananthapuram, srisathyasai"
-2025-01-03,assam,charaideo,785670,295.0,27.787096774193547,295.0,"charaideo, dibrugarh, sibsagar"
-2025-01-05,uttarpradesh,hapur,245101,7897.0,27.782985677644866,6.909011373578303,"ghaziabad, hapur, gautambuddhanagar"
-2025-01-03,jharkhand,garhwa,822120,1861.0,27.781799591002045,1861.0,"garhwa, palamu"
-2025-01-03,ladakh,leh,194201,346.0,27.755697356426616,346.0,leh
-2025-01-03,tamilnadu,thanjavur,613402,614.0,27.74010246856078,614.0,"thanjavur, pudukkottai"
-2025-01-03,telangana,karimnagar,505162,544.0,27.718095238095238,544.0,"karimnagar, peddapalli"
-2025-01-03,westbengal,northtwentyfourparganas,743711,664.0,27.717245581962217,664.0,"northtwentyfourparganas, nadia"
-2025-01-07,assam,hailakandi,788161,1202.0,27.66267339218159,3.1139896373056994,"hailakandi, cachar"
-2025-03-01,rajasthan,udaipur,313604,2955.0,27.658827658827658,2955.0,"udaipur, pratapgarh"
-2025-01-07,uttarpradesh,hamirpur,210431,2721.0,27.65436066712995,2721.0,"hamirpur, mahoba"
-2025-03-01,rajasthan,dholpur,328029,1906.0,27.652656283336892,1906.0,dholpur
-2025-01-03,jharkhand,bokaro,829111,1673.0,27.639839509086617,1673.0,bokaro
-2025-01-03,bihar,patna,804454,691.0,27.631932282545243,691.0,"jehanabad, patna"
-2025-01-05,madhyapradesh,anuppur,484334,2363.0,27.614357262103507,2363.0,"anuppur, shahdol, sidhi"
-2025-01-04,jammuandkashmir,kupwara,193224,5929.0,27.60472751149048,5929.0,kupwara
-2025-01-07,telangana,sangareddy,502220,796.0,27.599266544424072,796.0,"medak, sangareddy"
-2025-01-03,rajasthan,tonk,304507,973.0,27.576407506702413,973.0,tonk
-2025-01-03,jharkhand,dhanbad,828116,2696.0,27.565720435893986,2696.0,"dhanbad, bokaro"
-2025-01-03,telangana,karimnagar,505188,472.0,27.55215311004785,472.0,"karimnagar, peddapalli"
-2025-01-03,telangana,nizamabad,503301,463.0,27.54586018839861,463.0,"kamareddy, nizamabad"
-2025-01-03,andhrapradesh,visakhapatnam,531084,594.0,27.542232722976966,594.0,"allurisitharamaraju, visakhapatnam, anakapalli"
-2025-01-03,tamilnadu,dharmapuri,636806,784.0,27.517095310136156,784.0,"dharmapuri, krishnagiri"
-2025-01-03,jharkhand,dhanbad,828402,2528.0,27.4996114996115,2528.0,dhanbad
-2025-01-03,telangana,rangareddy,509216,1211.0,27.487122192167472,1211.0,"mahabubnagar, rangareddy, kvrangareddy"
-2025-01-03,himachalpradesh,sirmaur,173022,984.0,27.45634563456346,984.0,sirmaur
-2025-01-03,karnataka,bagalkot,587118,1043.0,27.43747747747748,1043.0,bagalkot
-2025-03-01,rajasthan,jalor,343049,955.0,27.43646408839779,955.0,jalor
-2025-01-03,tamilnadu,sivaganga,630611,1292.0,27.433155080213904,1292.0,"sivaganga, virudhunagar"
-2025-03-01,ladakh,kargil,194103,355.0,27.428256070640177,355.0,kargil
-2025-01-04,mizoram,mamit,796501,573.0,27.421734795613162,573.0,mamit
-2025-01-03,rajasthan,jhalawar,326036,1670.0,27.401006344344783,1670.0,"jhalawar, baran"
-2025-01-03,uttarpradesh,gonda,271401,2366.0,27.39277691377225,2366.0,gonda
-2025-01-03,rajasthan,jalor,343042,1586.0,27.364216497281966,1586.0,jalor
-2025-01-04,haryana,faridabad,121004,11066.0,27.357455099133908,8.658841940532081,"faridabad, palwal"
-2025-01-07,jammuandkashmir,ramban,182144,959.0,27.351957919345413,959.0,"ramban, reasi, doda, udhampur"
-2025-01-03,mizoram,mamit,796471,1037.0,27.3448275862069,1037.0,mamit
-2025-01-03,rajasthan,bundi,323803,2248.0,27.344183655987663,2248.0,bundi
-2025-01-07,madhyapradesh,khargone,451442,1671.0,27.341324200913242,1671.0,"barwani, khargone"
-2025-01-03,bihar,munger,813201,991.0,27.341239109390127,991.0,"bhagalpur, munger, banka"
-2025-01-05,madhyapradesh,khandwa,450661,1651.0,27.329674159261195,20.89873417721519,"burhanpur, khandwa, khargone, barwani"
-2025-01-03,uttarpradesh,maharajganj,273305,3155.0,27.328019081094652,3155.0,"maharajganj, mahrajganj"
-2025-01-03,bihar,gaya,824118,2686.0,27.32487779098956,2686.0,gaya
-2025-03-01,meghalaya,westgarohills,794103,805.0,27.321477056747216,805.0,"southgarohills, westgarohills, southwestgarohills"
-2025-01-07,telangana,rangareddy,500078,539.0,27.320952589032117,539.0,"hyderabad, rangareddy, medchalmalkajgiri, kvrangareddy"
-2025-03-01,rajasthan,baran,325222,1364.0,27.320176730486008,1364.0,baran
-2025-03-01,rajasthan,jalor,343027,1695.0,27.31982500575639,1695.0,jalor
-2025-01-03,telangana,bhadradrikothagudem,507115,1231.0,27.314634754425327,1231.0,"bhadradrikothagudem, khammam"
-2025-01-03,tamilnadu,viluppuram,605802,752.0,27.30408472012103,752.0,"viluppuram, kallakurichi"
-2025-01-03,rajasthan,udaipur,313803,3595.0,27.29478433098592,3595.0,udaipur
-2025-01-04,assam,barpeta,781318,723.0,27.2726582278481,723.0,"baksa, barpeta, bajali"
-2025-01-03,telangana,rangareddy,500089,1570.0,27.272391277565603,1570.0,"rangareddy, kvrangareddy, hyderabad"
-2025-01-07,manipur,imphalwest,795009,2562.0,27.239220318960424,2562.0,imphalwest
-2025-01-03,jharkhand,deoghar,814157,1583.0,27.21900452488688,1583.0,deoghar
-2025-03-01,telangana,kvrangareddy,500084,896.0,27.20647773279352,896.0,"rangareddy, hyderabad, kvrangareddy"
-2025-01-04,chhatisgarh,gariyaband,493889,1262.0,27.204175704989154,1262.0,"gariyaband, raipur, dhamtari"
-2025-01-03,rajasthan,barmer,344043,1638.0,27.199261992619927,1638.0,barmer
-2025-01-07,chandigarh,chandigarh,160055,850.0,27.19573400250941,850.0,"chandigarh, rupnagar"
-2025-01-03,bihar,jehanabad,804418,1400.0,27.19475277497477,1400.0,"jehanabad, arwal"
-2025-01-03,jharkhand,dhanbad,828113,4311.0,27.19286269765834,4311.0,"dhanbad, bokaro"
-2025-01-03,karnataka,ballari,583220,346.0,27.180467091295117,346.0,"ballari, vijayanagara"
-2025-01-03,uttarpradesh,kanpurdehat,209204,1069.0,27.179697954502004,1069.0,"kanpurdehat, kanpurnagar"
-2025-03-01,uttarpradesh,bahraich,271870,1489.0,27.179675793488624,1489.0,"bahraich, shrawasti"
-2025-01-03,tamilnadu,krishnagiri,635116,876.0,27.175182481751825,876.0,"dharmapuri, krishnagiri"
-2025-01-07,uttarpradesh,aligarh,202001,20813.0,27.16893188973355,7.313070976809557,"aligarh, hathras"
-2025-01-03,jharkhand,palamu,822102,1949.0,27.166467542811628,1949.0,palamu
-2025-01-03,assam,golaghat,785619,595.0,27.127659574468083,595.0,golaghat
-2025-01-03,tamilnadu,tiruvannamalai,632311,495.0,27.126696832579185,495.0,"tiruvannamalai, vellore"
-2025-01-04,delhi,eastdelhi,110095,3624.0,27.072873893039134,3624.0,"eastdelhi, shahdara"
-2025-01-03,tamilnadu,tiruchirappalli,621215,609.0,27.071990558615266,609.0,"namakkal, tiruchirappalli"
-2025-01-07,punjab,amritsar,143105,2737.0,27.054009172860983,2737.0,"amritsar, tarntaran"
-2025-01-07,chandigarh,chandigarh,160047,5877.0,27.044729414652103,5877.0,chandigarh
-2025-01-03,uttarpradesh,shahjahanpur,242303,2608.0,27.042283867492593,2608.0,shahjahanpur
-2025-01-03,westbengal,northtwentyfourparganas,700035,574.0,27.035324901875274,574.0,"northtwentyfourparganas, kolkata, bankura"
-2025-03-01,assam,golaghat,785614,815.0,27.02937460518004,815.0,"golaghat, jorhat, majuli"
-2025-01-03,telangana,karimnagar,505001,3368.0,27.01361899122571,3368.0,karimnagar
-2025-01-03,bihar,purnia,854201,1256.0,27.01315321720583,1256.0,"araria, purnia"
-2025-01-03,rajasthan,dholpur,328027,3869.0,27.009999999999998,3869.0,dholpur
-2025-01-03,westbengal,northtwentyfourparganas,700156,544.0,27.00709219858156,544.0,"northtwentyfourparganas, southtwentyfourparganas"
-2025-01-03,telangana,nalgonda,508238,475.0,27.001733102253034,475.0,"nalgonda, suryapet"
-2025-01-03,rajasthan,bhilwara,311404,2703.0,27.000809935205183,2703.0,bhilwara
-2025-01-03,rajasthan,chittorgarh,312602,856.0,26.994913530010173,856.0,chittorgarh
-2025-01-05,uttarpradesh,bulandshahr,203131,5521.0,26.98812849162011,5521.0,"bulandshahr, gautambuddhanagar"
-2025-01-06,tamilnadu,perambalur,621716,1330.0,26.987785657998426,1330.0,"ariyalur, perambalur"
-2025-01-03,uttarpradesh,farrukhabad,209503,321.0,26.984238178633973,321.0,farrukhabad
-2025-01-03,andhrapradesh,guntur,522402,774.0,26.982288445319092,774.0,"guntur, palnadu"
-2025-03-01,telangana,medchalmalkajgiri,500072,1598.0,26.98120420516088,1598.0,"hyderabad, medchalmalkajgiri"
-2025-01-07,telangana,hyderabad,500024,1182.0,26.959659574468084,3.900990099009901,hyderabad
-2025-01-03,rajasthan,jodhpur,342301,4551.0,26.949703914481276,4551.0,"jodhpur, jaisalmer"
-2025-01-03,jharkhand,dhanbad,828207,750.0,26.937618147448017,750.0,dhanbad
-2025-01-03,bihar,gaya,824209,1861.0,26.935526315789474,1861.0,gaya
-2025-01-03,rajasthan,bhilwara,311402,1144.0,26.922519913106445,1144.0,bhilwara
-2025-01-03,andhrapradesh,ananthapuram,515556,246.0,26.914660831509845,246.0,"ananthapuram, srisathyasai"
-2025-01-07,maharashtra,raigarh,410207,573.0,26.903837471783294,573.0,"raigarh, raigad"
-2025-01-03,uttarpradesh,bijnor,246763,4748.0,26.897488232598825,4748.0,bijnor
-2025-01-03,karnataka,dakshinakannada,574153,582.0,26.88033589923023,582.0,dakshinakannada
-2025-01-03,westbengal,birbhum,731215,651.0,26.865876958349254,651.0,"birbhum, purbabardhaman, paschimbardhaman"
-2025-01-03,meghalaya,southwestkhasihills,793114,1041.0,26.848769050410315,1041.0,"southwestkhasihills, westkhasihills, eastkhasihills"
-2025-01-04,uttarpradesh,shamli,247776,5727.0,26.846494123861085,10.644981412639405,"muzaffarnagar, shamli"
-2025-01-03,uttarpradesh,maharajganj,273302,2720.0,26.842105263157897,2720.0,"maharajganj, gorakhpur, mahrajganj"
-2025-01-03,telangana,mahabubnagar,509412,754.0,26.822134387351777,754.0,"mahabubnagar, nagarkurnool"
-2025-01-03,westbengal,southtwentyfourparganas,700061,884.0,26.819750148721,884.0,"southtwentyfourparganas, kolkata"
-2025-01-03,delhi,centraldelhi,110003,1404.0,26.815825375170533,1404.0,"centraldelhi, southdelhi, newdelhi"
-2025-01-03,jharkhand,deoghar,814114,993.0,26.807649043869517,993.0,deoghar
-2025-01-03,assam,nalbari,781371,193.0,26.805555555555554,193.0,"nalbari, barpeta, baksa, bajali"
-2025-01-03,telangana,mahabubnagar,509357,446.0,26.805432937181664,446.0,"mahabubnagar, rangareddy, nagarkurnool, kvrangareddy"
-2025-01-07,haryana,panchkula,134118,1248.0,26.79905437352246,1248.0,"ambala, panchkula"
-2025-01-03,jharkhand,pakur,816117,1526.0,26.783677051338305,1526.0,"dumka, pakur"
-2025-01-03,telangana,jayashankarbhupalpally,506169,566.0,26.781390430874964,566.0,"jayashankarbhupalpally, warangal, karimnagar"
-2025-01-03,assam,karimganj,788806,497.0,26.780007432181346,497.0,"karimganj, cachar, sribhumi, hailakandi"
-2025-01-03,jharkhand,dhanbad,828109,10371.0,26.776347402015276,10371.0,"dhanbad, bokaro"
-2025-03-01,bihar,muzaffarpur,843132,565.0,26.77351916376307,565.0,muzaffarpur
-2025-03-01,jharkhand,ranchi,835301,1896.0,26.77278562259307,1896.0,"lohardaga, ranchi"
-2025-01-03,westbengal,southtwentyfourparganas,700154,743.0,26.7433489827856,743.0,southtwentyfourparganas
-2025-01-06,madhyapradesh,satna,485881,3156.0,26.74252511802445,3156.0,"maihar, satna"
-2025-01-07,punjab,fazilka,152123,3284.0,26.741057964895347,3284.0,"fazilka, ferozepur"
-2025-01-07,chandigarh,chandigarh,160023,590.0,26.73848439821694,590.0,chandigarh
-2025-01-03,jharkhand,sahibganj,813208,2403.0,26.73435253159767,2403.0,"godda, sahibganj, dumka"
-2025-01-06,chhatisgarh,rajnandgaon,491881,2827.0,26.719461549477302,2827.0,"rajnandgaon, khairagarhchhuikhadangandai"
-2025-01-03,rajasthan,nagaur,341503,4439.0,26.71729509647725,4439.0,nagaur
-2025-01-05,delhi,southdelhi,110030,3032.0,26.6998186998187,3032.0,"southdelhi, southwestdelhi"
-2025-01-03,rajasthan,banswara,327032,2093.0,26.69849246231156,2093.0,banswara
-2025-01-03,andhrapradesh,ananthapuram,515164,226.0,26.69291338582677,226.0,"ananthapuram, srisathyasai"
-2025-03-01,rajasthan,udaipur,313701,2718.0,26.690671031096564,2718.0,"udaipur, rajsamand"
-2025-01-03,bihar,lakhisarai,811310,2181.0,26.687449015266285,2181.0,"lakhisarai, jamui"
-2025-01-03,rajasthan,bhilwara,311403,1582.0,26.677908937605398,1582.0,bhilwara
-2025-01-03,telangana,hyderabad,500006,2514.0,26.677464395420273,2514.0,hyderabad
-2025-01-03,assam,nagaon,782139,655.0,26.675222450376452,655.0,"karbianglong, nagaon"
-2025-01-03,bihar,araria,854336,1823.0,26.674987088999828,1823.0,"araria, katihar, kishanganj"
-2025-01-03,rajasthan,bundi,323802,2001.0,26.664977477477475,2001.0,bundi
-2025-01-06,chhatisgarh,koriya,497442,2297.0,26.654607508532425,2297.0,"koriya, manendragarhchirmiribharatpur"
-2025-01-03,karnataka,belagavi,591112,543.0,26.652486910994764,543.0,belagavi
-2025-01-03,madhyapradesh,umaria,484665,1910.0,26.629807692307693,1910.0,"umaria, shahdol"
-2025-01-06,westbengal,paschimbardhaman,713129,1052.0,26.61878787878788,1052.0,"birbhum, paschimbardhaman, purbabardhaman"
-2025-01-06,telangana,mahabubnagar,509339,579.0,26.61575532900834,579.0,"mahabubnagar, rangareddy, vikarabad, narayanpet, kvrangareddy"
-2025-01-03,andhrapradesh,ananthapuram,515571,829.0,26.608951175406872,829.0,"ananthapuram, srisathyasai"
-2025-01-03,rajasthan,pali,306102,2239.0,26.593089619003546,2239.0,pali
-2025-01-04,andhrapradesh,eastgodavari,533401,1487.0,26.587976159626848,1487.0,"eastgodavari, kakinada"
-2025-01-03,tamilnadu,tirunelveli,627811,910.0,26.58698539176627,910.0,"tenkasi, tirunelveli"
-2025-01-03,gujarat,dang,394730,1331.0,26.582025677603426,1331.0,"dang, navsari, tapi, surat"
-2025-01-03,telangana,rangareddy,509327,503.0,26.57807570977918,503.0,"mahabubnagar, rangareddy, kvrangareddy"
-2025-01-05,madhyapradesh,barwani,451449,2234.0,26.576309100152518,8.007168458781361,"barwani, khargone"
-2025-01-03,assam,dhubri,783345,722.0,26.57082340481864,722.0,"dhubri, kokrajhar"
-2025-01-03,meghalaya,ribhoi,793102,1267.0,26.561121698883746,1267.0,"ribhoi, eastkhasihills"
-2025-01-07,telangana,hanumakonda,506002,2124.0,26.55,2124.0,"hanumakonda, warangal"
-2025-01-03,jharkhand,sahibganj,816109,5309.0,26.545,5309.0,sahibganj
-2025-01-03,uttarpradesh,hapur,245208,769.0,26.544162436548223,769.0,"ghaziabad, hapur"
-2025-01-03,uttarpradesh,rampur,244701,249.0,26.536412078152754,249.0,rampur
-2025-01-03,jharkhand,simdega,835211,2836.0,26.529466791393826,2836.0,"gumla, simdega, khunti"
-2025-03-01,telangana,yadadribhuvanagiri,508112,653.0,26.516940707523666,653.0,"nalgonda, yadadribhuvanagiri"
-2025-03-01,jharkhand,dumka,814120,1298.0,26.516472450007193,1298.0,"deoghar, dumka"
-2025-01-05,delhi,northeastdelhi,110094,20620.0,26.515141192901183,20620.0,"northeastdelhi, northwestdelhi, eastdelhi"
-2025-01-04,delhi,eastdelhi,110096,12720.0,26.509078451524495,12720.0,eastdelhi
-2025-01-03,assam,dhemaji,787034,768.0,26.495104895104895,768.0,"dhemaji, lakhimpur"
-2025-01-03,telangana,karimnagar,505415,516.0,26.486384976525823,516.0,"karimnagar, jagitial, peddapalli"
-2025-03-01,jharkhand,dhanbad,828401,840.0,26.475644699140403,840.0,"bokaro, dhanbad"
-2025-01-03,telangana,rangareddy,500060,843.0,26.468387096774194,843.0,"rangareddy, hyderabad, kvrangareddy"
-2025-01-03,assam,karbianglong,782448,903.0,26.46633778293674,903.0,"karbianglong, cachar, westkarbianglong"
-2025-01-03,westbengal,kolkata,700094,530.0,26.454388984509464,530.0,"kolkata, southtwentyfourparganas"
-2025-01-03,uttarpradesh,varanasi,221001,6079.0,26.449314890577313,6079.0,"chandauli, varanasi"
-2025-01-03,bihar,begusarai,851130,1874.0,26.429578806937297,1874.0,begusarai
-2025-01-03,jharkhand,eastsinghbhum,832303,3120.0,26.4255465262676,3120.0,eastsinghbhum
-2025-01-03,bihar,gaya,824210,2845.0,26.424148606811144,2845.0,gaya
-2025-01-03,himachalpradesh,sirmaur,173223,366.0,26.418491484184916,366.0,"sirmaur, solan"
-2025-03-01,telangana,khammam,507209,996.0,26.40159045725646,996.0,khammam
-2025-01-03,uttarpradesh,kanpurdehat,209307,911.0,26.398295454545455,911.0,"kanpurdehat, kanpurnagar"
-2025-01-03,tamilnadu,viluppuram,605751,637.0,26.394453507340945,637.0,"viluppuram, kallakurichi"
-2025-01-03,tamilnadu,thiruvarur,610201,225.0,26.37481910274964,225.0,"nagapattinam, thiruvarur"
-2025-01-03,tamilnadu,vellore,635852,532.0,26.368520620507,532.0,"tirupathur, vellore"
-2025-01-03,andhrapradesh,ananthapuram,515581,617.0,26.356177012907192,617.0,"ananthapuram, srisathyasai"
-2025-01-03,telangana,rangareddy,501203,808.0,26.333514394350896,808.0,"rangareddy, vikarabad, kvrangareddy"
-2025-01-03,assam,hojai,782442,695.0,26.311742088139603,695.0,"hojai, nagaon"
-2025-01-03,rajasthan,udaipur,307025,2753.0,26.30828642492473,2753.0,udaipur
-2025-01-03,telangana,hyderabad,500034,1095.0,26.30457653866386,1095.0,hyderabad
-2025-01-03,mizoram,serchhip,796161,685.0,26.295585412667947,685.0,"aizawl, serchhip"
-2025-01-03,odisha,jagatsinghpur,754140,667.0,26.286767061839154,667.0,"jagatsinghpur, kendrapara"
-2025-01-03,tripura,dhalai,799278,983.0,26.281324820430967,983.0,dhalai
-2025-01-04,delhi,southdelhi,110065,2497.0,26.28047219456692,2497.0,southdelhi
-2025-01-03,tamilnadu,viluppuram,606201,1269.0,26.279946364719905,1269.0,"kallakurichi, viluppuram"
-2025-01-03,assam,bongaigaon,783392,1042.0,26.278264586450096,1042.0,"bongaigaon, chirang"
-2025-01-03,uttarpradesh,amethi,229304,1132.0,26.27342202094537,1132.0,"amethi, raebareli"
-2025-01-03,uttarpradesh,maharajganj,273301,2388.0,26.272970561998218,2388.0,"maharajganj, mahrajganj, gorakhpur"
-2025-01-07,tamilnadu,perambalur,621717,2169.0,26.270726714431934,2169.0,perambalur
-2025-01-03,tamilnadu,kancheepuram,600048,1988.0,26.263067202757036,1988.0,"kancheepuram, chengalpattu"
-2025-01-03,gujarat,mahesana,384130,406.0,26.25998731769182,406.0,"mahesana, patan"
-2025-07-01,telangana,kvrangareddy,500048,1449.0,26.258121546961327,1449.0,"rangareddy, kvrangareddy"
-2025-01-07,uttarpradesh,gautambuddhanagar,201310,3177.0,26.251093613298337,5.776363636363636,gautambuddhanagar
-2025-01-06,chhatisgarh,surguja,497001,5829.0,26.243493729822326,5829.0,"balrampur, surajpur, surguja"
-2025-01-03,tamilnadu,tirunelveli,627719,467.0,26.235955056179773,467.0,"tenkasi, tirunelveli"
-2025-03-01,rajasthan,jalor,307803,943.0,26.234375,943.0,jalor
-2025-01-03,westbengal,jalpaiguri,735210,2244.0,26.229912563276574,2244.0,"jalpaiguri, coochbehar"
-2025-01-03,odisha,deogarh,768108,1581.0,26.2129388816645,1581.0,"deogarh, bargarh, sambalpur"
-2025-01-03,madhyapradesh,umaria,484555,2013.0,26.20030425963489,2013.0,"umaria, anuppur"
-2025-01-03,telangana,nalgonda,508207,3363.0,26.199616858237547,3363.0,nalgonda
-2025-01-07,karnataka,vijayanagara,583136,971.0,26.160387286886973,971.0,"ballari, vijayanagara, davanagere"
-2025-01-04,madhyapradesh,rewa,486445,2780.0,26.15988871614434,2780.0,"rewa, satna"
-2025-03-01,rajasthan,chittorgarh,312207,952.0,26.158201498751044,952.0,chittorgarh
-2025-01-06,chhatisgarh,kanker,494334,1876.0,26.14226289517471,1876.0,"kanker, kondagaon, gariyaband"
-2025-03-01,rajasthan,bhilwara,311011,1253.0,26.13820078226858,1253.0,bhilwara
-2025-01-03,rajasthan,nagaur,341514,1516.0,26.137931034482758,1516.0,nagaur
-2025-01-03,andhrapradesh,ananthapuram,515561,625.0,26.136363636363633,625.0,"ananthapuram, srisathyasai"
-2025-01-03,gujarat,bhavnagar,364750,738.0,26.134651019147622,738.0,"bhavnagar, botad, rajkot"
-2025-03-01,telangana,jogulambagadwal,509126,654.0,26.12870813397129,654.0,"jogulambagadwal, mahabubnagar"
-2025-01-04,andhrapradesh,visakhapatnam,531081,965.0,26.121588639893496,965.0,"visakhapatnam, anakapalli"
-2025-01-03,andhrapradesh,srikakulam,532440,1217.0,26.11587982832618,1217.0,"parvathipurammanyam, srikakulam, vizianagaram"
-2025-01-03,jharkhand,sahibganj,816101,3518.0,26.10760667903525,3518.0,"sahibganj, deoghar, dumka"
-2025-01-03,madhyapradesh,mandsaur,458339,594.0,26.102658788774,594.0,"mandsaur, neemuch"
-2025-01-03,karnataka,belagavi,591224,1027.0,26.099110546378654,1027.0,belagavi
-2025-01-06,chhatisgarh,raigarh,496554,1599.0,26.096439169139465,1599.0,"raigarh, sarangarhbilaigarh, raigad"
-2025-01-03,assam,udalguri,784525,758.0,26.0857855361596,758.0,"darrang, udalguri"
-2025-01-03,andhrapradesh,guntur,522613,994.0,26.07679465776294,994.0,"guntur, palnadu"
-2025-01-05,andhrapradesh,srikakulam,532440,1215.0,26.07296137339056,1215.0,"parvathipurammanyam, srikakulam, vizianagaram"
-2025-01-04,chhatisgarh,surguja,497001,5790.0,26.067906792875494,5790.0,"balrampur, surajpur, surguja"
-2025-01-04,uttarpradesh,etah,207001,5423.0,26.052845528455283,4.966117216117216,"etah, kasganj"
-2025-01-03,karnataka,ballari,583222,771.0,26.051042415528396,771.0,"ballari, vijayanagara"
-2025-01-07,madhyapradesh,anuppur,484440,1253.0,26.03583115183246,1253.0,"anuppur, shahdol"
-2025-01-03,tamilnadu,chengalpattu,600130,281.0,26.018518518518515,281.0,"chengalpattu, kancheepuram"
-2025-01-03,telangana,medchalmalkajgiri,500014,358.0,26.01073729420186,358.0,"medchalmalkajgiri, rangareddy, hyderabad, kvrangareddy"
-2025-01-05,goa,southgoa,403712,309.0,26.010101010101007,309.0,southgoa
-2025-01-03,rajasthan,alwar,301412,1264.0,26.00971706201772,1264.0,alwar
-2025-01-04,bihar,bhagalpur,853204,2426.0,26.005338530632997,4.05685618729097,"bhagalpur, madhepura, purnia, katihar, munger, banka"
-2025-01-03,jharkhand,sahibganj,816116,1797.0,26.002180376610507,1797.0,"sahibganj, dumka"
-2025-03-01,rajasthan,chittorgarh,312603,1062.0,26.002098635886675,1062.0,chittorgarh
-2025-01-03,tamilnadu,salem,636107,970.0,25.996649916247907,970.0,salem
-2025-01-03,bihar,araria,854325,3133.0,25.986432298819008,3133.0,"araria, purnia"
-2025-01-03,rajasthan,jodhpur,342309,1667.0,25.97729296527159,1667.0,jodhpur
-2025-01-03,uttarpradesh,bahraich,271825,3572.0,25.96849659800541,3572.0,bahraich
-2025-01-03,andhrapradesh,srikakulam,532407,3661.0,25.966608224418234,3661.0,"srikakulam, vizianagaram"
-2025-01-03,rajasthan,kota,326519,1832.0,25.95729395330273,1832.0,kota
-2025-01-03,delhi,southdelhi,110025,5674.0,25.948170731707318,5674.0,"southdelhi, southeastdelhi"
-2025-01-07,uttarakhand,udhamsinghnagar,244713,6024.0,25.94715525554484,6024.0,"nainital, udhamsinghnagar"
-2025-01-03,andhrapradesh,eastgodavari,533305,431.0,25.941065830720998,431.0,"drbrambedkarkonaseema, eastgodavari"
-2025-01-03,westbengal,northtwentyfourparganas,700157,980.0,25.9375,980.0,northtwentyfourparganas
-2025-01-03,jharkhand,ranchi,835225,3127.0,25.93701503719163,3127.0,"khunti, ranchi, westsinghbhum"
-2025-01-03,tamilnadu,viluppuram,606202,825.0,25.935628742514968,825.0,"kallakurichi, viluppuram"
-2025-01-03,gujarat,surat,394180,1554.0,25.93131801692866,1554.0,surat
-2025-01-07,uttarpradesh,agra,282007,6026.0,25.925813953488372,6026.0,agra
-2025-01-03,rajasthan,jalor,343025,1412.0,25.89849246231156,1412.0,jalor
-2025-01-03,mizoram,kolasib,796081,1965.0,25.89681774349084,1965.0,"kolasib, mamit"
-2025-01-03,bihar,begusarai,851211,6406.0,25.896735236925597,6406.0,begusarai
-2025-03-01,jharkhand,chatra,825408,3391.0,25.892926857274084,3391.0,"chatra, hazaribagh"
-2025-01-03,tamilnadu,tirunelveli,627857,551.0,25.889416231608923,551.0,"tenkasi, tirunelveli"
-2025-01-06,chhatisgarh,dantewada,494441,1221.0,25.885992428339645,1221.0,"bijapur, dantewada, bastar, vijayapura"
-2025-01-04,andhrapradesh,guntur,522426,1574.0,25.855851267031706,1574.0,"guntur, palnadu"
-2025-01-03,madhyapradesh,tikamgarh,472445,857.0,25.85334528076464,857.0,"tikamgarh, niwari"
-2025-03-01,uttarpradesh,maharajganj,273164,5195.0,25.844122711907644,5195.0,"maharajganj, mahrajganj"
-2025-01-03,tamilnadu,thiruvarur,614404,605.0,25.83997722095672,605.0,thiruvarur
-2025-01-07,haryana,kaithal,136117,3364.0,25.82344257454975,3364.0,kaithal
-2025-01-03,odisha,kendrapara,754214,576.0,25.82198952879581,576.0,"jajpur, kendrapara"
-2025-01-04,tripura,unakoti,799264,837.0,25.80620023716754,837.0,"dhalai, northtripura, unakoti"
-2025-01-07,madhyapradesh,bhopal,462420,2112.0,25.793347260163905,2112.0,bhopal
-2025-03-01,rajasthan,dungarpur,314021,1017.0,25.789415656008824,1017.0,dungarpur
-2025-01-03,jharkhand,godda,814156,2635.0,25.786143006263046,2635.0,"godda, dumka"
-2025-01-07,punjab,sasnagarmohali,160062,822.0,25.784901758014477,822.0,"sasnagarmohali, rupnagar"
-2025-01-03,rajasthan,bharatpur,321302,1508.0,25.781066598622097,1508.0,bharatpur
-2025-01-03,tamilnadu,viluppuram,607202,356.0,25.767619047619046,356.0,"viluppuram, kallakurichi"
-2025-01-06,karnataka,bengaluruurban,560067,1385.0,25.76584397866799,1385.0,"bengalururural, bengaluruurban"
-2025-01-03,tamilnadu,tiruvannamalai,606710,795.0,25.75064267352185,795.0,tiruvannamalai
-2025-01-03,gujarat,valsad,396193,715.0,25.74958123953099,715.0,valsad
-2025-01-03,rajasthan,bharatpur,321301,984.0,25.74418604651163,984.0,bharatpur
-2025-03-01,rajasthan,bhilwara,311203,1548.0,25.734472408219812,1548.0,bhilwara
-2025-01-07,madhyapradesh,satna,485775,2449.0,25.730234315948604,2449.0,"satna, maihar"
-2025-01-06,telangana,sangareddy,502319,1119.0,25.725771624539565,1119.0,"medak, sangareddy"
-2025-03-01,assam,golaghat,785702,852.0,25.725101397025686,852.0,golaghat
-2025-07-01,telangana,yadadribhuvanagiri,508252,1515.0,25.714694383522456,1515.0,"nalgonda, yadadribhuvanagiri"
-2025-01-06,madhyapradesh,shivpuri,473885,2504.0,25.71405782652044,2504.0,"ashoknagar, shivpuri"
-2025-01-03,rajasthan,hanumangarh,335503,1235.0,25.710696338837042,1235.0,hanumangarh
-2025-01-04,karnataka,bengaluruurban,560067,1382.0,25.710033486295426,6.169642857142857,"bengalururural, bengaluruurban"
-2025-03-01,telangana,nizamabad,503212,772.0,25.70884871550904,772.0,nizamabad
-2025-01-07,gujarat,dahod,389172,1126.0,25.707147979918716,1.7349768875192604,"dahod, mahisagar, panchmahal"
-2025-01-03,jharkhand,dhanbad,828121,1261.0,25.702903026559603,1261.0,dhanbad
-2025-01-03,telangana,mahabubnagar,509129,618.0,25.698189134808853,618.0,"jogulambagadwal, mahabubnagar"
-2025-01-03,jharkhand,dhanbad,828101,1162.0,25.6867740726864,1162.0,dhanbad
-2025-01-04,uttarpradesh,ghaziabad,201009,4832.0,25.683575037732137,4832.0,"gautambuddhanagar, ghaziabad, hapur"
-2025-01-03,uttarakhand,dehradun,249205,843.0,25.681334622823986,843.0,dehradun
-2025-01-07,gujarat,surat,394250,318.0,25.67920353982301,318.0,"surat, tapi"
-2025-01-03,uttarpradesh,kaushambi,212203,1813.0,25.67610814787567,1813.0,"kaushambi, prayagraj"
-2025-01-03,chhatisgarh,balod,491225,1536.0,25.670076357873505,1536.0,"balod, durg"
-2025-01-04,madhyapradesh,dindori,481672,1772.0,25.664123825317855,1772.0,"dindori, mandla"
-2025-03-01,jharkhand,giridih,815318,1881.0,25.653151492812384,1881.0,giridih
-2025-01-07,maharashtra,chhatrapatisambhajinagar,431001,13670.0,25.650981524249424,3.5636079249217936,"aurangabad, chhatrapatisambhajinagar"
-2025-01-04,assam,kamrup,781381,855.0,25.617977528089888,855.0,kamrup
-2025-01-03,karnataka,vijayapura,586207,442.0,25.61297182349814,442.0,"bijapur, vijayapura"
-2025-01-05,jammuandkashmir,ramban,182144,898.0,25.612156633547634,898.0,"ramban, reasi, doda, udhampur"
-2025-01-03,andhrapradesh,chittoor,517619,546.0,25.611940298507463,546.0,"chittoor, tirupati"
-2025-01-03,bihar,munger,811213,3788.0,25.610506683245262,3788.0,"munger, jamui"
-2025-01-04,delhi,southdelhi,110020,2834.0,25.606349206349208,2834.0,southdelhi
-2025-03-01,bihar,nawada,805130,1612.0,25.60609677715545,1612.0,"gaya, nalanda, nawada"
-2025-01-03,rajasthan,nagaur,341301,1117.0,25.60458452722063,1117.0,nagaur
-2025-03-01,rajasthan,ajmer,305814,1554.0,25.60131795716639,1554.0,ajmer
-2025-01-03,tamilnadu,tiruchirappalli,621315,818.0,25.59988300672711,818.0,"karur, tiruchirappalli"
-2025-01-03,bihar,gaya,824206,4983.0,25.594231529039906,4983.0,gaya
-2025-01-07,chandigarh,chandigarh,160020,626.0,25.592472420506166,626.0,chandigarh
-2025-01-03,bihar,kishanganj,855107,7545.0,25.570714751249188,7545.0,"kishanganj, purnia, araria"
-2025-01-03,andhrapradesh,ananthapuram,515321,321.0,25.568611987381704,321.0,"ananthapuram, srisathyasai"
-2025-01-03,jammuandkashmir,kulgam,192231,4335.0,25.56599770885485,4335.0,"anantnag, kulgam, baramula"
-2025-01-03,uttarpradesh,sonbhadra,231218,1512.0,25.558718861209965,1512.0,sonbhadra
-2025-01-03,rajasthan,rajsamand,313324,3646.0,25.55856294421186,3646.0,rajsamand
-2025-01-03,westbengal,purbamedinipur,721139,1078.0,25.554472091459317,1078.0,"paschimmedinipur, purbamedinipur"
-2025-01-07,tamilnadu,perambalur,621133,663.0,25.550830564784054,663.0,perambalur
-2025-01-03,rajasthan,nagaur,341025,2959.0,25.54273556231003,2959.0,nagaur
-2025-01-03,rajasthan,baran,325215,2200.0,25.536030952764794,2200.0,baran
-2025-01-03,uttarpradesh,maharajganj,273207,1694.0,25.53402239448751,1694.0,maharajganj
-2025-01-03,bihar,gaya,823004,807.0,25.533721898417987,807.0,gaya
-2025-01-03,jharkhand,bokaro,829107,1545.0,25.53132889602938,1545.0,"bokaro, giridih"
-2025-01-03,bihar,siwan,841413,847.0,25.53083294983893,847.0,"gopalganj, siwan"
-2025-01-03,mizoram,aizawl,796111,1321.0,25.52919407894737,1321.0,aizawl
-2025-01-04,andhrapradesh,visakhapatnam,531113,952.0,25.528052805280527,952.0,"anakapalli, visakhapatnam"
-2025-01-07,maharashtra,chhatrapatisambhajinagar,431137,867.0,25.527006990044484,867.0,"chhatrapatisambhajinagar, jalna, aurangabad"
-2025-01-04,andhrapradesh,ananthapuram,515541,433.0,25.52326783867632,433.0,"ananthapuram, srisathyasai"
-2025-01-03,jammuandkashmir,doda,182203,1970.0,25.522857671663893,1970.0,"doda, kishtwar"
-2025-01-03,jharkhand,bokaro,829112,1654.0,25.51257712387281,1654.0,bokaro
-2025-01-07,telangana,mahabubnagar,509339,555.0,25.51251158480074,555.0,"mahabubnagar, rangareddy, vikarabad, narayanpet, kvrangareddy"
-2025-01-03,madhyapradesh,satna,485772,1371.0,25.494206837362324,1371.0,"maihar, satna"
-2025-01-03,tamilnadu,viluppuram,606205,976.0,25.487898089171978,976.0,"kallakurichi, viluppuram"
-2025-01-03,tamilnadu,vellore,635901,431.0,25.4838104176443,431.0,"tirupathur, vellore"
-2025-01-03,uttarpradesh,ghaziabad,245201,736.0,25.48148148148148,736.0,"ghaziabad, hapur"
-2025-01-03,rajasthan,kota,325601,1701.0,25.471221338324753,1701.0,kota
-2025-01-03,rajasthan,jodhpur,342312,2747.0,25.470722723231297,2747.0,jodhpur
-2025-01-03,odisha,keonjhar,758025,795.0,25.470063025210084,795.0,"jajpur, keonjhar"
-2025-01-03,rajasthan,nagaur,341026,1106.0,25.45971563981043,1106.0,nagaur
-2025-01-03,odisha,sambalpur,768017,564.0,25.454545454545453,564.0,sambalpur
-2025-01-03,westbengal,jalpaiguri,734008,353.0,25.446943483275664,353.0,"darjeeling, jalpaiguri, kalimpong"
-2025-01-03,rajasthan,karauli,322204,417.0,25.44406779661017,417.0,"karauli, sawaimadhopur"
-2025-01-03,andhrapradesh,guntur,522111,681.0,25.442948502187814,681.0,"guntur, bapatla"
-2025-01-03,rajasthan,dholpur,328025,3298.0,25.437062937062937,3298.0,dholpur
-2025-01-05,tamilnadu,tiruvallur,600099,2110.0,25.433846742561947,2110.0,"tiruvallur, chennai"
-2025-01-03,telangana,jayashankarbhupalpally,505503,1021.0,25.42809415337889,1021.0,"jayashankarbhupalpally, karimnagar"
-2025-01-03,karnataka,belagavi,591248,848.0,25.42679127725857,848.0,belagavi
-2025-01-03,bihar,saran,841410,1704.0,25.422850412249705,1704.0,saran
-2025-01-03,tamilnadu,tiruvannamalai,604408,1660.0,25.41813898704358,1660.0,"tiruvannamalai, kancheepuram"
-2025-01-03,westbengal,paschimbardhaman,713339,588.0,25.41502308015107,588.0,"paschimbardhaman, purbabardhaman"
-2025-03-01,uttarakhand,tehrigarhwal,249186,744.0,25.412506568575935,744.0,tehrigarhwal
-2025-01-03,uttarpradesh,siddharthnagar,272201,2457.0,25.410231660231663,2457.0,siddharthnagar
-2025-01-03,bihar,supaul,852111,2478.0,25.40536277602524,2478.0,supaul
-2025-01-03,tamilnadu,tiruvallur,600095,1721.0,25.403802852139105,1721.0,"tiruvallur, chennai"
-2025-01-03,tamilnadu,tirunelveli,627415,590.0,25.400302114803626,590.0,"tenkasi, tirunelveli"
-2025-01-03,rajasthan,jhunjhunu,333516,1406.0,25.394556092597302,1406.0,jhunjhunu
-2025-01-03,telangana,karimnagar,505472,243.0,25.391384051329055,243.0,"karimnagar, siddipet"
-2025-01-03,bihar,saharsa,852124,2673.0,25.389505147791432,2673.0,"madhepura, saharsa"
-2025-01-03,telangana,karimnagar,505514,314.0,25.38323353293413,314.0,"karimnagar, peddapalli"
-2025-03-01,rajasthan,jhalawar,326033,2757.0,25.380063124671224,2757.0,jhalawar
-2025-01-03,rajasthan,rajsamand,313327,786.0,25.379277108433737,786.0,rajsamand
-2025-03-01,jharkhand,deoghar,814152,1759.0,25.377542151920736,1759.0,"deoghar, godda"
-2025-01-03,rajasthan,jhunjhunu,333515,848.0,25.375757575757575,848.0,jhunjhunu
-2025-01-03,tamilnadu,dharmapuri,635111,608.0,25.372128637059724,608.0,"dharmapuri, krishnagiri"
-2025-01-03,rajasthan,chittorgarh,323304,644.0,25.366255144032923,644.0,chittorgarh
-2025-01-03,gujarat,rajkot,360110,933.0,25.363513817119745,933.0,"jamnagar, rajkot"
-2025-01-03,karnataka,dharwad,581212,477.0,25.361098803721756,477.0,"dharwad, haveri"
-2025-03-01,uttarpradesh,kushinagar,274203,1986.0,25.34779834077856,1986.0,"deoria, kushinagar"
-2025-01-03,westbengal,hooghly,712134,684.0,25.341944255608432,684.0,"hooghly, paschimbardhaman, purbabardhaman"
-2025-03-01,jharkhand,pakur,816107,6996.0,25.341493879590306,6996.0,"pakur, deoghar"
-2025-01-03,westbengal,darjeeling,734301,701.0,25.33510496943928,701.0,"darjeeling, kalimpong"
-2025-01-07,chandigarh,chandigarh,160101,5977.0,25.332234518483634,5977.0,chandigarh
-2025-01-07,westbengal,bankura,722134,1239.0,25.33211009174312,1239.0,"bankura, jhargram"
-2025-01-03,tamilnadu,salem,636109,957.0,25.329113924050635,957.0,salem
-2025-01-03,jharkhand,palamu,822101,1675.0,25.326930935839805,1675.0,palamu
-2025-01-06,chhatisgarh,koriya,497778,2030.0,25.326295585412666,2030.0,"koriya, manendragarhchirmiribharatpur"
-2025-01-06,westbengal,southtwentyfourparganas,743329,5206.0,25.3196843055596,5206.0,"northtwentyfourparganas, southtwentyfourparganas"
-2025-01-03,andhrapradesh,ananthapuram,515531,320.0,25.31490015360983,320.0,"ananthapuram, srisathyasai"
-2025-01-03,rajasthan,ganganagar,335051,2271.0,25.310381679389316,2271.0,ganganagar
-2025-01-03,maharashtra,palghar,401403,1650.0,25.304182509505704,1650.0,"palghar, thane, mumbaicity"
-2025-01-06,chhatisgarh,raigarh,496551,2162.0,25.301103117505995,2162.0,"raigarh, sarangarhbilaigarh, raigad"
-2025-01-03,tamilnadu,vellore,632512,404.0,25.296500920810313,404.0,"tiruvannamalai, vellore, ranipet"
-2025-01-07,gujarat,ahmedabad,382170,575.0,25.29325513196481,575.0,"ahmedabad, mahesana"
-2025-01-03,jharkhand,dhanbad,826004,2339.0,25.290181180596143,2339.0,dhanbad
-2025-01-04,andhrapradesh,eastgodavari,533445,681.0,25.289661319073083,681.0,"eastgodavari, kakinada"
-2025-01-07,odisha,jajpur,754205,500.0,25.289575289575293,500.0,"cuttack, jajpur"
-2025-01-05,puducherry,puducherry,605110,1010.0,25.288315629742034,1010.0,puducherry
-2025-01-03,assam,tinsukia,786174,558.0,25.272465851905103,558.0,tinsukia
-2025-01-07,madhyapradesh,sagar,470235,1873.0,25.246840775063184,1873.0,sagar
-2025-01-03,andhrapradesh,visakhapatnam,531113,941.0,25.233085808580856,941.0,"anakapalli, visakhapatnam"
-2025-03-01,meghalaya,northgarohills,794002,782.0,25.231747527084313,782.0,"northgarohills, westgarohills, eastgarohills"
-2025-01-03,tamilnadu,tirunelveli,627953,685.0,25.226628895184138,685.0,"tenkasi, tirunelveli"
-2025-01-03,andhrapradesh,visakhapatnam,531036,1249.0,25.22143596824301,1249.0,"anakapalli, visakhapatnam"
-2025-01-03,assam,charaideo,785690,593.0,25.21899841017488,593.0,"charaideo, sibsagar"
-2025-01-06,telangana,kamareddy,503111,1157.0,25.210477515067222,1157.0,"kamareddy, nizamabad"
-2025-01-03,jharkhand,hazaribagh,825301,4577.0,25.207010496306857,4577.0,hazaribagh
-2025-01-07,telangana,hyderabad,500058,625.0,25.205448181403135,625.0,"hyderabad, rangareddy, kvrangareddy"
-2025-03-01,telangana,bhadradrikothagudem,507116,277.0,25.197191697191695,277.0,"bhadradrikothagudem, khammam"
-2025-01-07,westbengal,southtwentyfourparganas,743368,4021.0,25.19703339414611,4021.0,southtwentyfourparganas
-2025-01-03,uttarpradesh,firozabad,205142,866.0,25.19568277803848,866.0,"firozabad, mainpuri"
-2025-01-06,chhatisgarh,kondagaon,494230,676.0,25.188451033944595,676.0,"kanker, kondagaon, dhamtari, bastar, gariyaband"
-2025-01-07,karnataka,bengalururural,562110,1672.0,25.183431952662723,9.554285714285715,"bengalururural, bengaluruurban"
-2025-01-07,rajasthan,chittorgarh,312403,514.0,25.169566976932416,514.0,"chittorgarh, pratapgarh"
-2025-03-01,uttarpradesh,mainpuri,205304,368.0,25.159183673469386,368.0,mainpuri
-2025-01-06,madhyapradesh,satna,485775,2394.0,25.152380952380952,2394.0,"satna, maihar"
-2025-01-03,jharkhand,bokaro,829127,628.0,25.15193897012079,628.0,bokaro
-2025-01-03,telangana,sangareddy,502300,310.0,25.147721582373563,310.0,"medak, sangareddy"
-2025-01-07,telangana,medak,502336,518.0,25.145631067961162,518.0,"medak, siddipet"
-2025-01-03,rajasthan,karauli,322215,610.0,25.14503816793893,610.0,"karauli, sawaimadhopur"
-2025-01-03,bihar,gaya,805131,2846.0,25.143168340796322,2846.0,gaya
-2025-01-06,madhyapradesh,ashoknagar,473443,4406.0,25.1390812445138,8.129151291512915,"ashoknagar, guna"
-2025-01-03,jharkhand,koderma,825407,1414.0,25.123462414578587,1414.0,koderma
-2025-01-06,andhrapradesh,vizianagaram,535521,1080.0,25.11627906976744,1080.0,"parvathipurammanyam, vizianagaram"
-2025-01-04,delhi,southwestdelhi,110037,4401.0,25.105719365831973,21.679802955665025,"southwestdelhi, newdelhi"
-2025-01-03,andhrapradesh,ananthapuram,515286,389.0,25.10479233226837,389.0,"ananthapuram, srisathyasai"
-2025-01-03,tamilnadu,salem,636118,254.0,25.1046511627907,254.0,"namakkal, salem"
-2025-01-07,chhatisgarh,surguja,497111,4632.0,25.100175746924428,4632.0,surguja
-2025-01-04,delhi,southdelhi,110030,2850.0,25.097125097125097,2850.0,"southdelhi, southwestdelhi"
-2025-01-07,madhyapradesh,jhabua,457993,1959.0,25.091055860510174,1959.0,"alirajpur, jhabua"
-2025-01-03,madhyapradesh,dhar,454773,687.0,25.084805653710248,687.0,"dhar, indore"
-2025-01-03,uttarpradesh,amethi,227816,1611.0,25.084462865464317,1611.0,"amethi, sultanpur"
-2025-01-03,tamilnadu,viluppuram,606206,973.0,25.074509803921572,973.0,"kallakurichi, viluppuram, cuddalore"
-2025-01-03,maharashtra,ahmednagar,414502,4443.0,25.063933809702895,4443.0,ahmednagar
-2025-01-06,chhatisgarh,gariyaband,493996,1490.0,25.05254308532997,1490.0,"gariyaband, raipur"
-2025-01-07,delhi,northeastdelhi,110053,7234.0,25.05031132421004,4.495960223741454,"eastdelhi, northeastdelhi, shahdara"
-2025-01-03,chhatisgarh,rajnandgaon,491666,1955.0,25.047911283376397,1955.0,"rajnandgaon, mohlamanpurambagarhchowki"
-2025-01-03,telangana,medchalmalkajgiri,500056,784.0,25.025250119104335,784.0,"hyderabad, medchalmalkajgiri"
-2025-01-03,tamilnadu,thoothukkudi,628152,362.0,25.012562814070353,362.0,thoothukkudi
-2025-01-03,jharkhand,westsinghbhum,833104,4022.0,25.00660604647548,4022.0,"westsinghbhum, eastsinghbhum"
-2025-01-05,gujarat,jamnagar,361001,3516.0,25.00567035079289,16.054794520547944,jamnagar
-2025-01-03,bihar,bhagalpur,813209,4742.0,25.002961357890936,4742.0,bhagalpur
-2025-01-03,uttarpradesh,balrampur,271203,762.0,25.001426533523535,762.0,balrampur
-2025-01-04,andhrapradesh,srikakulam,532440,1165.0,25.0,1165.0,"parvathipurammanyam, srikakulam, vizianagaram"
-2025-01-03,bihar,muzaffarpur,843102,803.0,24.989261450799912,803.0,"muzaffarpur, vaishali"
-2025-01-04,andhrapradesh,guntur,522403,1349.0,24.984834250436183,1349.0,"guntur, palnadu"
-2025-01-03,westbengal,jalpaiguri,735223,501.0,24.977948226270374,501.0,"jalpaiguri, kalimpong, darjeeling, coochbehar"
-2025-01-06,punjab,patiala,140401,3087.0,24.970090293453726,3087.0,"fatehgarhsahib, patiala, sasnagarmohali"
-2025-01-07,westbengal,purbamedinipur,721152,937.0,24.96371152962793,937.0,"purbamedinipur, paschimmedinipur"
-2025-01-03,uttarakhand,dehradun,248199,763.0,24.963015647226175,763.0,dehradun
-2025-01-07,chhatisgarh,balod,491227,5112.0,24.952408844633183,5112.0,"balod, durg"
-2025-01-03,jharkhand,deoghar,814112,2170.0,24.94620486366986,2170.0,deoghar
-2025-03-01,telangana,jogulambagadwal,509128,729.0,24.945708277575992,729.0,"jogulambagadwal, mahabubnagar"
-2025-01-03,odisha,koraput,764027,2265.0,24.929245283018865,2265.0,"koraput, rayagada"
-2025-01-03,jharkhand,ranchi,834009,1612.0,24.927835051546396,1612.0,"ranchi, lohardaga"
-2025-01-03,tamilnadu,kancheepuram,603202,1423.0,24.926326635754766,1423.0,"chengalpattu, kancheepuram"
-2025-01-06,telangana,hyderabad,500002,1572.0,24.926178725191644,1572.0,hyderabad
-2025-01-03,delhi,southwestdelhi,110064,1408.0,24.92494929006085,1408.0,"southwestdelhi, westdelhi"
-2025-01-03,mizoram,aizawl,796009,1333.0,24.923652228108445,1333.0,aizawl
-2025-01-03,jharkhand,garhwa,822114,9757.0,24.92097118302834,9757.0,garhwa
-2025-01-03,karnataka,davanagere,577530,1262.0,24.920506329113923,1262.0,davanagere
-2025-01-03,bihar,rohtas,802214,1277.0,24.918651799290423,1277.0,rohtas
-2025-01-03,uttarpradesh,farrukhabad,209652,420.0,24.915254237288135,420.0,farrukhabad
-2025-01-03,bihar,bhojpur,802201,1976.0,24.895010918864436,1976.0,bhojpur
-2025-01-03,uttarpradesh,balrampur,271206,2446.0,24.894829691952776,2446.0,balrampur
-2025-01-03,andhrapradesh,krishna,521230,1278.0,24.890931754440636,1278.0,"krishna, ntr"
-2025-01-06,andhrapradesh,srikakulam,532440,1159.0,24.871244635193133,1159.0,"parvathipurammanyam, srikakulam, vizianagaram"
-2025-01-03,andhrapradesh,chittoor,517526,332.0,24.864479315263907,332.0,"chittoor, tirupati"
-2025-01-07,rajasthan,pali,306504,2070.0,24.84414069011502,2070.0,pali
-2025-01-03,maharashtra,nagpur,441101,1985.0,24.83390854184642,1985.0,nagpur
-2025-01-03,jammuandkashmir,udhampur,182125,1664.0,24.826319816373374,1664.0,"udhampur, reasi"
-2025-01-03,bihar,eastchamparan,845434,1165.0,24.823409223584353,1165.0,eastchamparan
-2025-01-03,tamilnadu,tiruvallur,601201,2460.0,24.816753926701573,2460.0,tiruvallur
-2025-01-04,andhrapradesh,kurnool,518222,2491.0,24.81484532993783,2491.0,"kurnool, nandyal"
-2025-01-03,assam,udalguri,784114,569.0,24.807012195121953,569.0,"darrang, udalguri, sonitpur"
-2025-01-03,bihar,gaya,824236,2850.0,24.806876292024807,2850.0,gaya
-2025-01-03,rajasthan,alwar,301027,1674.0,24.80258764607679,1674.0,alwar
-2025-01-03,uttarpradesh,balrampur,271215,1261.0,24.800831024930748,1261.0,"balrampur, gonda"
-2025-01-03,jharkhand,dumka,814146,2152.0,24.800508663169605,2152.0,"deoghar, dumka"
-2025-01-03,mizoram,aizawl,796008,806.0,24.8,806.0,aizawl
-2025-01-03,tamilnadu,tiruvannamalai,606753,1407.0,24.792951541850222,1407.0,tiruvannamalai
-2025-01-07,odisha,nayagarh,752065,552.0,24.78616120721384,552.0,"khordha, nayagarh"
-2025-01-03,punjab,bathinda,151302,1528.0,24.779596048945894,1528.0,"bathinda, mansa"
-2025-01-03,uttarpradesh,kaushambi,212214,2859.0,24.77632733655112,2859.0,"kaushambi, prayagraj"
-2025-01-03,uttarpradesh,santkabirnagar,272271,2905.0,24.776119402985074,2905.0,"santkabirnagar, basti"
-2025-01-04,assam,barpeta,781328,185.0,24.772727272727273,185.0,"baksa, barpeta, bajali"
-2025-01-03,chhatisgarh,raigarh,496445,2208.0,24.770599613152804,2208.0,"raigarh, sarangarhbilaigarh, gariyaband, raigad"
-2025-01-03,rajasthan,jodhpur,342606,2260.0,24.765289500962535,2260.0,jodhpur
-2025-01-03,telangana,medak,502336,510.0,24.757281553398055,510.0,"medak, siddipet"
+date,state,pincode,total_updates,surge_multiplier,ASI,district
+2025-01-06,chhatisgarh,497225,11210.0,90.2434714313764,11210.0,"balrampur, surajpur, surguja"
+2025-06-01,chhatisgarh,491888,9093.0,81.96835514653189,9093.0,"kawardha, rajnandgaon, khairagarhchhuikhadangandai, bemetara"
+2025-01-07,telangana,501141,3541.0,59.74690663667042,3541.0,"rangareddy, vikarabad, kvrangareddy, jayashankarbhupalpally"
+2025-01-06,chhatisgarh,491661,5853.0,58.47260357930865,5853.0,"rajnandgaon, balod, gariyaband"
+2025-01-07,chandigarh,160014,6135.0,57.91238049134697,6135.0,"chandigarh, rupnagar"
+2025-01-07,manipur,795130,2824.0,54.22485419470615,2824.0,"imphaleast, imphalwest, thoubal, senapati"
+2025-01-03,bihar,853204,5054.0,54.17600203372596,5054.0,"bhagalpur, madhepura, purnia, katihar, munger, banka"
+2025-01-07,punjab,160103,1613.0,51.67649931627271,1613.0,"sasnagarmohali, rupnagar"
+2025-01-03,telangana,500085,809.0,51.211704986563156,809.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-07,telangana,500090,2723.0,51.17490148529858,6.69041769041769,"medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-06,chhatisgarh,491558,6612.0,51.155812701829916,6612.0,"rajnandgaon, gariyaband"
+2025-01-03,meghalaya,793120,1440.0,51.03598691384951,1440.0,"westkhasihills, easternwestkhasihills, eastkhasihills, southwestkhasihills"
+2025-01-07,manipur,795008,4247.0,50.74304295220811,4247.0,"imphaleast, imphalwest, senapati"
+2025-01-03,jharkhand,822124,6612.0,50.06859688195991,6612.0,"garhwa, palamu"
+2025-01-03,jharkhand,822115,3436.0,50.02698863636363,3436.0,"garhwa, palamu"
+2025-01-03,rajasthan,321202,1885.0,49.774275979557075,1885.0,"bharatpur, deeg"
+2025-01-07,manipur,795149,2259.0,49.72702355460385,2259.0,"imphaleast, senapati, thoubal, ukhrul, bishnupur"
+2025-01-03,telangana,500055,3242.0,49.52245142830772,3242.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-06-01,chhatisgarh,494226,16942.0,49.478365569360825,16942.0,"kondagaon, gariyaband, bastar"
+2025-01-03,punjab,152022,2204.0,48.7392391733579,2204.0,"fazilka, ferozepur, srimuktsarsahib"
+2025-01-03,jharkhand,825406,4686.0,47.90167126399481,4686.0,"chatra, hazaribagh"
+2025-01-03,jharkhand,816104,3488.0,47.58616769303647,3488.0,"pakur, sahibganj, godda"
+2025-01-06,chhatisgarh,491665,2775.0,47.58299890550894,2775.0,"balod, rajnandgaon, mohlamanpurambagarhchowki"
+2025-01-06,chhatisgarh,491885,5730.0,46.87375635640062,5730.0,"rajnandgaon, khairagarhchhuikhadangandai"
+2025-01-06,chhatisgarh,497335,6760.0,46.86768264765518,6760.0,"koriya, manendragarhchirmiribharatpur"
+2025-01-06,chhatisgarh,491444,5253.0,46.345043310875845,5253.0,"rajnandgaon, khairagarhchhuikhadangandai"
+2025-01-03,jharkhand,816102,4333.0,46.23978539001238,4333.0,"godda, pakur, sahibganj"
+2025-01-03,mizoram,796901,2216.0,46.20404858299595,2216.0,"lawngtlai, saiha"
+2025-01-03,uttarpradesh,202411,3626.0,45.73494124161693,3626.0,"moradabad, rampur, sambhal"
+2025-01-07,westbengal,733132,2742.0,44.6294952161003,2742.0,"dakshindinajpur, uttardinajpur"
+2025-01-03,bihar,848201,4866.0,44.467362924281986,4866.0,"begusarai, khagaria"
+2025-01-06,telangana,500090,2335.0,43.88299484692331,2335.0,"medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-06,assam,783372,1438.0,43.66534872687015,1438.0,"bongaigaon, chirang, kokrajhar"
+2025-01-03,telangana,505122,1414.0,43.46024191949237,1414.0,"karimnagar, hanumakonda"
+2025-01-07,gujarat,382421,2073.0,43.301948558067025,2073.0,"ahmedabad, gandhinagar"
+2025-01-03,uttarpradesh,243638,5957.0,43.195560017849175,5957.0,"budaun, sambhal"
+2025-01-03,mizoram,796261,1424.0,43.12917421692985,1424.0,"aizawl, champhai, saitual"
+2025-01-07,rajasthan,321204,4889.0,43.039222522444,4889.0,"bharatpur, deeg"
+2025-01-03,jharkhand,825312,4725.0,42.68172194777699,4725.0,"bokaro, hazaribagh"
+2025-01-06,chhatisgarh,496223,4024.0,42.60395390237046,4024.0,"jashpur, surguja"
+2025-01-03,rajasthan,326039,4536.0,42.57822277847309,4536.0,jhalawar
+2025-01-07,telangana,502032,2809.0,42.487728310502284,2809.0,"medak, sangareddy"
+2025-01-07,manipur,795101,792.0,42.16432045047351,792.0,"chandel, churachandpur, thoubal, kakching, bishnupur"
+2025-01-03,assam,787058,852.0,41.89056304520222,852.0,"dhemaji, lakhimpur"
+2025-01-07,manipur,795103,3884.0,41.83495360141406,3884.0,"chandel, kakching, thoubal, bishnupur, churachandpur"
+2025-07-01,assam,783135,2615.0,41.828919491525426,2615.0,"dhubri, southsalmaramankachar"
+2025-01-03,telangana,509320,838.0,41.68062827225131,838.0,"mahabubnagar, nagarkurnool, rangareddy, kvrangareddy"
+2025-01-07,telangana,500005,3740.0,41.59826738124954,3740.0,"hyderabad, rangareddy, kvrangareddy"
+2025-01-03,uttarpradesh,273165,3493.0,41.32330572925469,3493.0,"gorakhpur, maharajganj, mahrajganj"
+2025-01-03,jharkhand,814166,1419.0,41.292870505092495,1419.0,"dumka, jamtara, pakur"
+2025-01-06,chhatisgarh,496118,4789.0,41.18241427496507,4789.0,"jashpur, raigarh, kanker, raigad"
+2025-01-04,delhi,110053,11871.0,41.107581660173814,11871.0,"eastdelhi, northeastdelhi, shahdara"
+2025-01-07,manipur,795132,3382.0,41.10622271676796,3382.0,"imphalwest, thoubal, kakching"
+2025-01-03,uttarpradesh,271845,3690.0,40.696391996218686,3690.0,"bahraich, shrawasti"
+2025-01-03,rajasthan,305925,981.0,40.67287942183339,981.0,"ajmer, rajsamand"
+2025-01-07,chhatisgarh,494661,8257.0,40.58676997417312,8257.0,"narayanpur, kanker, gariyaband, kondagaon"
+2025-01-03,mizoram,796310,1391.0,40.51456310679611,1391.0,"champhai, serchhip, khawzawl"
+2025-01-03,telangana,509371,1052.0,40.40020212228398,1052.0,"mahabubnagar, rangareddy, narayanpet, nagarkurnool, kvrangareddy"
+2025-01-03,rajasthan,314024,1496.0,40.38565368299267,1496.0,dungarpur
+2025-01-03,rajasthan,327027,3783.0,40.09969516419565,3783.0,"banswara, pratapgarh"
+2025-01-03,mizoram,796181,3033.0,40.09324758842444,3033.0,"lunglei, serchhip"
+2025-01-03,rajasthan,313204,1204.0,39.915217391304346,1204.0,"rajsamand, udaipur"
+2025-01-03,jharkhand,825321,3329.0,39.908705274806344,3329.0,"chatra, hazaribagh"
+2025-01-04,delhi,110093,12602.0,39.9028559602649,12602.0,"northeastdelhi, shahdara, eastdelhi"
+2025-01-03,jharkhand,835213,2203.0,39.867483946293056,2203.0,"lohardaga, ranchi"
+2025-03-01,telangana,508252,2343.0,39.768665967388195,2343.0,"nalgonda, yadadribhuvanagiri"
+2025-07-01,telangana,509325,1257.0,39.723292739324805,1257.0,"mahabubnagar, rangareddy, kvrangareddy"
+2025-01-03,tamilnadu,621851,1501.0,39.533026755852845,1501.0,ariyalur
+2025-01-03,rajasthan,313708,2390.0,39.494806421152035,2390.0,"udaipur, rajsamand"
+2025-01-03,bihar,824233,3066.0,39.388319119075895,3066.0,"gaya, jehanabad"
+2025-01-03,mizoram,796441,2479.0,39.299958281184814,2479.0,"aizawl, mamit"
+2025-01-03,rajasthan,313206,603.0,39.28206850235057,603.0,"udaipur, rajsamand"
+2025-01-07,telangana,501218,1191.0,39.26071922544951,1191.0,"rangareddy, kvrangareddy"
+2025-01-03,uttarpradesh,273155,2690.0,39.1262636682484,2690.0,"gorakhpur, maharajganj, mahrajganj"
+2025-01-03,jharkhand,835302,8127.0,39.09146212067624,8127.0,"gumla, lohardaga, ranchi"
+2025-01-06,telangana,500055,2558.0,39.0741612441737,2558.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-03,jharkhand,825418,2523.0,38.865211810012845,2523.0,"giridih, koderma"
+2025-01-04,jammuandkashmir,182144,1360.0,38.78901227352426,1360.0,"ramban, reasi, doda, udhampur"
+2025-01-03,tamilnadu,606104,1235.0,38.75134321942833,1235.0,"cuddalore, viluppuram, kallakurichi"
+2025-01-04,delhi,110094,30135.0,38.75042579282624,30135.0,"northeastdelhi, northwestdelhi, eastdelhi"
+2025-01-03,bihar,848203,4471.0,38.69980327868853,4471.0,"begusarai, khagaria"
+2025-01-07,telangana,509216,1698.0,38.54098553451723,1698.0,"mahabubnagar, rangareddy, kvrangareddy"
+2025-01-06,chhatisgarh,493558,19505.0,38.540681823866336,19505.0,mahasamund
+2025-01-06,chhatisgarh,493449,18117.0,38.507439202804534,18117.0,mahasamund
+2025-01-03,rajasthan,314037,2282.0,38.50574173892665,2282.0,dungarpur
+2025-01-07,rajasthan,321024,3835.0,38.433205909701414,3835.0,"bharatpur, deeg"
+2025-01-03,karnataka,583134,942.0,38.328638497652584,942.0,"ballari, davanagere, vijayanagara"
+2025-01-03,rajasthan,311604,4105.0,38.29476617397625,4105.0,bhilwara
+2025-01-07,madhyapradesh,485771,3617.0,38.2289447403462,3617.0,"satna, maihar"
+2025-01-03,andhrapradesh,515122,953.0,38.19274809160305,953.0,"ananthapuram, srisathyasai"
+2025-01-07,telangana,509235,824.0,38.16956765861875,824.0,"mahabubnagar, nagarkurnool, wanaparthy"
+2025-01-03,rajasthan,313325,1696.0,37.88981975120589,1696.0,"rajsamand, udaipur"
+2025-01-03,jharkhand,828307,661.0,37.713703515028016,661.0,"dhanbad, bokaro"
+2025-01-07,manipur,795010,4042.0,37.67509986684421,4042.0,"imphaleast, senapati, ukhrul"
+2025-01-06,chhatisgarh,494347,2210.0,37.547193556506414,2210.0,"kondagaon, dhamtari, gariyaband"
+2025-01-04,jammuandkashmir,191131,1257.0,37.51390458964504,1257.0,"ganderbal, srinagar"
+2025-01-03,rajasthan,314404,3406.0,37.51101321585903,3406.0,dungarpur
+2025-01-03,bihar,852112,4252.0,37.48835927813749,4252.0,"madhepura, supaul"
+2025-01-07,chhatisgarh,494441,1768.0,37.48274743104381,1768.0,"bijapur, dantewada, bastar, vijayapura"
+2025-01-03,bihar,841420,1070.0,37.39475774424146,1070.0,"gopalganj, siwan"
+2025-03-01,jharkhand,814145,2752.0,37.36567360928025,2752.0,"dumka, godda"
+2025-01-03,rajasthan,327801,10423.0,37.29700193423597,10423.0,banswara
+2025-01-03,rajasthan,325602,2590.0,37.288542291541695,2590.0,"kota, baran"
+2025-01-07,punjab,148023,4059.0,37.27543604651163,4059.0,"malerkotla, sangrur"
+2025-01-07,chhatisgarh,494552,3494.0,37.18861386138614,3494.0,dantewada
+2025-01-03,tamilnadu,606204,682.0,37.17154331612163,682.0,"cuddalore, kallakurichi, viluppuram"
+2025-03-01,rajasthan,327031,5709.0,37.15184381778742,5709.0,banswara
+2025-01-03,telangana,500088,444.0,37.10375771172182,444.0,"rangareddy, hyderabad, kvrangareddy"
+2025-01-03,mizoram,796321,4720.0,37.08424268878219,4720.0,champhai
+2025-01-03,odisha,755019,1824.0,37.06166219839142,1824.0,"jajpur, keonjhar"
+2025-01-03,rajasthan,322220,1275.0,37.05290611028316,1275.0,"karauli, sawaimadhopur"
+2025-01-03,rajasthan,313329,1514.0,37.007661437431594,1514.0,rajsamand
+2025-06-01,chhatisgarh,493445,13608.0,36.99516420064958,13608.0,"mahasamund, gariyaband, balod, raipur, balodabazar"
+2025-01-07,westbengal,731221,2155.0,36.79452695591159,2155.0,"birbhum, murshidabad"
+2025-01-03,rajasthan,314401,2055.0,36.78257042253521,2055.0,dungarpur
+2025-01-03,jharkhand,831002,6707.0,36.695654677916316,6707.0,"eastsinghbhum, seraikelakharsawan, westsinghbhum"
+2025-01-03,telangana,500032,845.0,36.66930630345265,845.0,"rangareddy, hyderabad, kvrangareddy"
+2025-01-03,assam,784522,878.0,36.64205457463885,878.0,"udalguri, darrang"
+2025-01-03,telangana,500037,1233.0,36.588353413654616,1233.0,"medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-03,jharkhand,825109,1788.0,36.4337752965806,1788.0,"hazaribagh, koderma"
+2025-01-03,meghalaya,794002,1128.0,36.395666509656145,1128.0,"northgarohills, westgarohills, eastgarohills"
+2025-01-03,rajasthan,326516,1872.0,36.380680194341245,1872.0,jhalawar
+2025-07-01,telangana,500055,2381.0,36.37043702985832,2381.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-03,bihar,804421,1765.0,36.34456985967053,1765.0,"arwal, jehanabad, gaya"
+2025-01-07,chhatisgarh,495449,3371.0,36.30586968228325,3371.0,"bilaspur, korba, gariyaband"
+2025-01-03,bihar,843327,3415.0,36.27083640654964,3415.0,"sheohar, sitamarhi"
+2025-01-05,tamilnadu,614019,981.0,36.25565058032987,981.0,"thanjavur, thiruvarur"
+2025-01-03,uttarpradesh,202522,4687.0,36.151472880938705,4687.0,"sambhal, budaun"
+2025-03-01,telangana,500090,1921.0,36.10245528948166,1921.0,"medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-07,uttarpradesh,208001,10414.0,36.09791073124406,6.273493975903614,"kanpurdehat, kanpurnagar"
+2025-01-06,telangana,502032,2385.0,36.074486301369866,2385.0,"medak, sangareddy"
+2025-01-03,rajasthan,327604,2296.0,36.05750940057509,2296.0,banswara
+2025-01-03,andhrapradesh,531114,1362.0,35.996312231100184,1362.0,"anakapalli, visakhapatnam, allurisitharamaraju"
+2025-01-03,bihar,802134,1353.0,35.944822888283376,1353.0,"bhojpur, buxar"
+2025-01-05,karnataka,560087,1027.0,35.84811320754717,6.186746987951807,"bengalururural, bengaluruurban"
+2025-03-01,rajasthan,326512,3091.0,35.65530110262935,3091.0,"jhalawar, kota"
+2025-01-03,rajasthan,311603,3063.0,35.65497439081173,3063.0,bhilwara
+2025-01-07,madhyapradesh,483225,2648.0,35.590021272481145,2648.0,"jabalpur, katni"
+2025-06-01,chhatisgarh,497220,5091.0,35.58162462392965,5091.0,"balrampur, surguja, surajpur"
+2025-01-03,gujarat,360490,1247.0,35.51357509018416,1247.0,"rajkot, porbandar, jamnagar, junagadh"
+2025-03-01,meghalaya,793106,825.0,35.50018389113645,825.0,"eastkhasihills, southwestkhasihills, westkhasihills, eastgarohills"
+2025-01-03,uttarpradesh,271835,2198.0,35.464712403005294,2198.0,"bahraich, shrawasti"
+2025-01-03,ladakh,194105,418.0,35.413888888888884,418.0,kargil
+2025-01-03,delhi,110053,10222.0,35.397329604102154,10222.0,"eastdelhi, northeastdelhi, shahdara"
+2025-01-03,telangana,508126,851.0,35.36623376623377,851.0,"nalgonda, yadadribhuvanagiri"
+2025-01-03,tamilnadu,600100,1928.0,35.34781060875756,1928.0,"chengalpattu, chennai, kancheepuram"
+2025-01-07,punjab,152022,1597.0,35.31604580755562,1597.0,"fazilka, ferozepur, srimuktsarsahib"
+2025-01-03,rajasthan,313706,2701.0,35.29820095044128,2701.0,"udaipur, pratapgarh"
+2025-01-03,rajasthan,314034,3019.0,35.17386628428034,3019.0,dungarpur
+2025-01-03,meghalaya,794110,789.0,35.172289156626505,789.0,"eastgarohills, northgarohills"
+2025-01-03,bihar,847107,1516.0,35.156711173576944,1516.0,"darbhanga, muzaffarpur"
+2025-01-03,andhrapradesh,531030,1211.0,35.045016077170416,1211.0,"anakapalli, visakhapatnam, allurisitharamaraju"
+2025-01-03,jharkhand,814151,4224.0,34.99779054352629,4224.0,"dumka, deoghar"
+2025-01-03,bihar,841436,2578.0,34.93974258970359,2578.0,"gopalganj, siwan"
+2025-01-03,sikkim,737121,1054.0,34.86372056099497,1054.0,"southsikkim, westsikkim, namchi"
+2025-01-07,manipur,795138,4328.0,34.8153515505066,4328.0,"imphaleast, thoubal, senapati"
+2025-01-03,uttarpradesh,227815,959.0,34.742533185840706,959.0,"amethi, sultanpur"
+2025-01-03,tamilnadu,627751,2235.0,34.73684210526316,2235.0,"tenkasi, tirunelveli"
+2025-01-03,bihar,813108,2047.0,34.6595798854233,2047.0,"banka, bhagalpur"
+2025-01-03,telangana,500050,771.0,34.64357594196115,771.0,"hyderabad, rangareddy, kvrangareddy"
+2025-01-03,assam,783380,2400.0,34.64257659073056,2400.0,"bongaigaon, chirang"
+2025-01-07,assam,783330,2499.0,34.54513823584728,2499.0,"dhubri, goalpara"
+2025-01-03,rajasthan,321022,3465.0,34.51750855302878,3465.0,"bharatpur, deeg"
+2025-01-07,punjab,145023,1382.0,34.51575817641229,1382.0,"gurdaspur, pathankot"
+2025-03-01,rajasthan,311806,1826.0,34.512027491408936,1826.0,bhilwara
+2025-01-03,bihar,854304,6465.0,34.477373152521714,6465.0,"araria, purnia, madhepura, katihar"
+2025-01-03,jammuandkashmir,191201,1025.0,34.474311440677965,1025.0,"ganderbal, srinagar"
+2025-01-03,bihar,804423,950.0,34.467120181405896,950.0,"arwal, jehanabad, patna"
+2025-01-03,tamilnadu,627755,588.0,34.44639718804921,588.0,"tirunelveli, tenkasi"
+2025-01-03,tamilnadu,606107,877.0,34.43829268292683,877.0,"cuddalore, kallakurichi, viluppuram"
+2025-01-07,telangana,500089,1981.0,34.41185166933596,1981.0,"rangareddy, kvrangareddy, hyderabad"
+2025-01-03,rajasthan,314036,2439.0,34.4035050224407,2439.0,"dungarpur, banswara"
+2025-01-03,bihar,851204,4436.0,34.38212029516377,4436.0,"begusarai, khagaria"
+2025-01-03,madhyapradesh,472246,1597.0,34.364778791530384,1597.0,"niwari, tikamgarh"
+2025-01-03,rajasthan,312614,692.0,34.33721518987342,692.0,"chittorgarh, pratapgarh"
+2025-01-03,uttarpradesh,229305,1041.0,34.31313620940378,1041.0,"amethi, raebareli"
+2025-01-03,uttarpradesh,204216,1760.0,34.28401486988848,1760.0,"aligarh, hathras"
+2025-01-03,tamilnadu,627758,971.0,34.25873400207541,971.0,"tenkasi, tirunelveli"
+2025-01-03,uttarpradesh,271803,1569.0,34.24404761904762,1569.0,"bahraich, shrawasti"
+2025-01-03,bihar,804452,3367.0,34.17591112531969,3367.0,"jehanabad, patna"
+2025-01-07,manipur,795133,4858.0,34.08216848259368,4858.0,"bishnupur, churachandpur"
+2025-01-03,jharkhand,825412,8628.0,34.07941858015589,8628.0,giridih
+2025-01-05,karnataka,583136,1264.0,34.054304356977475,1264.0,"ballari, vijayanagara, davanagere"
+2025-01-03,telangana,500008,3008.0,34.04671218109953,3008.0,"hyderabad, rangareddy, kvrangareddy"
+2025-01-03,jharkhand,825324,3856.0,33.90567545963229,3856.0,giridih
+2025-01-07,manipur,795132,2788.0,33.8865017546863,2788.0,"imphalwest, thoubal, kakching"
+2025-01-03,tamilnadu,636113,1242.0,33.78799249530957,1242.0,"salem, namakkal"
+2025-01-07,maharashtra,401208,4303.0,33.77805258347223,5.2668298653610774,"palghar, thane"
+2025-01-03,odisha,754004,1244.0,33.77107477377361,1244.0,"cuttack, khordha, puri"
+2025-01-03,uttarpradesh,207401,1468.0,33.73393778333594,1468.0,"etah, kasganj"
+2025-03-01,meghalaya,793119,2025.0,33.68761552680222,2025.0,"southwestkhasihills, westkhasihills, easternwestkhasihills, eastkhasihills"
+2025-01-03,karnataka,581118,2995.0,33.65635405105438,2995.0,"haveri, gadag"
+2025-01-03,meghalaya,793150,2225.0,33.550376970527765,2225.0,"westjaintiahills, eastjaintiahills, eastgarohills"
+2025-01-03,jharkhand,825318,2915.0,33.53606514994829,2915.0,koderma
+2025-01-03,bihar,843316,2495.0,33.52906806894537,2495.0,"sheohar, sitamarhi"
+2025-01-03,jharkhand,825320,3493.0,33.49080072557658,3493.0,giridih
+2025-01-03,andhrapradesh,533464,692.0,33.47007943512798,692.0,"eastgodavari, drbrambedkarkonaseema, kakinada"
+2025-01-03,jharkhand,825315,986.0,33.434626671014016,986.0,"bokaro, hazaribagh"
+2025-01-03,jammuandkashmir,182315,2399.0,33.36866075824717,2399.0,"reasi, udhampur, kishtwar"
+2025-01-07,manipur,795134,2698.0,33.36781687734882,2698.0,"bishnupur, imphalwest, senapati"
+2025-01-05,karnataka,562117,2881.0,33.360172344149724,2881.0,"ramanagar, bengalururural"
+2025-01-03,rajasthan,311804,3750.0,33.35567198732789,3750.0,bhilwara
+2025-01-03,jharkhand,816108,8382.0,33.29535398230088,8382.0,"sahibganj, deoghar"
+2025-01-03,bihar,811315,1551.0,33.29486760379209,1551.0,"jamui, lakhisarai, sheikhpura"
+2025-01-03,rajasthan,314035,2243.0,33.285986856052574,2243.0,dungarpur
+2025-07-01,telangana,508246,1079.0,33.27790814616158,1079.0,"nalgonda, suryapet"
+2025-01-03,jharkhand,815312,8482.0,33.27595967621791,8482.0,giridih
+2025-01-03,telangana,509228,739.0,33.261047463175125,739.0,"mahabubnagar, rangareddy, kvrangareddy"
+2025-01-03,andhrapradesh,531116,2160.0,33.252084669660036,2160.0,"anakapalli, visakhapatnam, allurisitharamaraju"
+2025-01-03,meghalaya,794106,1548.0,33.24698991213798,1548.0,"southwestgarohills, westgarohills"
+2025-01-03,bihar,852202,2100.0,33.1578947368421,2100.0,"madhepura, saharsa"
+2025-01-07,haryana,122107,3178.0,33.084886429819456,3178.0,"mewat, rewari, gurgaon"
+2025-01-03,telangana,508285,489.0,33.052372426141446,489.0,"nalgonda, yadadribhuvanagiri"
+2025-01-03,rajasthan,326501,687.0,33.017195767195766,687.0,"jhalawar, kota"
+2025-03-01,rajasthan,312901,2713.0,32.98881322957199,2713.0,chittorgarh
+2025-01-03,maharashtra,412210,1570.0,32.95595320027529,1570.0,"pune, ahmednagar"
+2025-01-06,tamilnadu,621704,1822.0,32.94605683026896,1822.0,"ariyalur, perambalur"
+2025-01-03,rajasthan,326021,1619.0,32.94337953406075,1619.0,jhalawar
+2025-01-03,westbengal,743425,2605.0,32.90031574199369,2605.0,"northtwentyfourparganas, southtwentyfourparganas"
+2025-01-03,rajasthan,313605,4479.0,32.88429898275099,4479.0,"pratapgarh, udaipur"
+2025-01-03,assam,784169,255.0,32.86536248561565,255.0,"biswanath, sonitpur"
+2025-01-06,chhatisgarh,491441,15038.0,32.8349922018999,15038.0,rajnandgaon
+2025-01-03,uttarpradesh,250626,820.0,32.77885235332044,820.0,"baghpat, meerut"
+2025-01-03,telangana,506348,604.0,32.776605366294845,604.0,"jayashankarbhupalpally, warangal"
+2025-01-03,bihar,854317,9776.0,32.76712328767123,9776.0,"katihar, purnia"
+2025-01-03,rajasthan,312027,1105.0,32.75267249757045,1105.0,chittorgarh
+2025-01-03,rajasthan,327608,786.0,32.75,786.0,banswara
+2025-01-03,telangana,500030,618.0,32.73217854763491,618.0,"rangareddy, kvrangareddy"
+2025-01-07,karnataka,560049,2052.0,32.73128834355828,2052.0,"bengalururural, bengaluruurban"
+2025-01-06,telangana,500049,1801.0,32.730195712954334,1801.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-03,tamilnadu,604407,1518.0,32.72078968573731,1518.0,"tiruvannamalai, vellore"
+2025-01-07,chhatisgarh,495115,6812.0,32.69174749135819,6812.0,"bilaspur, mungeli, balodabazar"
+2025-01-03,chhatisgarh,491888,3623.0,32.65933692905367,3623.0,"kawardha, rajnandgaon, khairagarhchhuikhadangandai, bemetara"
+2025-01-03,telangana,506347,518.0,32.65652173913043,518.0,"mulugu, warangal"
+2025-01-03,bihar,844120,1943.0,32.622410097642295,1943.0,"muzaffarpur, vaishali"
+2025-01-03,rajasthan,322219,1140.0,32.601476014760145,1140.0,"karauli, sawaimadhopur"
+2025-01-03,mizoram,796012,1238.0,32.54002389486261,1238.0,aizawl
+2025-01-03,rajasthan,305922,833.0,32.465941011235955,833.0,"ajmer, rajsamand"
+2025-01-03,jharkhand,816106,5747.0,32.42443781736117,5747.0,pakur
+2025-01-03,andhrapradesh,515303,340.0,32.41379310344828,340.0,"ananthapuram, srisathyasai"
+2025-01-03,telangana,509382,1412.0,32.395935758767614,1412.0,"mahabubnagar, wanaparthy"
+2025-01-03,uttarpradesh,231210,4929.0,32.37180386405662,4929.0,"mirzapur, sonbhadra"
+2025-01-03,bihar,854333,5918.0,32.3636879202787,5918.0,"araria, kishanganj"
+2025-01-03,assam,782485,833.0,32.3310502283105,833.0,"karbianglong, westkarbianglong"
+2025-01-03,andhrapradesh,515671,2417.0,32.31226206285967,2417.0,"ananthapuram, srisathyasai"
+2025-01-07,manipur,795114,2065.0,32.29688581314879,2065.0,"imphaleast, senapati"
+2025-06-01,telangana,501141,1913.0,32.277840269966255,1913.0,"rangareddy, vikarabad, kvrangareddy, jayashankarbhupalpally"
+2025-01-03,andhrapradesh,515281,682.0,32.26886969583177,682.0,"ananthapuram, srisathyasai"
+2025-01-03,rajasthan,328022,5076.0,32.25567703952901,5076.0,"dholpur, bharatpur"
+2025-01-03,rajasthan,313703,2760.0,32.2256152326208,2760.0,udaipur
+2025-01-03,assam,781360,767.0,32.206422018348626,767.0,"baksa, tamulpur"
+2025-01-03,mizoram,796770,1289.0,32.18174496644295,1289.0,"lawngtlai, lunglei"
+2025-01-06,chhatisgarh,495224,5725.0,32.17296284733062,5725.0,"bilaspur, mungeli, janjgirchampa, bemetara"
+2025-01-07,odisha,754004,1182.0,32.0879504683283,1182.0,"cuttack, khordha, puri"
+2025-01-03,westbengal,700036,516.0,32.0566757493188,516.0,"northtwentyfourparganas, kolkata"
+2025-01-03,rajasthan,326037,5482.0,32.0432859399684,5482.0,jhalawar
+2025-01-03,bihar,847102,1619.0,32.04178119846069,1619.0,"darbhanga, madhubani"
+2025-01-03,uttarpradesh,271855,5745.0,32.03254668049792,5745.0,"bahraich, kheri, shrawasti"
+2025-01-03,andhrapradesh,515154,362.0,32.01551590380139,362.0,"ananthapuram, srisathyasai"
+2025-01-03,bihar,803213,2842.0,32.0125156445557,2842.0,"nalanda, patna"
+2025-01-03,jharkhand,825322,4593.0,32.004034106537084,4593.0,"giridih, bokaro"
+2025-01-03,punjab,152132,932.0,31.99019307385841,932.0,"fazilka, ferozepur"
+2025-01-03,mizoram,796001,3139.0,31.97840260798696,3139.0,aizawl
+2025-01-03,telangana,509409,478.0,31.961669505962522,478.0,"mahabubnagar, narayanpet"
+2025-01-03,bihar,841438,3593.0,31.946240358005063,3593.0,"gopalganj, siwan"
+2025-01-03,bihar,854114,2415.0,31.945807552805633,2415.0,"katihar, purnia"
+2025-01-03,bihar,843328,2056.0,31.94516165885982,2056.0,"muzaffarpur, sitamarhi"
+2025-01-03,tamilnadu,614902,1036.0,31.922256458876507,1036.0,"pudukkottai, thanjavur"
+2025-01-03,westbengal,700063,639.0,31.918081918081917,639.0,"southtwentyfourparganas, kolkata"
+2025-03-01,telangana,509321,971.0,31.910798122065728,971.0,"mahabubnagar, rangareddy, kvrangareddy"
+2025-01-04,andhrapradesh,518221,1449.0,31.88178258437442,1449.0,"kurnool, nandyal"
+2025-01-03,rajasthan,313334,1811.0,31.85389305816135,1811.0,rajsamand
+2025-01-03,jharkhand,815314,5522.0,31.850036049026677,5522.0,giridih
+2025-01-03,tamilnadu,632102,668.0,31.84808080808081,668.0,"tiruvannamalai, vellore"
+2025-01-03,bihar,841227,2019.0,31.839048811013768,2019.0,"gopalganj, siwan"
+2025-01-03,uttarpradesh,202421,5845.0,31.81967874185093,5845.0,"sambhal, budaun"
+2025-01-07,telangana,500064,3399.0,31.81177694007539,4.041617122473246,hyderabad
+2025-01-07,telangana,505001,3966.0,31.80998008289821,3966.0,karimnagar
+2025-01-03,jharkhand,828203,1547.0,31.80747663551402,1547.0,dhanbad
+2025-01-03,rajasthan,314027,1953.0,31.742975206611572,1953.0,dungarpur
+2025-01-03,telangana,500015,1037.0,31.717206411514557,1037.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-03,jharkhand,815315,2285.0,31.692094313453538,2285.0,giridih
+2025-01-03,uttarpradesh,285205,2554.0,31.666701691709573,2554.0,"jalaun, jhansi"
+2025-03-01,rajasthan,326035,1335.0,31.666666666666668,1335.0,jhalawar
+2025-01-03,telangana,500097,1271.0,31.661149974407095,1271.0,"rangareddy, kvrangareddy"
+2025-01-03,tripura,799102,3643.0,31.59327427002745,3643.0,"sepahijala, westtripura"
+2025-01-03,punjab,152024,3370.0,31.577538317381702,3370.0,"fazilka, ferozepur"
+2025-01-07,madhyapradesh,473331,4971.0,31.557000799076622,4971.0,"ashoknagar, guna"
+2025-01-07,chhatisgarh,494449,4741.0,31.51187484801816,4741.0,"dantewada, bastar"
+2025-03-01,rajasthan,312601,2568.0,31.510854745673832,2568.0,"chittorgarh, pratapgarh"
+2025-01-03,karnataka,583216,561.0,31.5,561.0,"ballari, vijayanagara"
+2025-01-06,telangana,500052,1602.0,31.496530454895915,1602.0,"rangareddy, kvrangareddy"
+2025-01-03,uttarpradesh,209208,825.0,31.474875930521094,825.0,"kanpurdehat, kanpurnagar"
+2025-01-03,bihar,847234,2091.0,31.459119496855344,2091.0,"darbhanga, madhubani"
+2025-01-03,assam,784168,719.0,31.45773947630096,719.0,"biswanath, sonitpur, darrang"
+2025-01-03,jharkhand,825323,3937.0,31.447082316396717,3937.0,hazaribagh
+2025-01-03,rajasthan,327022,2986.0,31.417200365965233,2986.0,banswara
+2025-01-07,chhatisgarh,497001,6976.0,31.407550567720115,6976.0,"balrampur, surajpur, surguja"
+2025-01-03,uttarpradesh,203131,6423.0,31.39734636871508,6423.0,"bulandshahr, gautambuddhanagar"
+2025-01-03,tamilnadu,607104,524.0,31.393057110862262,524.0,"cuddalore, viluppuram, kallakurichi"
+2025-01-03,bihar,811212,1606.0,31.380321004884856,1606.0,"munger, lakhisarai"
+2025-01-07,chandigarh,160019,2303.0,31.35436241610738,2303.0,chandigarh
+2025-01-03,tamilnadu,603307,466.0,31.354079058031957,466.0,"kancheepuram, chengalpattu"
+2025-01-03,odisha,767020,927.0,31.310904255319148,927.0,"balangir, sonepur"
+2025-01-07,telangana,500019,1472.0,31.28267831149927,1472.0,"rangareddy, kvrangareddy"
+2025-01-07,madhyapradesh,450661,1888.0,31.252831503746297,4.113289760348584,"burhanpur, khandwa, khargone, barwani"
+2025-01-07,manipur,795003,1989.0,31.228874138371204,1989.0,"imphaleast, imphalwest"
+2025-01-03,telangana,506356,728.0,31.222679912769564,728.0,"jayashankarbhupalpally, warangal"
+2025-01-03,bihar,813212,926.0,31.21853019645889,926.0,"banka, munger"
+2025-01-07,punjab,152116,4818.0,31.2129963898917,4818.0,"fazilka, ferozepur"
+2025-01-05,delhi,110053,9010.0,31.200346285752342,9010.0,"eastdelhi, northeastdelhi, shahdara"
+2025-01-03,jharkhand,825413,595.0,31.187551187551186,595.0,"hazaribagh, koderma"
+2025-01-03,maharashtra,401203,1582.0,31.179440937781784,1582.0,"palghar, thane, mumbaicity"
+2025-01-03,mizoram,796911,1193.0,31.169827222924567,1193.0,saiha
+2025-01-03,uttarpradesh,209202,3002.0,31.167318687932593,3002.0,"kanpurdehat, kanpurnagar"
+2025-01-03,westbengal,700024,1724.0,31.1549203219977,1724.0,"kolkata, southtwentyfourparganas"
+2025-01-03,mizoram,796017,2249.0,31.123057270598252,2249.0,"aizawl, saitual, mamit"
+2025-07-01,telangana,500049,1710.0,31.07642124883504,1710.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-03-01,rajasthan,325219,1812.0,31.024525682554373,1812.0,baran
+2025-01-03,bihar,843319,1343.0,31.016730314602654,1343.0,"madhubani, sitamarhi"
+2025-01-03,mizoram,796007,1049.0,31.012031625988314,1049.0,"aizawl, kolasib"
+2025-01-03,mizoram,796101,1049.0,30.974409448818896,1049.0,"kolasib, lunglei"
+2025-01-07,manipur,795126,2273.0,30.97433568021803,2273.0,"bishnupur, tamenglong, senapati, churachandpur"
+2025-01-03,delhi,110016,575.0,30.97306689834926,575.0,"southdelhi, southwestdelhi"
+2025-01-05,uttarakhand,244713,7189.0,30.965155898424943,7189.0,"nainital, udhamsinghnagar"
+2025-01-04,andhrapradesh,533464,640.0,30.954986760812,640.0,"eastgodavari, drbrambedkarkonaseema, kakinada"
+2025-01-07,westbengal,733215,3700.0,30.945971928475295,3700.0,uttardinajpur
+2025-01-03,uttarpradesh,276129,1810.0,30.922808330215737,1810.0,"azamgarh, mau"
+2025-01-03,tamilnadu,627806,887.0,30.879660087719298,887.0,"tenkasi, tirunelveli"
+2025-01-03,telangana,500077,723.0,30.86966292134831,723.0,"rangareddy, kvrangareddy"
+2025-01-03,jharkhand,828134,6695.0,30.865989657965233,6695.0,"bokaro, dhanbad"
+2025-07-01,chhatisgarh,497224,2427.0,30.85714285714286,2427.0,"balrampur, surguja"
+2025-01-04,delhi,110025,6744.0,30.84146341463415,6744.0,"southdelhi, southeastdelhi"
+2025-01-03,rajasthan,326034,2131.0,30.837365010799136,2131.0,jhalawar
+2025-01-03,rajasthan,303507,760.0,30.833597464342315,760.0,"dausa, jaipur"
+2025-01-05,madhyapradesh,480106,1710.0,30.81314354936402,1710.0,"chhindwara, pandhurna"
+2025-01-03,rajasthan,313704,1673.0,30.791411042944784,1673.0,"udaipur, rajsamand"
+2025-01-03,westbengal,733124,2582.0,30.772516397376418,2582.0,"dakshindinajpur, malda"
+2025-01-03,telangana,500048,1698.0,30.770386740331492,1698.0,"rangareddy, kvrangareddy"
+2025-01-06,chhatisgarh,494333,1328.0,30.761433379528807,1328.0,"kanker, dhamtari, narayanpur"
+2025-01-03,karnataka,586125,614.0,30.759921925829534,614.0,"bagalkot, bijapur, vijayapura"
+2025-01-07,manipur,795005,5299.0,30.68001304737829,5299.0,imphaleast
+2025-01-03,rajasthan,313203,1809.0,30.645277207392198,1809.0,udaipur
+2025-01-03,jharkhand,814113,1212.0,30.610541727672032,1212.0,deoghar
+2025-01-04,andhrapradesh,531116,1988.0,30.60423348300192,1988.0,"anakapalli, visakhapatnam, allurisitharamaraju"
+2025-01-06,chhatisgarh,491222,1973.0,30.591075255262826,1973.0,"balod, durg"
+2025-01-03,rajasthan,305901,4778.0,30.58531706341268,4778.0,"ajmer, rajsamand"
+2025-01-03,tripura,799104,1407.0,30.572077185017026,1407.0,"gomati, southtripura"
+2025-03-01,rajasthan,314804,2047.0,30.56585691999108,2047.0,dungarpur
+2025-01-07,telangana,501501,1371.0,30.56277602523659,1371.0,"rangareddy, vikarabad, kvrangareddy"
+2025-01-07,tamilnadu,600095,2070.0,30.55541656242182,2070.0,"tiruvallur, chennai"
+2025-01-03,uttarpradesh,283152,468.0,30.553367875647666,468.0,firozabad
+2025-01-03,jharkhand,825108,3616.0,30.553094313770266,3616.0,giridih
+2025-03-01,rajasthan,325220,5381.0,30.541033900905045,5381.0,baran
+2025-01-03,rajasthan,312023,3314.0,30.5033413188753,3314.0,chittorgarh
+2025-01-03,tamilnadu,614614,948.0,30.477157360406093,948.0,"pudukkottai, thanjavur"
+2025-01-03,uttarpradesh,271201,4670.0,30.45219087086355,4670.0,"balrampur, shrawasti"
+2025-01-03,andhrapradesh,522660,804.0,30.44356292823657,804.0,"guntur, palnadu"
+2025-01-03,tamilnadu,625009,3342.0,30.424563436232724,3342.0,"madurai, sivaganga"
+2025-01-03,jharkhand,835234,1164.0,30.41254125412541,1164.0,"gumla, khunti, ranchi"
+2025-01-03,bihar,811102,652.0,30.389830508474578,652.0,"nalanda, sheikhpura"
+2025-01-07,telangana,500018,2051.0,30.384561720288904,2051.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-03,rajasthan,343041,7199.0,30.380275085964364,7199.0,jalor
+2025-01-07,madhyapradesh,451001,6145.0,30.348985001997313,10.558419243986254,"khandwa, khargone"
+2025-01-03,uttarpradesh,207246,1515.0,30.334248344905536,1515.0,"etah, kasganj"
+2025-01-03,uttarpradesh,262903,3826.0,30.322801756452822,3826.0,kheri
+2025-01-03,rajasthan,343032,2244.0,30.318933333333337,2244.0,jalor
+2025-01-03,tamilnadu,627859,848.0,30.31255539143279,848.0,"tenkasi, tirunelveli"
+2025-01-03,uttarpradesh,202170,802.0,30.284318080852955,802.0,"aligarh, hathras"
+2025-01-03,andhrapradesh,515241,525.0,30.28301886792453,525.0,"ananthapuram, srisathyasai"
+2025-01-03,tamilnadu,635109,3898.0,30.274079988386443,3898.0,"dharmapuri, krishnagiri"
+2025-01-03,andhrapradesh,515301,962.0,30.272727272727273,962.0,"ananthapuram, srisathyasai"
+2025-01-03,uttarpradesh,212655,5660.0,30.241598265448353,5660.0,fatehpur
+2025-03-01,telangana,509104,989.0,30.173465829846585,989.0,"mahabubnagar, wanaparthy"
+2025-01-03,gujarat,389172,1321.0,30.15909634233803,1321.0,"dahod, mahisagar, panchmahal"
+2025-01-03,uttarpradesh,284306,687.0,30.151251360174104,687.0,"jalaun, jhansi"
+2025-07-01,assam,782446,1714.0,30.142712629367367,1714.0,"hojai, karbianglong, nagaon, westkarbianglong"
+2025-01-03,bihar,853203,1476.0,30.10982255134833,1476.0,"bhagalpur, khagaria"
+2025-01-03,bihar,844112,1316.0,30.099110546378654,1316.0,"muzaffarpur, vaishali"
+2025-01-03,westbengal,700028,922.0,30.0920278223649,922.0,"northtwentyfourparganas, kolkata, bankura"
+2025-01-03,assam,785611,775.0,30.077086656034027,775.0,golaghat
+2025-01-03,telangana,506344,447.0,30.053617021276597,447.0,"mulugu, warangal, jayashankarbhupalpally"
+2025-01-05,andhrapradesh,534318,771.0,30.0489673550966,771.0,"eastgodavari, westgodavari, eluru"
+2025-01-07,chandigarh,160030,1048.0,30.018534119629315,1048.0,chandigarh
+2025-01-03,tamilnadu,603103,1211.0,29.97780623132736,1211.0,"kancheepuram, chengalpattu"
+2025-01-03,tamilnadu,627855,1189.0,29.956679354721768,1189.0,"tenkasi, tirunelveli"
+2025-01-03,mizoram,796290,1097.0,29.906612529002324,1097.0,"champhai, saitual"
+2025-01-03,rajasthan,321023,2221.0,29.90055008685582,2221.0,"bharatpur, deeg"
+2025-01-06,chhatisgarh,491229,3686.0,29.882815378946077,3686.0,"mohlamanpurambagarhchowki, rajnandgaon"
+2025-01-03,westbengal,713148,1173.0,29.881889763779526,1173.0,"paschimbardhaman, purbabardhaman"
+2025-01-03,rajasthan,325223,1478.0,29.873426110006626,1478.0,baran
+2025-01-03,telangana,501359,1144.0,29.869982238010653,1144.0,"rangareddy, kvrangareddy"
+2025-01-07,telangana,509335,645.0,29.84328358208955,645.0,"rangareddy, vikarabad, mahabubnagar, kvrangareddy"
+2025-01-03,andhrapradesh,517194,660.0,29.821640903686088,660.0,"chittoor, tirupati"
+2025-01-03,rajasthan,328024,3656.0,29.80855569673867,3656.0,dholpur
+2025-01-04,telangana,500049,1637.0,29.749767008387696,1637.0,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+2025-01-03,westbengal,700104,1115.0,29.720383275261323,1115.0,"kolkata, southtwentyfourparganas"
+2025-01-03,tamilnadu,641302,975.0,29.720062208398133,975.0,"coimbatore, erode"
+2025-01-03,uttarpradesh,245101,8445.0,29.71094264248587,8445.0,"ghaziabad, hapur, gautambuddhanagar"
+2025-01-06,tamilnadu,621705,1367.0,29.707752189425886,1367.0,ariyalur
+2025-01-03,karnataka,585309,883.0,29.707056892778994,883.0,"kalaburagi, yadgir"
+2025-01-03,jharkhand,825106,2300.0,29.706905116741183,2300.0,"giridih, bokaro"
+2025-03-01,rajasthan,327034,3098.0,29.705669816564757,3098.0,banswara
+2025-01-03,assam,784110,1216.0,29.69086548942664,1216.0,"sonitpur, udalguri"
+2025-01-07,westbengal,742202,6259.0,29.684094852515905,6259.0,"murshidabad, malda"
+2025-01-03,rajasthan,313001,5792.0,29.66288131819194,5792.0,"rajsamand, udaipur, pratapgarh"
+2025-01-04,andhrapradesh,507114,746.0,29.6415828738242,746.0,"eluru, khammam, westgodavari"
+2025-01-05,maharashtra,401209,4350.0,29.64121818940342,13.102409638554217,"palghar, thane, mumbaicity"
+2025-01-03,telangana,506168,388.0,29.612265758091993,388.0,"jayashankarbhupalpally, warangal, karimnagar, mulugu"
+2025-01-03,rajasthan,325204,2360.0,29.56549318109737,2360.0,kota
+2025-01-03,telangana,500052,1503.0,29.55011565150347,1503.0,"rangareddy, kvrangareddy"
+2025-06-01,chhatisgarh,496225,3717.0,29.542630057803468,3717.0,jashpur
+2025-01-06,chhatisgarh,493551,3278.0,29.502,3278.0,"balodabazar, mahasamund"
+2025-03-01,rajasthan,327606,1519.0,29.49514563106796,1519.0,banswara
+2025-01-03,uttarpradesh,230501,872.0,29.493546951490877,872.0,"pratapgarh, amethi"
+2025-01-03,telangana,500075,1054.0,29.491484184914842,1054.0,"rangareddy, kvrangareddy"
+2025-01-03,uttarpradesh,203141,746.0,29.488835244417622,746.0,"bulandshahr, gautambuddhanagar"
+2025-01-03,tamilnadu,603306,712.0,29.481861487724444,712.0,"chengalpattu, kancheepuram"
+2025-01-07,telangana,500028,3250.0,29.478015377222487,4.098360655737705,hyderabad
+2025-01-03,andhrapradesh,534451,782.0,29.460518384569017,782.0,"westgodavari, eluru"
+2025-01-03,bihar,843334,2439.0,29.375801104972375,2439.0,"sheohar, sitamarhi"
+2025-01-03,andhrapradesh,531149,2300.0,29.371962260554657,2300.0,"allurisitharamaraju, visakhapatnam"
+2025-01-03,jharkhand,822118,5364.0,29.348484848484848,5364.0,"palamu, garhwa"
+2025-01-03,tamilnadu,621715,2245.0,29.33251278167014,2245.0,ariyalur
+2025-01-03,uttarpradesh,276405,1017.0,29.312030075187966,1017.0,"azamgarh, mau"
+2025-01-03,maharashtra,401208,3733.0,29.30361847411151,3733.0,"palghar, thane"
+2025-01-03,telangana,500054,1185.0,29.29945054945055,1185.0,hyderabad
+2025-01-03,tamilnadu,636906,1691.0,29.277764036606477,1691.0,dharmapuri
+2025-01-03,uttarpradesh,229402,1249.0,29.26358311452232,1249.0,"raebareli, amethi"
+2025-01-03,westbengal,735217,775.0,29.245283018867923,775.0,"alipurduar, jalpaiguri, coochbehar"
+2025-01-07,telangana,503224,1831.0,29.230389341908808,1831.0,nizamabad
+2025-01-03,jharkhand,815301,4535.0,29.22964859615045,4535.0,giridih
+2025-01-03,uttarpradesh,203205,2900.0,29.207648123377133,2900.0,"bulandshahr, gautambuddhanagar"
+2025-01-03,tamilnadu,606207,1731.0,29.187040828616162,1731.0,"kallakurichi, viluppuram"
+2025-01-07,rajasthan,313011,1417.0,29.16481749477408,1417.0,"rajsamand, udaipur"
+2025-01-03,westbengal,700105,553.0,29.153463980126965,553.0,"kolkata, northtwentyfourparganas, southtwentyfourparganas"
+2025-01-03,telangana,508113,570.0,29.152542372881356,570.0,"nalgonda, yadadribhuvanagiri"
+2025-01-03,uttarpradesh,202412,2681.0,29.126913580246914,2681.0,"sambhal, moradabad, agra"
+2025-01-03,tamilnadu,627756,1407.0,29.1119257086999,1407.0,"tenkasi, tirunelveli"
+2025-01-03,bihar,811103,1028.0,29.10103567318757,1028.0,"nalanda, sheikhpura"
+2025-01-03,rajasthan,325004,2292.0,29.09337506520605,2292.0,"kota, baran"
+2025-01-03,rajasthan,328041,1900.0,29.041980624327234,1900.0,dholpur
+2025-01-03,telangana,502313,1018.0,28.99757575757576,1018.0,"medak, sangareddy"
+2025-01-03,odisha,754141,1822.0,28.975311387900355,1822.0,"jagatsinghpur, kendrapara"
+2025-01-06,telangana,500070,1760.0,28.959103374269702,1760.0,"rangareddy, kvrangareddy"
+2025-01-03,jammuandkashmir,191111,5761.0,28.943137702671844,5761.0,budgam
+2025-01-06,madhyapradesh,450661,1748.0,28.935354591392226,1748.0,"burhanpur, khandwa, khargone, barwani"
+2025-01-03,rajasthan,312620,1119.0,28.92330508474576,1119.0,chittorgarh
+2025-01-06,telangana,500005,2599.0,28.907459070552825,2599.0,"hyderabad, rangareddy, kvrangareddy"
+2025-01-03,telangana,505467,591.0,28.863149647427527,591.0,"karimnagar, siddipet"
+2025-01-03,andhrapradesh,515501,590.0,28.850317282568124,590.0,"ananthapuram, srisathyasai"
+2025-03-01,rajasthan,314801,2968.0,28.850066577896136,2968.0,dungarpur
+2025-01-03,gujarat,389380,2091.0,28.844304696216653,2091.0,"dahod, panchmahal"
+2025-01-03,madhyapradesh,484661,4894.0,28.842769943169863,4894.0,"umaria, shahdol"
+2025-01-03,tamilnadu,603210,542.0,28.81989708404803,542.0,"chengalpattu, kancheepuram"
+2025-01-03,meghalaya,794102,676.0,28.798206278026907,676.0,southgarohills
+2025-01-03,rajasthan,313322,725.0,28.750826173165898,725.0,"rajsamand, udaipur"
+2025-01-03,chhatisgarh,491668,1988.0,28.716875871687588,1988.0,"mohlamanpurambagarhchowki, rajnandgaon, durg"
+2025-03-01,telangana,504293,1195.0,28.703795892968262,1195.0,"adilabad, komarambheemasifabad, jagitial, bhadradrikothagudem"
+2025-01-03,jharkhand,829110,3610.0,28.69812099938055,3610.0,"ramgarh, hazaribagh"
+2025-01-03,gujarat,360590,770.0,28.665977249224404,770.0,"devbhumidwarka, porbandar, jamnagar"
+2025-01-03,tamilnadu,600125,795.0,28.660279311464762,795.0,"kancheepuram, chennai"
+2025-03-01,uttarpradesh,209868,225.0,28.645833333333332,225.0,unnao
+2025-01-07,gujarat,389190,1311.0,28.6400873839432,2.0776545166402536,"dahod, mahisagar, panchmahal"
+2025-01-03,tamilnadu,621653,514.0,28.629533678756477,514.0,"ariyalur, perambalur, tiruchirappalli"
+2025-01-03,mizoram,796431,2412.0,28.62908011869436,2412.0,mamit
+2025-01-03,uttarpradesh,222133,1696.0,28.612895770741854,1696.0,jaunpur
+2025-01-07,westbengal,733207,7361.0,28.6005439581788,7361.0,"uttardinajpur, dakshindinajpur"
+2025-01-03,rajasthan,321402,1541.0,28.597560975609756,1541.0,bharatpur
+2025-01-03,assam,784111,626.0,28.577421344848858,626.0,"sonitpur, udalguri"
+2025-03-01,jharkhand,816105,630.0,28.56472795497186,630.0,"pakur, sahibganj"
+2025-01-03,andhrapradesh,531077,1922.0,28.552631578947366,1922.0,"allurisitharamaraju, visakhapatnam"
+2025-01-03,jharkhand,825409,2964.0,28.534296028880867,2964.0,"hazaribagh, koderma, chatra"
+2025-01-03,rajasthan,312206,1009.0,28.532133676092542,1009.0,chittorgarh
+2025-01-06,andhrapradesh,516360,3078.0,28.524350969438053,3078.0,"cuddapah, ysrkadapa"
+2025-01-07,chhatisgarh,497778,2286.0,28.52015355086372,2286.0,"koriya, manendragarhchirmiribharatpur"
+2025-01-07,telangana,501106,1175.0,28.516772298655123,1175.0,"rangareddy, vikarabad, kvrangareddy"
+2025-01-03,rajasthan,312022,2022.0,28.50563909774436,2022.0,chittorgarh
+2025-01-03,westbengal,713143,1266.0,28.460686850429283,1266.0,"paschimbardhaman, purbabardhaman, birbhum"
+2025-01-03,rajasthan,335803,2929.0,28.459919028340078,2929.0,"ganganagar, hanumangarh"
+2025-01-03,odisha,752014,1373.0,28.458095524181434,1373.0,puri
+2025-03-01,rajasthan,326520,585.0,28.42105263157895,585.0,kota
+2025-01-03,andhrapradesh,531055,1521.0,28.408273381294965,1521.0,"anakapalli, visakhapatnam"
+2025-01-03,uttarpradesh,231219,2590.0,28.404386777880752,2590.0,"sonbhadra, mirzapur"
+2025-01-06,chhatisgarh,494337,1785.0,28.380753138075317,1785.0,"kanker, dhamtari"
+2025-01-03,uttarpradesh,273303,6865.0,28.37341898217309,6865.0,"maharajganj, mahrajganj, gorakhpur"
+2025-01-03,rajasthan,313905,1150.0,28.372891942535915,1150.0,udaipur
+2025-01-07,manipur,795148,3744.0,28.363636363636363,3744.0,"thoubal, chandel"
+2025-01-03,assam,781369,959.0,28.335763622409825,959.0,"nalbari, barpeta"
+2025-03-01,rajasthan,312604,1872.0,28.31413612565445,1872.0,"pratapgarh, chittorgarh"
+2025-01-03,mizoram,796190,659.0,28.307560137457042,659.0,aizawl
+2025-01-03,jharkhand,822126,2556.0,28.304285026480503,2556.0,"latehar, palamu"
+2025-01-03,tamilnadu,627860,442.0,28.301781737193764,442.0,"tenkasi, tirunelveli"
+2025-01-03,karnataka,583127,415.0,28.29026937877955,415.0,"davanagere, vijayanagara, ballari"
+2025-01-03,jammuandkashmir,191202,1178.0,28.272000000000002,1178.0,"ganderbal, srinagar"
+2025-01-06,chhatisgarh,495689,4394.0,28.25524524759446,4394.0,"janjgirchampa, sakti, gariyaband, balodabazar"
+2025-01-03,assam,783337,1311.0,28.242794759825326,1311.0,"dhubri, kokrajhar, chirang"
+2025-01-03,jharkhand,828204,1828.0,28.24157303370787,1828.0,dhanbad
+2025-01-03,tripura,799101,1921.0,28.240341880341884,1921.0,"gomati, southtripura"
+2025-01-06,karnataka,562123,1595.0,28.23957866427611,1595.0,"bengalururural, bengaluruurban"
+2025-01-03,tamilnadu,600129,336.0,28.235294117647058,336.0,"chennai, kancheepuram"
+2025-01-03,bihar,853201,3361.0,28.22497237569061,3361.0,"bhagalpur, banka"
+2025-01-07,telangana,506167,854.0,28.211032713277742,854.0,"jangaon, warangal"
+2025-03-01,meghalaya,794108,349.0,28.2020202020202,349.0,"northgarohills, eastgarohills"
+2025-01-03,bihar,804426,725.0,28.188512518409425,725.0,"arwal, patna, jehanabad"
+2025-01-03,andhrapradesh,515305,406.0,28.178137651821864,406.0,"ananthapuram, srisathyasai"
+2025-01-03,westbengal,734005,669.0,28.177690029615004,669.0,"darjeeling, jalpaiguri"
+2025-01-06,chhatisgarh,494669,3169.0,28.15426329756548,3169.0,kanker
+2025-01-03,rajasthan,312404,1102.0,28.14365522745411,1102.0,chittorgarh
+2025-01-03,assam,781318,746.0,28.140253164556963,746.0,"baksa, barpeta, bajali"
+2025-01-07,telangana,500053,5102.0,28.1356822976424,4.24459234608985,hyderabad
+2025-03-01,rajasthan,314406,1874.0,28.115857470306317,1874.0,dungarpur
+2025-01-03,telangana,506391,290.0,28.093194359288777,290.0,"hanumakonda, warangal"
+2025-01-03,andhrapradesh,515271,521.0,28.0642919200695,521.0,"ananthapuram, srisathyasai"
+2025-01-04,andhrapradesh,507129,780.0,28.060221870047542,780.0,"allurisitharamaraju, eastgodavari, khammam"
+2025-01-03,telangana,507166,567.0,28.037533512064346,567.0,"bhadradrikothagudem, khammam"
+2025-01-03,uttarpradesh,202126,1643.0,28.03366382291907,1643.0,aligarh
+2025-01-03,rajasthan,305408,654.0,28.022684310018903,654.0,ajmer
+2025-01-07,madhyapradesh,464228,7998.0,28.012048192771086,7998.0,"vidisha, raisen"
+2025-01-03,rajasthan,321026,696.0,28.01117942984908,696.0,"bharatpur, deeg"
+2025-03-01,jharkhand,815351,3062.0,28.00254032770227,3062.0,"deoghar, jamtara"
+2025-01-03,bihar,854102,2638.0,28.001929969671906,2638.0,"araria, purnia"
+2025-01-03,uttarpradesh,276124,976.0,28.00110344827586,976.0,"azamgarh, mau"
+2025-01-03,telangana,507111,471.0,27.984272608125824,471.0,"bhadradrikothagudem, khammam"
+2025-01-07,telangana,509125,2713.0,27.955838284001892,2713.0,"jogulambagadwal, mahabubnagar"
+2025-01-03,rajasthan,322033,555.0,27.9530779164873,555.0,"karauli, sawaimadhopur"
+2025-01-05,chhatisgarh,495449,2594.0,27.93753365643511,2594.0,"bilaspur, korba, gariyaband"
+2025-01-03,bihar,841407,876.0,27.933411488862838,876.0,"gopalganj, siwan"
+2025-01-03,westbengal,713212,1237.0,27.93040037243948,1237.0,"paschimbardhaman, purbabardhaman"
+2025-01-03,rajasthan,305407,1534.0,27.928804347826087,1534.0,ajmer
+2025-01-07,madhyapradesh,475110,5396.0,27.902255983160206,5.903719912472647,"gwalior, shivpuri"
+2025-01-05,tamilnadu,641201,1833.0,27.898798397863818,1833.0,coimbatore
+2025-01-03,tamilnadu,600016,886.0,27.883986423943227,886.0,"chennai, kancheepuram"
+2025-01-03,westbengal,700055,592.0,27.875058275058276,592.0,"northtwentyfourparganas, kolkata"
+2025-01-03,andhrapradesh,515631,542.0,27.86833253243633,542.0,"ananthapuram, srisathyasai"
+2025-01-03,rajasthan,328023,2758.0,27.862664714494876,2758.0,dholpur
+2025-01-03,jammuandkashmir,184121,825.0,27.86144578313253,825.0,"jammu, samba, udhampur, kathua"
+2025-01-05,gujarat,380026,5075.0,27.851195357345613,28.03867403314917,ahmedabad
+2025-01-04,assam,781325,620.0,27.849978194505017,6.739130434782608,"barpeta, bajali, baksa"
+2025-01-03,telangana,500016,731.0,27.837799717912553,731.0,"hyderabad, medchalmalkajgiri"
+2025-01-04,andhrapradesh,515641,766.0,27.814409221902014,766.0,"ananthapuram, srisathyasai"
+2025-01-03,assam,785670,295.0,27.787096774193547,295.0,"charaideo, dibrugarh, sibsagar"
+2025-01-05,uttarpradesh,245101,7897.0,27.782985677644866,6.909011373578303,"ghaziabad, hapur, gautambuddhanagar"
+2025-01-03,jharkhand,822120,1861.0,27.781799591002045,1861.0,"garhwa, palamu"
+2025-01-03,ladakh,194201,346.0,27.755697356426616,346.0,leh
+2025-01-03,tamilnadu,613402,614.0,27.74010246856078,614.0,"thanjavur, pudukkottai"
+2025-01-03,telangana,505162,544.0,27.718095238095238,544.0,"karimnagar, peddapalli"
+2025-01-03,westbengal,743711,664.0,27.717245581962217,664.0,"northtwentyfourparganas, nadia"
+2025-01-07,assam,788161,1202.0,27.66267339218159,3.1139896373056994,"hailakandi, cachar"
+2025-03-01,rajasthan,313604,2955.0,27.658827658827658,2955.0,"udaipur, pratapgarh"
+2025-01-07,uttarpradesh,210431,2721.0,27.65436066712995,2721.0,"hamirpur, mahoba"
+2025-03-01,rajasthan,328029,1906.0,27.652656283336892,1906.0,dholpur
+2025-01-03,jharkhand,829111,1673.0,27.639839509086617,1673.0,bokaro
+2025-01-03,bihar,804454,691.0,27.631932282545243,691.0,"jehanabad, patna"
+2025-01-05,madhyapradesh,484334,2363.0,27.614357262103507,2363.0,"anuppur, shahdol, sidhi"
+2025-01-04,jammuandkashmir,193224,5929.0,27.60472751149048,5929.0,kupwara
+2025-01-07,telangana,502220,796.0,27.599266544424072,796.0,"medak, sangareddy"
+2025-01-03,rajasthan,304507,973.0,27.576407506702413,973.0,tonk
+2025-01-03,jharkhand,828116,2696.0,27.565720435893986,2696.0,"dhanbad, bokaro"
+2025-01-03,telangana,505188,472.0,27.55215311004785,472.0,"karimnagar, peddapalli"
+2025-01-03,telangana,503301,463.0,27.54586018839861,463.0,"kamareddy, nizamabad"
+2025-01-03,andhrapradesh,531084,594.0,27.542232722976966,594.0,"allurisitharamaraju, visakhapatnam, anakapalli"
+2025-01-03,tamilnadu,636806,784.0,27.517095310136156,784.0,"dharmapuri, krishnagiri"
+2025-01-03,jharkhand,828402,2528.0,27.4996114996115,2528.0,dhanbad
+2025-01-03,telangana,509216,1211.0,27.487122192167472,1211.0,"mahabubnagar, rangareddy, kvrangareddy"
+2025-01-03,himachalpradesh,173022,984.0,27.45634563456346,984.0,sirmaur
+2025-01-03,karnataka,587118,1043.0,27.43747747747748,1043.0,bagalkot
+2025-03-01,rajasthan,343049,955.0,27.43646408839779,955.0,jalor
+2025-01-03,tamilnadu,630611,1292.0,27.433155080213904,1292.0,"sivaganga, virudhunagar"
+2025-03-01,ladakh,194103,355.0,27.428256070640177,355.0,kargil
+2025-01-04,mizoram,796501,573.0,27.421734795613162,573.0,mamit
+2025-01-03,rajasthan,326036,1670.0,27.401006344344783,1670.0,"jhalawar, baran"
+2025-01-03,uttarpradesh,271401,2366.0,27.39277691377225,2366.0,gonda
+2025-01-03,rajasthan,343042,1586.0,27.364216497281966,1586.0,jalor
+2025-01-04,haryana,121004,11066.0,27.357455099133908,8.658841940532081,"faridabad, palwal"
+2025-01-07,jammuandkashmir,182144,959.0,27.351957919345413,959.0,"ramban, reasi, doda, udhampur"
+2025-01-03,mizoram,796471,1037.0,27.3448275862069,1037.0,mamit
+2025-01-03,rajasthan,323803,2248.0,27.344183655987663,2248.0,bundi
+2025-01-07,madhyapradesh,451442,1671.0,27.341324200913242,1671.0,"barwani, khargone"
+2025-01-03,bihar,813201,991.0,27.341239109390127,991.0,"bhagalpur, munger, banka"
+2025-01-05,madhyapradesh,450661,1651.0,27.329674159261195,20.89873417721519,"burhanpur, khandwa, khargone, barwani"
+2025-01-03,uttarpradesh,273305,3155.0,27.328019081094652,3155.0,"maharajganj, mahrajganj"
+2025-01-03,bihar,824118,2686.0,27.32487779098956,2686.0,gaya
+2025-03-01,meghalaya,794103,805.0,27.321477056747216,805.0,"southgarohills, westgarohills, southwestgarohills"
+2025-01-07,telangana,500078,539.0,27.320952589032117,539.0,"hyderabad, rangareddy, medchalmalkajgiri, kvrangareddy"
+2025-03-01,rajasthan,325222,1364.0,27.320176730486008,1364.0,baran
+2025-03-01,rajasthan,343027,1695.0,27.31982500575639,1695.0,jalor
+2025-01-03,telangana,507115,1231.0,27.314634754425327,1231.0,"bhadradrikothagudem, khammam"
+2025-01-03,tamilnadu,605802,752.0,27.30408472012103,752.0,"viluppuram, kallakurichi"
+2025-01-03,rajasthan,313803,3595.0,27.29478433098592,3595.0,udaipur
+2025-01-04,assam,781318,723.0,27.2726582278481,723.0,"baksa, barpeta, bajali"
+2025-01-03,telangana,500089,1570.0,27.272391277565603,1570.0,"rangareddy, kvrangareddy, hyderabad"
+2025-01-07,manipur,795009,2562.0,27.239220318960424,2562.0,imphalwest
+2025-01-03,jharkhand,814157,1583.0,27.21900452488688,1583.0,deoghar
+2025-03-01,telangana,500084,896.0,27.20647773279352,896.0,"rangareddy, hyderabad, kvrangareddy"
+2025-01-04,chhatisgarh,493889,1262.0,27.204175704989154,1262.0,"gariyaband, raipur, dhamtari"
+2025-01-03,rajasthan,344043,1638.0,27.199261992619927,1638.0,barmer
+2025-01-07,chandigarh,160055,850.0,27.19573400250941,850.0,"chandigarh, rupnagar"
+2025-01-03,bihar,804418,1400.0,27.19475277497477,1400.0,"jehanabad, arwal"
+2025-01-03,jharkhand,828113,4311.0,27.19286269765834,4311.0,"dhanbad, bokaro"
+2025-01-03,karnataka,583220,346.0,27.180467091295117,346.0,"ballari, vijayanagara"
+2025-01-03,uttarpradesh,209204,1069.0,27.179697954502004,1069.0,"kanpurdehat, kanpurnagar"
+2025-03-01,uttarpradesh,271870,1489.0,27.179675793488624,1489.0,"bahraich, shrawasti"
+2025-01-03,tamilnadu,635116,876.0,27.175182481751825,876.0,"dharmapuri, krishnagiri"
+2025-01-07,uttarpradesh,202001,20813.0,27.16893188973355,7.313070976809557,"aligarh, hathras"
+2025-01-03,jharkhand,822102,1949.0,27.166467542811628,1949.0,palamu
+2025-01-03,assam,785619,595.0,27.127659574468083,595.0,golaghat
+2025-01-03,tamilnadu,632311,495.0,27.126696832579185,495.0,"tiruvannamalai, vellore"
+2025-01-04,delhi,110095,3624.0,27.072873893039134,3624.0,"eastdelhi, shahdara"
+2025-01-03,tamilnadu,621215,609.0,27.071990558615266,609.0,"namakkal, tiruchirappalli"
+2025-01-07,punjab,143105,2737.0,27.054009172860983,2737.0,"amritsar, tarntaran"
+2025-01-07,chandigarh,160047,5877.0,27.044729414652103,5877.0,chandigarh
+2025-01-03,uttarpradesh,242303,2608.0,27.042283867492593,2608.0,shahjahanpur
+2025-01-03,westbengal,700035,574.0,27.035324901875274,574.0,"northtwentyfourparganas, kolkata, bankura"
+2025-03-01,assam,785614,815.0,27.02937460518004,815.0,"golaghat, jorhat, majuli"
+2025-01-03,telangana,505001,3368.0,27.01361899122571,3368.0,karimnagar
+2025-01-03,bihar,854201,1256.0,27.01315321720583,1256.0,"araria, purnia"
+2025-01-03,rajasthan,328027,3869.0,27.009999999999998,3869.0,dholpur
+2025-01-03,westbengal,700156,544.0,27.00709219858156,544.0,"northtwentyfourparganas, southtwentyfourparganas"
+2025-01-03,telangana,508238,475.0,27.001733102253034,475.0,"nalgonda, suryapet"
+2025-01-03,rajasthan,311404,2703.0,27.000809935205183,2703.0,bhilwara
+2025-01-03,rajasthan,312602,856.0,26.994913530010173,856.0,chittorgarh
+2025-01-05,uttarpradesh,203131,5521.0,26.98812849162011,5521.0,"bulandshahr, gautambuddhanagar"
+2025-01-06,tamilnadu,621716,1330.0,26.987785657998426,1330.0,"ariyalur, perambalur"
+2025-01-03,uttarpradesh,209503,321.0,26.984238178633973,321.0,farrukhabad
+2025-01-03,andhrapradesh,522402,774.0,26.982288445319092,774.0,"guntur, palnadu"
+2025-03-01,telangana,500072,1598.0,26.98120420516088,1598.0,"hyderabad, medchalmalkajgiri"
+2025-01-07,telangana,500024,1182.0,26.959659574468084,3.900990099009901,hyderabad
+2025-01-03,rajasthan,342301,4551.0,26.949703914481276,4551.0,"jodhpur, jaisalmer"
+2025-01-03,jharkhand,828207,750.0,26.937618147448017,750.0,dhanbad
+2025-01-03,bihar,824209,1861.0,26.935526315789474,1861.0,gaya
+2025-01-03,rajasthan,311402,1144.0,26.922519913106445,1144.0,bhilwara
+2025-01-03,andhrapradesh,515556,246.0,26.914660831509845,246.0,"ananthapuram, srisathyasai"
+2025-01-07,maharashtra,410207,573.0,26.903837471783294,573.0,"raigarh, raigad"
+2025-01-03,uttarpradesh,246763,4748.0,26.897488232598825,4748.0,bijnor
+2025-01-03,karnataka,574153,582.0,26.88033589923023,582.0,dakshinakannada
+2025-01-03,westbengal,731215,651.0,26.865876958349254,651.0,"birbhum, purbabardhaman, paschimbardhaman"
+2025-01-03,meghalaya,793114,1041.0,26.848769050410315,1041.0,"southwestkhasihills, westkhasihills, eastkhasihills"
+2025-01-04,uttarpradesh,247776,5727.0,26.846494123861085,10.644981412639405,"muzaffarnagar, shamli"
+2025-01-03,uttarpradesh,273302,2720.0,26.842105263157897,2720.0,"maharajganj, gorakhpur, mahrajganj"
+2025-01-03,telangana,509412,754.0,26.822134387351777,754.0,"mahabubnagar, nagarkurnool"
+2025-01-03,westbengal,700061,884.0,26.819750148721,884.0,"southtwentyfourparganas, kolkata"
+2025-01-03,delhi,110003,1404.0,26.815825375170533,1404.0,"centraldelhi, southdelhi, newdelhi"
+2025-01-03,jharkhand,814114,993.0,26.807649043869517,993.0,deoghar
+2025-01-03,assam,781371,193.0,26.805555555555554,193.0,"nalbari, barpeta, baksa, bajali"
+2025-01-03,telangana,509357,446.0,26.805432937181664,446.0,"mahabubnagar, rangareddy, nagarkurnool, kvrangareddy"
+2025-01-07,haryana,134118,1248.0,26.79905437352246,1248.0,"ambala, panchkula"
+2025-01-03,jharkhand,816117,1526.0,26.783677051338305,1526.0,"dumka, pakur"
+2025-01-03,telangana,506169,566.0,26.781390430874964,566.0,"jayashankarbhupalpally, warangal, karimnagar"
+2025-01-03,assam,788806,497.0,26.780007432181346,497.0,"karimganj, cachar, sribhumi, hailakandi"
+2025-01-03,jharkhand,828109,10371.0,26.776347402015276,10371.0,"dhanbad, bokaro"
+2025-03-01,bihar,843132,565.0,26.77351916376307,565.0,muzaffarpur
+2025-03-01,jharkhand,835301,1896.0,26.77278562259307,1896.0,"lohardaga, ranchi"
+2025-01-03,westbengal,700154,743.0,26.7433489827856,743.0,southtwentyfourparganas
+2025-01-06,madhyapradesh,485881,3156.0,26.74252511802445,3156.0,"maihar, satna"
+2025-01-07,punjab,152123,3284.0,26.741057964895347,3284.0,"fazilka, ferozepur"
+2025-01-07,chandigarh,160023,590.0,26.73848439821694,590.0,chandigarh
+2025-01-03,jharkhand,813208,2403.0,26.73435253159767,2403.0,"godda, sahibganj, dumka"
+2025-01-06,chhatisgarh,491881,2827.0,26.719461549477302,2827.0,"rajnandgaon, khairagarhchhuikhadangandai"
+2025-01-03,rajasthan,341503,4439.0,26.71729509647725,4439.0,nagaur
+2025-01-05,delhi,110030,3032.0,26.6998186998187,3032.0,"southdelhi, southwestdelhi"
+2025-01-03,rajasthan,327032,2093.0,26.69849246231156,2093.0,banswara
+2025-01-03,andhrapradesh,515164,226.0,26.69291338582677,226.0,"ananthapuram, srisathyasai"
+2025-03-01,rajasthan,313701,2718.0,26.690671031096564,2718.0,"udaipur, rajsamand"
+2025-01-03,bihar,811310,2181.0,26.687449015266285,2181.0,"lakhisarai, jamui"
+2025-01-03,rajasthan,311403,1582.0,26.677908937605398,1582.0,bhilwara
+2025-01-03,telangana,500006,2514.0,26.677464395420273,2514.0,hyderabad
+2025-01-03,assam,782139,655.0,26.675222450376452,655.0,"karbianglong, nagaon"
+2025-01-03,bihar,854336,1823.0,26.674987088999828,1823.0,"araria, katihar, kishanganj"
+2025-01-03,rajasthan,323802,2001.0,26.664977477477475,2001.0,bundi
+2025-01-06,chhatisgarh,497442,2297.0,26.654607508532425,2297.0,"koriya, manendragarhchirmiribharatpur"
+2025-01-03,karnataka,591112,543.0,26.652486910994764,543.0,belagavi
+2025-01-03,madhyapradesh,484665,1910.0,26.629807692307693,1910.0,"umaria, shahdol"
+2025-01-06,westbengal,713129,1052.0,26.61878787878788,1052.0,"birbhum, paschimbardhaman, purbabardhaman"
+2025-01-06,telangana,509339,579.0,26.61575532900834,579.0,"mahabubnagar, rangareddy, vikarabad, narayanpet, kvrangareddy"
+2025-01-03,andhrapradesh,515571,829.0,26.608951175406872,829.0,"ananthapuram, srisathyasai"
+2025-01-03,rajasthan,306102,2239.0,26.593089619003546,2239.0,pali
+2025-01-04,andhrapradesh,533401,1487.0,26.587976159626848,1487.0,"eastgodavari, kakinada"
+2025-01-03,tamilnadu,627811,910.0,26.58698539176627,910.0,"tenkasi, tirunelveli"
+2025-01-03,gujarat,394730,1331.0,26.582025677603426,1331.0,"dang, navsari, tapi, surat"
+2025-01-03,telangana,509327,503.0,26.57807570977918,503.0,"mahabubnagar, rangareddy, kvrangareddy"
+2025-01-05,madhyapradesh,451449,2234.0,26.576309100152518,8.007168458781361,"barwani, khargone"
+2025-01-03,assam,783345,722.0,26.57082340481864,722.0,"dhubri, kokrajhar"
+2025-01-03,meghalaya,793102,1267.0,26.561121698883746,1267.0,"ribhoi, eastkhasihills"
+2025-01-07,telangana,506002,2124.0,26.55,2124.0,"hanumakonda, warangal"
+2025-01-03,jharkhand,816109,5309.0,26.545,5309.0,sahibganj
+2025-01-03,uttarpradesh,245208,769.0,26.544162436548223,769.0,"ghaziabad, hapur"
+2025-01-03,uttarpradesh,244701,249.0,26.536412078152754,249.0,rampur
+2025-01-03,jharkhand,835211,2836.0,26.529466791393826,2836.0,"gumla, simdega, khunti"
+2025-03-01,telangana,508112,653.0,26.516940707523666,653.0,"nalgonda, yadadribhuvanagiri"
+2025-03-01,jharkhand,814120,1298.0,26.516472450007193,1298.0,"deoghar, dumka"
+2025-01-05,delhi,110094,20620.0,26.515141192901183,20620.0,"northeastdelhi, northwestdelhi, eastdelhi"
+2025-01-04,delhi,110096,12720.0,26.509078451524495,12720.0,eastdelhi
+2025-01-03,assam,787034,768.0,26.495104895104895,768.0,"dhemaji, lakhimpur"
+2025-01-03,telangana,505415,516.0,26.486384976525823,516.0,"karimnagar, jagitial, peddapalli"
+2025-03-01,jharkhand,828401,840.0,26.475644699140403,840.0,"bokaro, dhanbad"
+2025-01-03,telangana,500060,843.0,26.468387096774194,843.0,"rangareddy, hyderabad, kvrangareddy"
+2025-01-03,assam,782448,903.0,26.46633778293674,903.0,"karbianglong, cachar, westkarbianglong"
+2025-01-03,westbengal,700094,530.0,26.454388984509464,530.0,"kolkata, southtwentyfourparganas"
+2025-01-03,uttarpradesh,221001,6079.0,26.449314890577313,6079.0,"chandauli, varanasi"
+2025-01-03,bihar,851130,1874.0,26.429578806937297,1874.0,begusarai
+2025-01-03,jharkhand,832303,3120.0,26.4255465262676,3120.0,eastsinghbhum
+2025-01-03,bihar,824210,2845.0,26.424148606811144,2845.0,gaya
+2025-01-03,himachalpradesh,173223,366.0,26.418491484184916,366.0,"sirmaur, solan"
+2025-03-01,telangana,507209,996.0,26.40159045725646,996.0,khammam
+2025-01-03,uttarpradesh,209307,911.0,26.398295454545455,911.0,"kanpurdehat, kanpurnagar"
+2025-01-03,tamilnadu,605751,637.0,26.394453507340945,637.0,"viluppuram, kallakurichi"
+2025-01-03,tamilnadu,610201,225.0,26.37481910274964,225.0,"nagapattinam, thiruvarur"
+2025-01-03,tamilnadu,635852,532.0,26.368520620507,532.0,"tirupathur, vellore"
+2025-01-03,andhrapradesh,515581,617.0,26.356177012907192,617.0,"ananthapuram, srisathyasai"
+2025-01-03,telangana,501203,808.0,26.333514394350896,808.0,"rangareddy, vikarabad, kvrangareddy"
+2025-01-03,assam,782442,695.0,26.311742088139603,695.0,"hojai, nagaon"
+2025-01-03,rajasthan,307025,2753.0,26.30828642492473,2753.0,udaipur
+2025-01-03,telangana,500034,1095.0,26.30457653866386,1095.0,hyderabad
+2025-01-03,mizoram,796161,685.0,26.295585412667947,685.0,"aizawl, serchhip"
+2025-01-03,odisha,754140,667.0,26.286767061839154,667.0,"jagatsinghpur, kendrapara"
+2025-01-03,tripura,799278,983.0,26.281324820430967,983.0,dhalai
+2025-01-04,delhi,110065,2497.0,26.28047219456692,2497.0,southdelhi
+2025-01-03,tamilnadu,606201,1269.0,26.279946364719905,1269.0,"kallakurichi, viluppuram"
+2025-01-03,assam,783392,1042.0,26.278264586450096,1042.0,"bongaigaon, chirang"
+2025-01-03,uttarpradesh,229304,1132.0,26.27342202094537,1132.0,"amethi, raebareli"
+2025-01-03,uttarpradesh,273301,2388.0,26.272970561998218,2388.0,"maharajganj, mahrajganj, gorakhpur"
+2025-01-07,tamilnadu,621717,2169.0,26.270726714431934,2169.0,perambalur
+2025-01-03,tamilnadu,600048,1988.0,26.263067202757036,1988.0,"kancheepuram, chengalpattu"
+2025-01-03,gujarat,384130,406.0,26.25998731769182,406.0,"mahesana, patan"
+2025-07-01,telangana,500048,1449.0,26.258121546961327,1449.0,"rangareddy, kvrangareddy"
+2025-01-07,uttarpradesh,201310,3177.0,26.251093613298337,5.776363636363636,gautambuddhanagar
+2025-01-06,chhatisgarh,497001,5829.0,26.243493729822326,5829.0,"balrampur, surajpur, surguja"
+2025-01-03,tamilnadu,627719,467.0,26.235955056179773,467.0,"tenkasi, tirunelveli"
+2025-03-01,rajasthan,307803,943.0,26.234375,943.0,jalor
+2025-01-03,westbengal,735210,2244.0,26.229912563276574,2244.0,"jalpaiguri, coochbehar"
+2025-01-03,odisha,768108,1581.0,26.2129388816645,1581.0,"deogarh, bargarh, sambalpur"
+2025-01-03,madhyapradesh,484555,2013.0,26.20030425963489,2013.0,"umaria, anuppur"
+2025-01-03,telangana,508207,3363.0,26.199616858237547,3363.0,nalgonda
+2025-01-07,karnataka,583136,971.0,26.160387286886973,971.0,"ballari, vijayanagara, davanagere"
+2025-01-04,madhyapradesh,486445,2780.0,26.15988871614434,2780.0,"rewa, satna"
+2025-03-01,rajasthan,312207,952.0,26.158201498751044,952.0,chittorgarh
+2025-01-06,chhatisgarh,494334,1876.0,26.14226289517471,1876.0,"kanker, kondagaon, gariyaband"
+2025-03-01,rajasthan,311011,1253.0,26.13820078226858,1253.0,bhilwara
+2025-01-03,rajasthan,341514,1516.0,26.137931034482758,1516.0,nagaur
+2025-01-03,andhrapradesh,515561,625.0,26.136363636363633,625.0,"ananthapuram, srisathyasai"
+2025-01-03,gujarat,364750,738.0,26.134651019147622,738.0,"bhavnagar, botad, rajkot"
+2025-03-01,telangana,509126,654.0,26.12870813397129,654.0,"jogulambagadwal, mahabubnagar"
+2025-01-04,andhrapradesh,531081,965.0,26.121588639893496,965.0,"visakhapatnam, anakapalli"
+2025-01-03,andhrapradesh,532440,1217.0,26.11587982832618,1217.0,"parvathipurammanyam, srikakulam, vizianagaram"
+2025-01-03,jharkhand,816101,3518.0,26.10760667903525,3518.0,"sahibganj, deoghar, dumka"
+2025-01-03,madhyapradesh,458339,594.0,26.102658788774,594.0,"mandsaur, neemuch"
+2025-01-03,karnataka,591224,1027.0,26.099110546378654,1027.0,belagavi
+2025-01-06,chhatisgarh,496554,1599.0,26.096439169139465,1599.0,"raigarh, sarangarhbilaigarh, raigad"
+2025-01-03,assam,784525,758.0,26.0857855361596,758.0,"darrang, udalguri"
+2025-01-03,andhrapradesh,522613,994.0,26.07679465776294,994.0,"guntur, palnadu"
+2025-01-05,andhrapradesh,532440,1215.0,26.07296137339056,1215.0,"parvathipurammanyam, srikakulam, vizianagaram"
+2025-01-04,chhatisgarh,497001,5790.0,26.067906792875494,5790.0,"balrampur, surajpur, surguja"
+2025-01-04,uttarpradesh,207001,5423.0,26.052845528455283,4.966117216117216,"etah, kasganj"
+2025-01-03,karnataka,583222,771.0,26.051042415528396,771.0,"ballari, vijayanagara"
+2025-01-07,madhyapradesh,484440,1253.0,26.03583115183246,1253.0,"anuppur, shahdol"
+2025-01-03,tamilnadu,600130,281.0,26.018518518518515,281.0,"chengalpattu, kancheepuram"
+2025-01-03,telangana,500014,358.0,26.01073729420186,358.0,"medchalmalkajgiri, rangareddy, hyderabad, kvrangareddy"
+2025-01-05,goa,403712,309.0,26.010101010101007,309.0,southgoa
+2025-01-03,rajasthan,301412,1264.0,26.00971706201772,1264.0,alwar
+2025-01-04,bihar,853204,2426.0,26.005338530632997,4.05685618729097,"bhagalpur, madhepura, purnia, katihar, munger, banka"
+2025-01-03,jharkhand,816116,1797.0,26.002180376610507,1797.0,"sahibganj, dumka"
+2025-03-01,rajasthan,312603,1062.0,26.002098635886675,1062.0,chittorgarh
+2025-01-03,tamilnadu,636107,970.0,25.996649916247907,970.0,salem
+2025-01-03,bihar,854325,3133.0,25.986432298819008,3133.0,"araria, purnia"
+2025-01-03,rajasthan,342309,1667.0,25.97729296527159,1667.0,jodhpur
+2025-01-03,uttarpradesh,271825,3572.0,25.96849659800541,3572.0,bahraich
+2025-01-03,andhrapradesh,532407,3661.0,25.966608224418234,3661.0,"srikakulam, vizianagaram"
+2025-01-03,rajasthan,326519,1832.0,25.95729395330273,1832.0,kota
+2025-01-03,delhi,110025,5674.0,25.948170731707318,5674.0,"southdelhi, southeastdelhi"
+2025-01-07,uttarakhand,244713,6024.0,25.94715525554484,6024.0,"nainital, udhamsinghnagar"
+2025-01-03,andhrapradesh,533305,431.0,25.941065830720998,431.0,"drbrambedkarkonaseema, eastgodavari"
+2025-01-03,westbengal,700157,980.0,25.9375,980.0,northtwentyfourparganas
+2025-01-03,jharkhand,835225,3127.0,25.93701503719163,3127.0,"khunti, ranchi, westsinghbhum"
+2025-01-03,tamilnadu,606202,825.0,25.935628742514968,825.0,"kallakurichi, viluppuram"
+2025-01-03,gujarat,394180,1554.0,25.93131801692866,1554.0,surat
+2025-01-07,uttarpradesh,282007,6026.0,25.925813953488372,6026.0,agra
+2025-01-03,rajasthan,343025,1412.0,25.89849246231156,1412.0,jalor
+2025-01-03,mizoram,796081,1965.0,25.89681774349084,1965.0,"kolasib, mamit"
+2025-01-03,bihar,851211,6406.0,25.896735236925597,6406.0,begusarai
+2025-03-01,jharkhand,825408,3391.0,25.892926857274084,3391.0,"chatra, hazaribagh"
+2025-01-03,tamilnadu,627857,551.0,25.889416231608923,551.0,"tenkasi, tirunelveli"
+2025-01-06,chhatisgarh,494441,1221.0,25.885992428339645,1221.0,"bijapur, dantewada, bastar, vijayapura"
+2025-01-04,andhrapradesh,522426,1574.0,25.855851267031706,1574.0,"guntur, palnadu"
+2025-01-03,madhyapradesh,472445,857.0,25.85334528076464,857.0,"tikamgarh, niwari"
+2025-03-01,uttarpradesh,273164,5195.0,25.844122711907644,5195.0,"maharajganj, mahrajganj"
+2025-01-03,tamilnadu,614404,605.0,25.83997722095672,605.0,thiruvarur
+2025-01-07,haryana,136117,3364.0,25.82344257454975,3364.0,kaithal
+2025-01-03,odisha,754214,576.0,25.82198952879581,576.0,"jajpur, kendrapara"
+2025-01-04,tripura,799264,837.0,25.80620023716754,837.0,"dhalai, northtripura, unakoti"
+2025-01-07,madhyapradesh,462420,2112.0,25.793347260163905,2112.0,bhopal
+2025-03-01,rajasthan,314021,1017.0,25.789415656008824,1017.0,dungarpur
+2025-01-03,jharkhand,814156,2635.0,25.786143006263046,2635.0,"godda, dumka"
+2025-01-07,punjab,160062,822.0,25.784901758014477,822.0,"sasnagarmohali, rupnagar"
+2025-01-03,rajasthan,321302,1508.0,25.781066598622097,1508.0,bharatpur
+2025-01-03,tamilnadu,607202,356.0,25.767619047619046,356.0,"viluppuram, kallakurichi"
+2025-01-06,karnataka,560067,1385.0,25.76584397866799,1385.0,"bengalururural, bengaluruurban"
+2025-01-03,tamilnadu,606710,795.0,25.75064267352185,795.0,tiruvannamalai
+2025-01-03,gujarat,396193,715.0,25.74958123953099,715.0,valsad
+2025-01-03,rajasthan,321301,984.0,25.74418604651163,984.0,bharatpur
+2025-03-01,rajasthan,311203,1548.0,25.734472408219812,1548.0,bhilwara
+2025-01-07,madhyapradesh,485775,2449.0,25.730234315948604,2449.0,"satna, maihar"
+2025-01-06,telangana,502319,1119.0,25.725771624539565,1119.0,"medak, sangareddy"
+2025-03-01,assam,785702,852.0,25.725101397025686,852.0,golaghat
+2025-07-01,telangana,508252,1515.0,25.714694383522456,1515.0,"nalgonda, yadadribhuvanagiri"
+2025-01-06,madhyapradesh,473885,2504.0,25.71405782652044,2504.0,"ashoknagar, shivpuri"
+2025-01-03,rajasthan,335503,1235.0,25.710696338837042,1235.0,hanumangarh
+2025-01-04,karnataka,560067,1382.0,25.710033486295426,6.169642857142857,"bengalururural, bengaluruurban"
+2025-03-01,telangana,503212,772.0,25.70884871550904,772.0,nizamabad
+2025-01-07,gujarat,389172,1126.0,25.707147979918716,1.7349768875192604,"dahod, mahisagar, panchmahal"
+2025-01-03,jharkhand,828121,1261.0,25.702903026559603,1261.0,dhanbad
+2025-01-03,telangana,509129,618.0,25.698189134808853,618.0,"jogulambagadwal, mahabubnagar"
+2025-01-03,jharkhand,828101,1162.0,25.6867740726864,1162.0,dhanbad
+2025-01-04,uttarpradesh,201009,4832.0,25.683575037732137,4832.0,"gautambuddhanagar, ghaziabad, hapur"
+2025-01-03,uttarakhand,249205,843.0,25.681334622823986,843.0,dehradun
+2025-01-07,gujarat,394250,318.0,25.67920353982301,318.0,"surat, tapi"
+2025-01-03,uttarpradesh,212203,1813.0,25.67610814787567,1813.0,"kaushambi, prayagraj"
+2025-01-03,chhatisgarh,491225,1536.0,25.670076357873505,1536.0,"balod, durg"
+2025-01-04,madhyapradesh,481672,1772.0,25.664123825317855,1772.0,"dindori, mandla"
+2025-03-01,jharkhand,815318,1881.0,25.653151492812384,1881.0,giridih
+2025-01-07,maharashtra,431001,13670.0,25.650981524249424,3.5636079249217936,"aurangabad, chhatrapatisambhajinagar"
+2025-01-04,assam,781381,855.0,25.617977528089888,855.0,kamrup
+2025-01-03,karnataka,586207,442.0,25.61297182349814,442.0,"bijapur, vijayapura"
+2025-01-05,jammuandkashmir,182144,898.0,25.612156633547634,898.0,"ramban, reasi, doda, udhampur"
+2025-01-03,andhrapradesh,517619,546.0,25.611940298507463,546.0,"chittoor, tirupati"
+2025-01-03,bihar,811213,3788.0,25.610506683245262,3788.0,"munger, jamui"
+2025-01-04,delhi,110020,2834.0,25.606349206349208,2834.0,southdelhi
+2025-03-01,bihar,805130,1612.0,25.60609677715545,1612.0,"gaya, nalanda, nawada"
+2025-01-03,rajasthan,341301,1117.0,25.60458452722063,1117.0,nagaur
+2025-03-01,rajasthan,305814,1554.0,25.60131795716639,1554.0,ajmer
+2025-01-03,tamilnadu,621315,818.0,25.59988300672711,818.0,"karur, tiruchirappalli"
+2025-01-03,bihar,824206,4983.0,25.594231529039906,4983.0,gaya
+2025-01-07,chandigarh,160020,626.0,25.592472420506166,626.0,chandigarh
+2025-01-03,bihar,855107,7545.0,25.570714751249188,7545.0,"kishanganj, purnia, araria"
+2025-01-03,andhrapradesh,515321,321.0,25.568611987381704,321.0,"ananthapuram, srisathyasai"
+2025-01-03,jammuandkashmir,192231,4335.0,25.56599770885485,4335.0,"anantnag, kulgam, baramula"
+2025-01-03,uttarpradesh,231218,1512.0,25.558718861209965,1512.0,sonbhadra
+2025-01-03,rajasthan,313324,3646.0,25.55856294421186,3646.0,rajsamand
+2025-01-03,westbengal,721139,1078.0,25.554472091459317,1078.0,"paschimmedinipur, purbamedinipur"
+2025-01-07,tamilnadu,621133,663.0,25.550830564784054,663.0,perambalur
+2025-01-03,rajasthan,341025,2959.0,25.54273556231003,2959.0,nagaur
+2025-01-03,rajasthan,325215,2200.0,25.536030952764794,2200.0,baran
+2025-01-03,uttarpradesh,273207,1694.0,25.53402239448751,1694.0,maharajganj
+2025-01-03,bihar,823004,807.0,25.533721898417987,807.0,gaya
+2025-01-03,jharkhand,829107,1545.0,25.53132889602938,1545.0,"bokaro, giridih"
+2025-01-03,bihar,841413,847.0,25.53083294983893,847.0,"gopalganj, siwan"
+2025-01-03,mizoram,796111,1321.0,25.52919407894737,1321.0,aizawl
+2025-01-04,andhrapradesh,531113,952.0,25.528052805280527,952.0,"anakapalli, visakhapatnam"
+2025-01-07,maharashtra,431137,867.0,25.527006990044484,867.0,"chhatrapatisambhajinagar, jalna, aurangabad"
+2025-01-04,andhrapradesh,515541,433.0,25.52326783867632,433.0,"ananthapuram, srisathyasai"
+2025-01-03,jammuandkashmir,182203,1970.0,25.522857671663893,1970.0,"doda, kishtwar"
+2025-01-03,jharkhand,829112,1654.0,25.51257712387281,1654.0,bokaro
+2025-01-07,telangana,509339,555.0,25.51251158480074,555.0,"mahabubnagar, rangareddy, vikarabad, narayanpet, kvrangareddy"
+2025-01-03,madhyapradesh,485772,1371.0,25.494206837362324,1371.0,"maihar, satna"
+2025-01-03,tamilnadu,606205,976.0,25.487898089171978,976.0,"kallakurichi, viluppuram"
+2025-01-03,tamilnadu,635901,431.0,25.4838104176443,431.0,"tirupathur, vellore"
+2025-01-03,uttarpradesh,245201,736.0,25.48148148148148,736.0,"ghaziabad, hapur"
+2025-01-03,rajasthan,325601,1701.0,25.471221338324753,1701.0,kota
+2025-01-03,rajasthan,342312,2747.0,25.470722723231297,2747.0,jodhpur
+2025-01-03,odisha,758025,795.0,25.470063025210084,795.0,"jajpur, keonjhar"
+2025-01-03,rajasthan,341026,1106.0,25.45971563981043,1106.0,nagaur
+2025-01-03,odisha,768017,564.0,25.454545454545453,564.0,sambalpur
+2025-01-03,westbengal,734008,353.0,25.446943483275664,353.0,"darjeeling, jalpaiguri, kalimpong"
+2025-01-03,rajasthan,322204,417.0,25.44406779661017,417.0,"karauli, sawaimadhopur"
+2025-01-03,andhrapradesh,522111,681.0,25.442948502187814,681.0,"guntur, bapatla"
+2025-01-03,rajasthan,328025,3298.0,25.437062937062937,3298.0,dholpur
+2025-01-05,tamilnadu,600099,2110.0,25.433846742561947,2110.0,"tiruvallur, chennai"
+2025-01-03,telangana,505503,1021.0,25.42809415337889,1021.0,"jayashankarbhupalpally, karimnagar"
+2025-01-03,karnataka,591248,848.0,25.42679127725857,848.0,belagavi
+2025-01-03,bihar,841410,1704.0,25.422850412249705,1704.0,saran
+2025-01-03,tamilnadu,604408,1660.0,25.41813898704358,1660.0,"tiruvannamalai, kancheepuram"
+2025-01-03,westbengal,713339,588.0,25.41502308015107,588.0,"paschimbardhaman, purbabardhaman"
+2025-03-01,uttarakhand,249186,744.0,25.412506568575935,744.0,tehrigarhwal
+2025-01-03,uttarpradesh,272201,2457.0,25.410231660231663,2457.0,siddharthnagar
+2025-01-03,bihar,852111,2478.0,25.40536277602524,2478.0,supaul
+2025-01-03,tamilnadu,600095,1721.0,25.403802852139105,1721.0,"tiruvallur, chennai"
+2025-01-03,tamilnadu,627415,590.0,25.400302114803626,590.0,"tenkasi, tirunelveli"
+2025-01-03,rajasthan,333516,1406.0,25.394556092597302,1406.0,jhunjhunu
+2025-01-03,telangana,505472,243.0,25.391384051329055,243.0,"karimnagar, siddipet"
+2025-01-03,bihar,852124,2673.0,25.389505147791432,2673.0,"madhepura, saharsa"
+2025-01-03,telangana,505514,314.0,25.38323353293413,314.0,"karimnagar, peddapalli"
+2025-03-01,rajasthan,326033,2757.0,25.380063124671224,2757.0,jhalawar
+2025-01-03,rajasthan,313327,786.0,25.379277108433737,786.0,rajsamand
+2025-03-01,jharkhand,814152,1759.0,25.377542151920736,1759.0,"deoghar, godda"
+2025-01-03,rajasthan,333515,848.0,25.375757575757575,848.0,jhunjhunu
+2025-01-03,tamilnadu,635111,608.0,25.372128637059724,608.0,"dharmapuri, krishnagiri"
+2025-01-03,rajasthan,323304,644.0,25.366255144032923,644.0,chittorgarh
+2025-01-03,gujarat,360110,933.0,25.363513817119745,933.0,"jamnagar, rajkot"
+2025-01-03,karnataka,581212,477.0,25.361098803721756,477.0,"dharwad, haveri"
+2025-03-01,uttarpradesh,274203,1986.0,25.34779834077856,1986.0,"deoria, kushinagar"
+2025-01-03,westbengal,712134,684.0,25.341944255608432,684.0,"hooghly, paschimbardhaman, purbabardhaman"
+2025-03-01,jharkhand,816107,6996.0,25.341493879590306,6996.0,"pakur, deoghar"
+2025-01-03,westbengal,734301,701.0,25.33510496943928,701.0,"darjeeling, kalimpong"
+2025-01-07,chandigarh,160101,5977.0,25.332234518483634,5977.0,chandigarh
+2025-01-07,westbengal,722134,1239.0,25.33211009174312,1239.0,"bankura, jhargram"
+2025-01-03,tamilnadu,636109,957.0,25.329113924050635,957.0,salem
+2025-01-03,jharkhand,822101,1675.0,25.326930935839805,1675.0,palamu
+2025-01-06,chhatisgarh,497778,2030.0,25.326295585412666,2030.0,"koriya, manendragarhchirmiribharatpur"
+2025-01-06,westbengal,743329,5206.0,25.3196843055596,5206.0,"northtwentyfourparganas, southtwentyfourparganas"
+2025-01-03,andhrapradesh,515531,320.0,25.31490015360983,320.0,"ananthapuram, srisathyasai"
+2025-01-03,rajasthan,335051,2271.0,25.310381679389316,2271.0,ganganagar
+2025-01-03,maharashtra,401403,1650.0,25.304182509505704,1650.0,"palghar, thane, mumbaicity"
+2025-01-06,chhatisgarh,496551,2162.0,25.301103117505995,2162.0,"raigarh, sarangarhbilaigarh, raigad"
+2025-01-03,tamilnadu,632512,404.0,25.296500920810313,404.0,"tiruvannamalai, vellore, ranipet"
+2025-01-07,gujarat,382170,575.0,25.29325513196481,575.0,"ahmedabad, mahesana"
+2025-01-03,jharkhand,826004,2339.0,25.290181180596143,2339.0,dhanbad
+2025-01-04,andhrapradesh,533445,681.0,25.289661319073083,681.0,"eastgodavari, kakinada"
+2025-01-07,odisha,754205,500.0,25.289575289575293,500.0,"cuttack, jajpur"
+2025-01-05,puducherry,605110,1010.0,25.288315629742034,1010.0,puducherry
+2025-01-03,assam,786174,558.0,25.272465851905103,558.0,tinsukia
+2025-01-07,madhyapradesh,470235,1873.0,25.246840775063184,1873.0,sagar
+2025-01-03,andhrapradesh,531113,941.0,25.233085808580856,941.0,"anakapalli, visakhapatnam"
+2025-03-01,meghalaya,794002,782.0,25.231747527084313,782.0,"northgarohills, westgarohills, eastgarohills"
+2025-01-03,tamilnadu,627953,685.0,25.226628895184138,685.0,"tenkasi, tirunelveli"
+2025-01-03,andhrapradesh,531036,1249.0,25.22143596824301,1249.0,"anakapalli, visakhapatnam"
+2025-01-03,assam,785690,593.0,25.21899841017488,593.0,"charaideo, sibsagar"
+2025-01-06,telangana,503111,1157.0,25.210477515067222,1157.0,"kamareddy, nizamabad"
+2025-01-03,jharkhand,825301,4577.0,25.207010496306857,4577.0,hazaribagh
+2025-01-07,telangana,500058,625.0,25.205448181403135,625.0,"hyderabad, rangareddy, kvrangareddy"
+2025-03-01,telangana,507116,277.0,25.197191697191695,277.0,"bhadradrikothagudem, khammam"
+2025-01-07,westbengal,743368,4021.0,25.19703339414611,4021.0,southtwentyfourparganas
+2025-01-03,uttarpradesh,205142,866.0,25.19568277803848,866.0,"firozabad, mainpuri"
+2025-01-06,chhatisgarh,494230,676.0,25.188451033944595,676.0,"kanker, kondagaon, dhamtari, bastar, gariyaband"
+2025-01-07,karnataka,562110,1672.0,25.183431952662723,9.554285714285715,"bengalururural, bengaluruurban"
+2025-01-07,rajasthan,312403,514.0,25.169566976932416,514.0,"chittorgarh, pratapgarh"
+2025-03-01,uttarpradesh,205304,368.0,25.159183673469386,368.0,mainpuri
+2025-01-06,madhyapradesh,485775,2394.0,25.152380952380952,2394.0,"satna, maihar"
+2025-01-03,jharkhand,829127,628.0,25.15193897012079,628.0,bokaro
+2025-01-03,telangana,502300,310.0,25.147721582373563,310.0,"medak, sangareddy"
+2025-01-07,telangana,502336,518.0,25.145631067961162,518.0,"medak, siddipet"
+2025-01-03,rajasthan,322215,610.0,25.14503816793893,610.0,"karauli, sawaimadhopur"
+2025-01-03,bihar,805131,2846.0,25.143168340796322,2846.0,gaya
+2025-01-06,madhyapradesh,473443,4406.0,25.1390812445138,8.129151291512915,"ashoknagar, guna"
+2025-01-03,jharkhand,825407,1414.0,25.123462414578587,1414.0,koderma
+2025-01-06,andhrapradesh,535521,1080.0,25.11627906976744,1080.0,"parvathipurammanyam, vizianagaram"
+2025-01-04,delhi,110037,4401.0,25.105719365831973,21.679802955665025,"southwestdelhi, newdelhi"
+2025-01-03,andhrapradesh,515286,389.0,25.10479233226837,389.0,"ananthapuram, srisathyasai"
+2025-01-03,tamilnadu,636118,254.0,25.1046511627907,254.0,"namakkal, salem"
+2025-01-07,chhatisgarh,497111,4632.0,25.100175746924428,4632.0,surguja
+2025-01-04,delhi,110030,2850.0,25.097125097125097,2850.0,"southdelhi, southwestdelhi"
+2025-01-07,madhyapradesh,457993,1959.0,25.091055860510174,1959.0,"alirajpur, jhabua"
+2025-01-03,madhyapradesh,454773,687.0,25.084805653710248,687.0,"dhar, indore"
+2025-01-03,uttarpradesh,227816,1611.0,25.084462865464317,1611.0,"amethi, sultanpur"
+2025-01-03,tamilnadu,606206,973.0,25.074509803921572,973.0,"kallakurichi, viluppuram, cuddalore"
+2025-01-03,maharashtra,414502,4443.0,25.063933809702895,4443.0,ahmednagar
+2025-01-06,chhatisgarh,493996,1490.0,25.05254308532997,1490.0,"gariyaband, raipur"
+2025-01-07,delhi,110053,7234.0,25.05031132421004,4.495960223741454,"eastdelhi, northeastdelhi, shahdara"
+2025-01-03,chhatisgarh,491666,1955.0,25.047911283376397,1955.0,"rajnandgaon, mohlamanpurambagarhchowki"
+2025-01-03,telangana,500056,784.0,25.025250119104335,784.0,"hyderabad, medchalmalkajgiri"
+2025-01-03,tamilnadu,628152,362.0,25.012562814070353,362.0,thoothukkudi
+2025-01-03,jharkhand,833104,4022.0,25.00660604647548,4022.0,"westsinghbhum, eastsinghbhum"
+2025-01-05,gujarat,361001,3516.0,25.00567035079289,16.054794520547944,jamnagar
+2025-01-03,bihar,813209,4742.0,25.002961357890936,4742.0,bhagalpur
+2025-01-03,uttarpradesh,271203,762.0,25.001426533523535,762.0,balrampur
+2025-01-04,andhrapradesh,532440,1165.0,25.0,1165.0,"parvathipurammanyam, srikakulam, vizianagaram"
+2025-01-03,bihar,843102,803.0,24.989261450799912,803.0,"muzaffarpur, vaishali"
+2025-01-04,andhrapradesh,522403,1349.0,24.984834250436183,1349.0,"guntur, palnadu"
+2025-01-03,westbengal,735223,501.0,24.977948226270374,501.0,"jalpaiguri, kalimpong, darjeeling, coochbehar"
+2025-01-06,punjab,140401,3087.0,24.970090293453726,3087.0,"fatehgarhsahib, patiala, sasnagarmohali"
+2025-01-07,westbengal,721152,937.0,24.96371152962793,937.0,"purbamedinipur, paschimmedinipur"
+2025-01-03,uttarakhand,248199,763.0,24.963015647226175,763.0,dehradun
+2025-01-07,chhatisgarh,491227,5112.0,24.952408844633183,5112.0,"balod, durg"
+2025-01-03,jharkhand,814112,2170.0,24.94620486366986,2170.0,deoghar
+2025-03-01,telangana,509128,729.0,24.945708277575992,729.0,"jogulambagadwal, mahabubnagar"
+2025-01-03,odisha,764027,2265.0,24.929245283018865,2265.0,"koraput, rayagada"
+2025-01-03,jharkhand,834009,1612.0,24.927835051546396,1612.0,"ranchi, lohardaga"
+2025-01-03,tamilnadu,603202,1423.0,24.926326635754766,1423.0,"chengalpattu, kancheepuram"
+2025-01-06,telangana,500002,1572.0,24.926178725191644,1572.0,hyderabad
+2025-01-03,delhi,110064,1408.0,24.92494929006085,1408.0,"southwestdelhi, westdelhi"
+2025-01-03,mizoram,796009,1333.0,24.923652228108445,1333.0,aizawl
+2025-01-03,jharkhand,822114,9757.0,24.92097118302834,9757.0,garhwa
+2025-01-03,karnataka,577530,1262.0,24.920506329113923,1262.0,davanagere
+2025-01-03,bihar,802214,1277.0,24.918651799290423,1277.0,rohtas
+2025-01-03,uttarpradesh,209652,420.0,24.915254237288135,420.0,farrukhabad
+2025-01-03,bihar,802201,1976.0,24.895010918864436,1976.0,bhojpur
+2025-01-03,uttarpradesh,271206,2446.0,24.894829691952776,2446.0,balrampur
+2025-01-03,andhrapradesh,521230,1278.0,24.890931754440636,1278.0,"krishna, ntr"
+2025-01-06,andhrapradesh,532440,1159.0,24.871244635193133,1159.0,"parvathipurammanyam, srikakulam, vizianagaram"
+2025-01-03,andhrapradesh,517526,332.0,24.864479315263907,332.0,"chittoor, tirupati"
+2025-01-07,rajasthan,306504,2070.0,24.84414069011502,2070.0,pali
+2025-01-03,maharashtra,441101,1985.0,24.83390854184642,1985.0,nagpur
+2025-01-03,jammuandkashmir,182125,1664.0,24.826319816373374,1664.0,"udhampur, reasi"
+2025-01-03,bihar,845434,1165.0,24.823409223584353,1165.0,eastchamparan
+2025-01-03,tamilnadu,601201,2460.0,24.816753926701573,2460.0,tiruvallur
+2025-01-04,andhrapradesh,518222,2491.0,24.81484532993783,2491.0,"kurnool, nandyal"
+2025-01-03,assam,784114,569.0,24.807012195121953,569.0,"darrang, udalguri, sonitpur"
+2025-01-03,bihar,824236,2850.0,24.806876292024807,2850.0,gaya
+2025-01-03,rajasthan,301027,1674.0,24.80258764607679,1674.0,alwar
+2025-01-03,uttarpradesh,271215,1261.0,24.800831024930748,1261.0,"balrampur, gonda"
+2025-01-03,jharkhand,814146,2152.0,24.800508663169605,2152.0,"deoghar, dumka"
+2025-01-03,mizoram,796008,806.0,24.8,806.0,aizawl
+2025-01-03,tamilnadu,606753,1407.0,24.792951541850222,1407.0,tiruvannamalai
+2025-01-07,odisha,752065,552.0,24.78616120721384,552.0,"khordha, nayagarh"
+2025-01-03,punjab,151302,1528.0,24.779596048945894,1528.0,"bathinda, mansa"
+2025-01-03,uttarpradesh,212214,2859.0,24.77632733655112,2859.0,"kaushambi, prayagraj"
+2025-01-03,uttarpradesh,272271,2905.0,24.776119402985074,2905.0,"santkabirnagar, basti"
+2025-01-04,assam,781328,185.0,24.772727272727273,185.0,"baksa, barpeta, bajali"
+2025-01-03,chhatisgarh,496445,2208.0,24.770599613152804,2208.0,"raigarh, sarangarhbilaigarh, gariyaband, raigad"
+2025-01-03,rajasthan,342606,2260.0,24.765289500962535,2260.0,jodhpur
+2025-01-03,telangana,502336,510.0,24.757281553398055,510.0,"medak, siddipet"
