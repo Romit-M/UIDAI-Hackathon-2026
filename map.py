@@ -18,8 +18,14 @@ def normalize_text(s):
 
 
 master_df = pd.read_parquet("data/processed/master_dataset.parquet")
-districts_gdf = gpd.read_file("data/external/INDIA_DISTRICTS.geojson")
 detect_surgeons = pd.read_csv("data/processed/detected_surges.csv")
+districts_gdf_0 = gpd.read_file("data/external/INDIA_DISTRICTS_0.geojson")
+districts_gdf_1 = gpd.read_file("data/external/INDIA_DISTRICTS_1.geojson")
+districts_gdf = gpd.GeoDataFrame(
+    pd.concat([districts_gdf_0, districts_gdf_1], ignore_index=True),
+    crs=districts_gdf_0.crs
+)
+
 
 detect_surgeons['surge_multiplier'] = (detect_surgeons['surge_multiplier'] - detect_surgeons['surge_multiplier'].min())/(detect_surgeons['surge_multiplier'].max() - detect_surgeons['surge_multiplier'].min())
 detect_surgeons['total_updates'] = (detect_surgeons['total_updates'] - detect_surgeons['total_updates'].min())/(detect_surgeons['total_updates'].max() - detect_surgeons['total_updates'].min())
