@@ -1,0 +1,224 @@
+state,pincode,total_updates,state_contribution_pct,is_hotspot,district
+dadraandnagarhavelianddamananddiu,396230,21712.0,60.19740490185206,True,dadraandnagarhaveli
+lakshadweep,682551,1044.0,24.97010284620904,True,lakshadweep
+ladakh,194101,1617.0,22.171945701357465,True,leh
+chandigarh,160101,16916.0,15.72703607288955,True,chandigarh
+meghalaya,794104,18469.0,15.582761006395437,True,"westgarohills, ribhoi, northgarohills"
+andamanandnicobarislands,744101,2675.0,14.157933735577434,True,"northandmiddleandaman, southandaman"
+sikkim,737121,3654.0,12.852168407723962,True,"southsikkim, westsikkim, namchi"
+nagaland,797112,10629.0,10.208217283571196,True,"dimapur, niuland, chumukedima, wokha, peren, kohima"
+puducherry,605110,4987.0,7.923041481975755,True,puducherry
+arunachalpradesh,792103,4938.0,7.140378275203887,True,"changlang, namsai, lohit"
+mizoram,796321,9092.0,7.057471978141399,True,champhai
+delhi,110094,117277.0,6.441603894941168,True,"northeastdelhi, northwestdelhi, eastdelhi"
+goa,403401,3885.0,5.89341787897635,True,"northgoa, southgoa"
+uttarakhand,248001,38054.0,5.736977074102495,True,dehradun
+manipur,795133,18683.0,5.730243342882205,True,"bishnupur, churachandpur"
+tripura,799102,15889.0,5.332899245828901,True,"sepahijala, westtripura"
+uttarakhand,244713,30976.0,4.669905971708595,True,"nainital, udhamsinghnagar"
+uttarakhand,263139,30178.0,4.54960041368227,True,nainital
+punjab,143001,66044.0,3.6490998529729466,True,amritsar
+haryana,132103,63313.0,3.495040049461499,True,panipat
+haryana,121004,60928.0,3.3633819299921064,True,"faridabad, palwal"
+jammuandkashmir,192231,23430.0,3.095210416182283,True,"anantnag, kulgam, baramula"
+punjab,147001,49377.0,2.7282054908885773,True,"fatehgarhsahib, patiala"
+jammuandkashmir,191111,17428.0,2.3023186996681533,True,budgam
+jammuandkashmir,193224,16675.0,2.202843947496354,True,kupwara
+himachalpradesh,173025,7710.0,2.119774110712145,True,sirmaur
+haryana,125001,37659.0,2.078873426036842,True,hisar
+himachalpradesh,174101,7356.0,2.022445960881782,True,solan
+haryana,124001,34835.0,1.9229813801745506,True,"rohtak, jhajjar"
+chhatisgarh,491995,47357.0,1.7104763198157655,True,kawardha
+assam,782124,18912.0,1.6712220546169367,True,"nagaon, karbianglong"
+chhatisgarh,497001,45328.0,1.63719134709988,True,"balrampur, surajpur, surguja"
+gujarat,395010,55334.0,1.6349717424146841,True,surat
+punjab,141008,29110.0,1.608401924778064,True,ludhiana
+himachalpradesh,173001,5826.0,1.6017903980556365,True,sirmaur
+punjab,151001,28807.0,1.591660400105864,True,bathinda
+gujarat,394210,53719.0,1.5872528107632635,True,surat
+jharkhand,833201,35246.0,1.5413700377011608,True,"westsinghbhum, eastsinghbhum, seraikelakharsawan"
+jharkhand,831002,34537.0,1.5103642113171702,True,"eastsinghbhum, seraikelakharsawan, westsinghbhum"
+punjab,143505,27215.0,1.5036983298809694,True,gurdaspur
+chhatisgarh,493445,41452.0,1.4971950167663304,True,"mahasamund, gariyaband, balod, raipur, balodabazar"
+himachalpradesh,173027,5383.0,1.479992741629504,True,sirmaur
+jharkhand,822114,33194.0,1.4516324414529969,True,garhwa
+assam,783384,16214.0,1.4328042720790508,True,"bongaigaon, goalpara"
+gujarat,395006,44317.0,1.309448850771525,True,surat
+jharkhand,835302,28138.0,1.2305246019643437,True,"gumla, lohardaga, ranchi"
+punjab,146001,21786.0,1.2037321996982104,True,"hoshiarpur, gurdaspur"
+himachalpradesh,174303,4367.0,1.2006554528508349,True,una
+assam,781308,13256.0,1.1714107210238003,True,barpeta
+telangana,500005,23159.0,1.1393243259198622,True,"hyderabad, rangareddy, kvrangareddy"
+assam,782446,12625.0,1.1156502981989649,True,"hojai, karbianglong, nagaon, westkarbianglong"
+gujarat,395004,36490.0,1.0781819293872092,True,surat
+assam,783348,12142.0,1.072968389760937,True,dhubri
+rajasthan,302012,44452.0,1.0514799890717232,True,jaipur
+telangana,500053,21202.0,1.0430482472538933,True,hyderabad
+assam,781315,11134.0,0.9838931025859227,True,"baksa, barpeta"
+uttarpradesh,244001,105937.0,0.9685248840415969,True,"moradabad, sambhal"
+maharashtra,431001,82980.0,0.9578294186374813,True,"aurangabad, chhatrapatisambhajinagar"
+madhyapradesh,451666,58770.0,0.9442219784414698,True,"barwani, khargone"
+westbengal,743329,34170.0,0.9352921275610363,True,"northtwentyfourparganas, southtwentyfourparganas"
+rajasthan,334001,39037.0,0.923392070849295,True,bikaner
+telangana,509001,18731.0,0.9214855541605828,True,mahabubnagar
+bihar,855101,53691.0,0.9062391606514876,True,"kishanganj, araria, katihar, purnia"
+telangana,509125,18374.0,0.9039226721556002,True,"jogulambagadwal, mahabubnagar"
+telangana,500055,17951.0,0.883112870788352,True,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+telangana,500018,17860.0,0.8786360577282585,True,"hyderabad, medchalmalkajgiri, rangareddy, kvrangareddy"
+madhyapradesh,457001,53571.0,0.8606927957646414,True,"ratlam, jhabua, alirajpur"
+telangana,500008,17227.0,0.8474951492992557,True,"hyderabad, rangareddy, kvrangareddy"
+rajasthan,342001,35747.0,0.8455694944962406,True,jodhpur
+rajasthan,301001,35702.0,0.8445050519625364,True,alwar
+uttarpradesh,202001,91042.0,0.8323479284189192,True,"aligarh, hathras"
+madhyapradesh,486661,51656.0,0.8299256511548845,True,"sidhi, umaria, anuppur, singrauli"
+uttarpradesh,283203,89314.0,0.8165497559237204,True,firozabad
+gujarat,382330,26298.0,0.7770355817765093,True,"ahmedabad, gandhinagar"
+bihar,855107,45874.0,0.7742976524133717,True,"kishanganj, purnia, araria"
+westbengal,733207,28201.0,0.7719102513710502,True,"uttardinajpur, dakshindinajpur"
+madhyapradesh,451551,47614.0,0.7649852863963271,True,barwani
+uttarpradesh,247001,82733.0,0.7563832205123179,True,saharanpur
+westbengal,733134,27433.0,0.7508887601809162,True,uttardinajpur
+odisha,764043,18100.0,0.7471062017657298,True,"koraput, malkangiri"
+rajasthan,305001,31398.0,0.7426970371833431,True,ajmer
+westbengal,733202,26992.0,0.7388178257865815,True,uttardinajpur
+karnataka,560045,20826.0,0.7349243637695628,True,bengaluruurban
+westbengal,732125,26664.0,0.7298398972574618,True,malda
+bihar,854315,42839.0,0.7230705221200774,True,purnia
+madhyapradesh,486886,44970.0,0.7225057405225949,True,"singrauli, sidhi, umaria, shahdol"
+maharashtra,421302,62462.0,0.7209923011199609,True,thane
+gujarat,382721,24281.0,0.7174386250329083,True,"gandhinagar, mahesana, ahmedabad"
+gujarat,360003,24082.0,0.711558707139018,True,"rajkot, morbi"
+westbengal,742202,25812.0,0.706519180468407,True,"murshidabad, malda"
+gujarat,389151,23819.0,0.703787760374731,True,dahod
+gujarat,380001,23748.0,0.7016899002216346,True,ahmedabad
+bihar,854317,41034.0,0.6926043045980358,True,"katihar, purnia"
+madhyapradesh,450331,43085.0,0.6922205877344006,True,"burhanpur, khandwa, khargone"
+karnataka,560068,19526.0,0.6890489353195276,True,bengaluruurban
+uttarpradesh,244901,74964.0,0.6853554415104662,True,"rampur, moradabad"
+karnataka,560091,19159.0,0.6760979489801716,True,bengaluruurban
+madhyapradesh,476001,41720.0,0.6702899598532945,True,morena
+gujarat,385535,22430.0,0.6627465244218992,True,banaskantha
+gujarat,382350,22379.0,0.6612396107908017,True,"ahmedabad, gandhinagar"
+andhrapradesh,517501,26233.0,0.6588027886044923,True,"chittoor, tirupati"
+westbengal,743502,23742.0,0.6498596924949992,True,"northtwentyfourparganas, southtwentyfourparganas"
+karnataka,560064,18326.0,0.6467023859810337,True,bengaluruurban
+rajasthan,306401,25990.0,0.6147746989106022,True,pali
+rajasthan,304001,25617.0,0.6059516530201191,True,tonk
+karnataka,563101,17166.0,0.6057673882871561,True,kolar
+andhrapradesh,517425,24058.0,0.6041808976574115,True,chittoor
+madhyapradesh,473001,37342.0,0.599951286693234,True,"guna, ashoknagar"
+westbengal,743338,21803.0,0.5967859015865751,True,southtwentyfourparganas
+odisha,764073,14333.0,0.5916173033098455,True,nabarangapur
+odisha,764072,14206.0,0.5863751769217657,True,nabarangapur
+bihar,855113,34547.0,0.5831115882182664,True,katihar
+westbengal,733210,21272.0,0.5822515111933966,True,uttardinajpur
+maharashtra,431122,49589.0,0.5724006150977833,True,beed
+maharashtra,423203,49211.0,0.5680374008263328,True,nashik
+westbengal,743503,20660.0,0.5655000104012587,True,southtwentyfourparganas
+bihar,845438,33423.0,0.564139827279333,True,westchamparan
+rajasthan,341001,23779.0,0.5624750890879265,True,nagaur
+karnataka,581115,15828.0,0.5585509857747354,True,haveri
+karnataka,580024,15683.0,0.5534341110630008,True,dharwad
+karnataka,583101,15574.0,0.5495876328314209,True,"ballari, vijayanagara"
+andhrapradesh,517325,21855.0,0.5488558283441154,True,"annamayya, chittoor"
+karnataka,585104,15543.0,0.5484936803068431,True,kalaburagi
+westbengal,742135,20017.0,0.5478999858761856,True,murshidabad
+westbengal,733208,19930.0,0.5455186450773033,True,uttardinajpur
+odisha,764074,13203.0,0.5449747614316537,True,nabarangapur
+karnataka,560032,15242.0,0.5378717541811042,True,bengaluruurban
+rajasthan,321001,22663.0,0.5360769142520576,True,"bharatpur, deeg"
+rajasthan,344001,22639.0,0.5355092115674153,True,barmer
+karnataka,561203,14941.0,0.5272498280553652,True,"bengalururural, bengaluruurban"
+westbengal,743355,19094.0,0.5226358760213762,True,southtwentyfourparganas
+maharashtra,400612,45256.0,0.5223852515046741,True,"thane, mumbaicity"
+karnataka,560026,14743.0,0.5202626474145138,True,bengaluruurban
+karnataka,560100,14646.0,0.5168396346763189,True,bengaluruurban
+andhrapradesh,515001,20523.0,0.5154046289227308,True,ananthapuram
+kerala,673639,7985.0,0.5130992932274105,True,"malappuram, kozhikode"
+uttarpradesh,201102,55934.0,0.5113744099227152,True,"ghaziabad, hapur"
+westbengal,743349,18664.0,0.5108660306935668,True,southtwentyfourparganas
+bihar,854311,30260.0,0.5107522117545588,True,araria
+andhrapradesh,518360,20282.0,0.5093522722706634,True,kurnool
+bihar,854318,29635.0,0.500202967460223,True,"araria, purnia"
+kerala,673638,7758.0,0.4985127510154354,True,malappuram
+karnataka,584128,14097.0,0.4974660883539579,True,raichur
+odisha,764076,12027.0,0.4964334966097476,True,nabarangapur
+uttarpradesh,262122,53528.0,0.4893776489137751,True,"pilibhit, bareilly"
+andhrapradesh,533101,19332.0,0.48549443484550164,True,eastgodavari
+bihar,843302,28694.0,0.48432002525067114,True,sitamarhi
+maharashtra,421301,41569.0,0.47982659801568406,True,thane
+andhrapradesh,518501,18228.0,0.45776911640615586,True,"kurnool, nandyal"
+uttarpradesh,250002,48865.0,0.4467463535751685,True,meerut
+andhrapradesh,518002,17749.0,0.4457397436412585,True,kurnool
+andhrapradesh,518001,17729.0,0.4452374733796761,True,kurnool
+andhrapradesh,518301,17641.0,0.4430274842287138,True,kurnool
+uttarpradesh,201001,48338.0,0.44192827666257023,True,"ghaziabad, hapur"
+bihar,854304,26112.0,0.4407389872219114,True,"araria, purnia, madhepura, katihar"
+uttarpradesh,262001,48051.0,0.4393043903743052,True,"pilibhit, bareilly"
+andhrapradesh,517247,17427.0,0.4376531924297826,True,"chittoor, annamayya"
+maharashtra,400043,37512.0,0.43299707341442756,True,"mumbaicity, mumbaisuburban"
+uttarpradesh,242001,47357.0,0.4329595224856084,True,shahjahanpur
+odisha,766105,10355.0,0.4274190452643167,True,nuapada
+maharashtra,401107,36951.0,0.42652150937663985,True,"thane, mumbaicity"
+maharashtra,413512,36891.0,0.42582893568275876,True,latur
+maharashtra,410206,36172.0,0.41752959425108427,True,"raigad, raigarh"
+odisha,764044,10077.0,0.4159441544305668,True,"koraput, malkangiri"
+tamilnadu,600053,18068.0,0.40411586235278724,True,"tiruvallur, chennai"
+odisha,764002,9772.0,0.40335479578202826,True,koraput
+uttarpradesh,245101,43902.0,0.4013723199561454,True,"ghaziabad, hapur, gautambuddhanagar"
+andhrapradesh,515865,15915.0,0.3996815606541568,True,ananthapuram
+odisha,765015,9680.0,0.39955734989460023,True,"rayagada, koraput"
+uttarpradesh,201301,43600.0,0.39861129675385953,True,gautambuddhanagar
+andhrapradesh,522601,15505.0,0.38938502029171856,True,"guntur, palnadu"
+odisha,764052,9365.0,0.38655522538873255,True,malkangiri
+kerala,676123,5973.0,0.38381240807104866,True,malappuram
+uttarpradesh,208001,41974.0,0.3837456552740023,True,"kanpurdehat, kanpurnagar"
+andhrapradesh,522001,15190.0,0.3814742636717965,True,guntur
+uttarpradesh,203001,41535.0,0.37973211492365955,True,bulandshahr
+andhrapradesh,516360,15074.0,0.37856109615461886,True,"cuddapah, ysrkadapa"
+kerala,676304,5804.0,0.3729528237810759,True,malappuram
+uttarpradesh,250001,40766.0,0.37270156246485864,True,"meerut, baghpat"
+uttarpradesh,251001,39963.0,0.36536016633427726,True,muzaffarnagar
+kerala,673641,5675.0,0.36466355529938077,True,malappuram
+kerala,673612,5607.0,0.3602940184253089,True,kozhikode
+kerala,673572,5590.0,0.3592016342067909,True,kozhikode
+kerala,676503,5482.0,0.35226178152444143,True,malappuram
+kerala,671321,5400.0,0.34699263411747244,True,kasaragod
+kerala,676552,5388.0,0.3462215393749891,True,malappuram
+kerala,676306,5363.0,0.34461509199481566,True,malappuram
+maharashtra,425412,29813.0,0.34412832559459183,True,"nandurbar, dhule"
+maharashtra,431203,29590.0,0.3415542600323339,True,jalna
+andhrapradesh,518003,13567.0,0.3407150319443887,True,kurnool
+kerala,673579,5279.0,0.3392174287974328,True,wayanad
+kerala,695501,5271.0,0.33870336563577724,True,thiruvananthapuram
+maharashtra,431715,29114.0,0.3360598420608777,True,nanded
+andhrapradesh,522503,13361.0,0.3355416482500904,True,guntur
+uttarpradesh,274304,36624.0,0.334833489273242,True,"kushinagar, deoria"
+kerala,676551,5196.0,0.3338840234952568,True,malappuram
+andhrapradesh,518222,13218.0,0.3319504158797766,True,"kurnool, nandyal"
+maharashtra,445204,28672.0,0.33095788251595404,True,yavatmal
+andhrapradesh,524002,13172.0,0.3307951942781372,True,sripottisriramulunellore
+maharashtra,422003,28601.0,0.3301383369781948,True,nashik
+kerala,670645,5133.0,0.32983577609721965,True,wayanad
+maharashtra,401209,28568.0,0.32975742144656023,True,"palghar, thane, mumbaicity"
+tamilnadu,600077,14738.0,0.32963579695347456,True,"tiruvallur, chennai"
+maharashtra,431712,27306.0,0.3151902880852623,True,"nanded, hingoli"
+tamilnadu,635109,13670.0,0.30574849669928056,True,"dharmapuri, krishnagiri"
+tamilnadu,631502,13109.0,0.293200954150027,True,kancheepuram
+tamilnadu,600012,12820.0,0.28673706859435094,True,chennai
+tamilnadu,625016,12803.0,0.2863568400322523,True,madurai
+tamilnadu,600039,12499.0,0.27955745868648924,True,chennai
+tamilnadu,600021,12245.0,0.27387639664101615,True,chennai
+tamilnadu,625009,11973.0,0.26779273964743866,True,"madurai, sivaganga"
+tamilnadu,625531,11715.0,0.2620222120579424,True,theni
+tamilnadu,600019,11319.0,0.2531651231996457,True,"tiruvallur, chennai"
+tamilnadu,600081,11243.0,0.25146527786320494,True,chennai
+tamilnadu,637411,11164.0,0.24969833336874678,True,namakkal
+tamilnadu,600100,11030.0,0.24670123764396965,True,"chengalpattu, chennai, kancheepuram"
+tamilnadu,641603,10962.0,0.24518032339557524,True,"tiruppur, coimbatore"
+tamilnadu,626001,10932.0,0.2445093318154013,True,virudhunagar
+tamilnadu,641001,10555.0,0.23607720429121484,True,coimbatore
+tamilnadu,600099,10327.0,0.2309776682818925,True,"tiruvallur, chennai"
+tamilnadu,625020,10205.0,0.22824896918918497,True,"madurai, sivaganga"
+tamilnadu,628002,10135.0,0.22668332216877898,True,thoothukkudi
+tamilnadu,635001,9751.0,0.21809462994255197,True,"krishnagiri, dharmapuri"
